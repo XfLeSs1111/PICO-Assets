@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: f28abfa101c62434291551c7312fce82
+timeCreated: 1669183233
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _pym_g
+    100002: DFM_jzh
+    100004: DFM_jzz
+    100006: DFM_pyh
+    100008: DFM_pyx
+    100010: DFM_sg2
+    100012: DFM_sg7
+    100014: DFM_sg7 1
+    100016: DFM_syyc2
+    100018: DFMSX_jjd
+    100020: DFMSX_lxg5
+    100022: DFMSX_lxg8
+    100024: DFMSX_pym01
+    100026: DFMSX_pym01 1
+    100028: DFMSX_pym010
+    100030: DFMSX_pym011
+    100032: DFMSX_pym012
+    100034: DFMSX_pym013
+    100036: DFMSX_pym014
+    100038: DFMSX_pym02
+    100040: DFMSX_pym02 1
+    100042: DFMSX_pym03
+    100044: DFMSX_pym03 1
+    100046: DFMSX_pym04
+    100048: DFMSX_pym04 1
+    100050: DFMSX_pym05
+    100052: DFMSX_pym05 1
+    100054: DFMSX_pym06
+    100056: DFMSX_pym07
+    100058: DFMSX_pym08
+    100060: DFMSX_pym09
+    100062: DFMSX_pym10
+    100064: DFMSX_pym11
+    100066: DFMSX_pym24
+    100068: DFMSX_pym25
+    100070: DFMSX_pym28
+    100072: DFMSX_pym29
+    100074: DFMSX_pym30
+    100076: DFMSX_sb
+    100078: DFMSX_sb1
+    100080: DFMSX_sg1
+    100082: DFMSX_tbb
+    100084: //RootNode
+    100086: dj_dg
+    100088: dj_dg_bl
+    100090: dj_dg_hs
+    100092: dj_dg_yt
+    100094: dj_ps
+    100096: dj_ps_bq
+    100098: dj_ps_pz
+    100100: dj_ps_yt
+    100102: Dpym_zt_yt
+    100104: jjd_gz
+    100106: jjd_zt
+    100108: jjd_zt_dt
+    100110: jjd_zt_dx
+    100112: jjd_zt_ps
+    100114: jjd_zt_yw
+    100116: jl1
+    100118: jl1 1
+    100120: jl1 2
+    100122: jl10
+    100124: jl10 1
+    100126: jl10 2
+    100128: jl11
+    100130: jl11 1
+    100132: jl11 2
+    100134: jl12
+    100136: jl12 1
+    100138: jl12 2
+    100140: jl13
+    100142: jl13 1
+    100144: jl13 2
+    100146: jl14
+    100148: jl14 1
+    100150: jl14 2
+    100152: jl15
+    100154: jl15 1
+    100156: jl15 2
+    100158: jl16
+    100160: jl16 1
+    100162: jl16 2
+    100164: jl17
+    100166: jl17 1
+    100168: jl17 2
+    100170: jl18
+    100172: jl18 1
+    100174: jl18 2
+    100176: jl19
+    100178: jl19 1
+    100180: jl19 2
+    100182: jl2
+    100184: jl2 1
+    100186: jl2 2
+    100188: jl20
+    100190: jl20 1
+    100192: jl20 2
+    100194: jl21
+    100196: jl21 1
+    100198: jl21 2
+    100200: jl22
+    100202: jl22 1
+    100204: jl22 2
+    100206: jl23
+    100208: jl23 1
+    100210: jl23 2
+    100212: jl24
+    100214: jl24 1
+    100216: jl24 2
+    100218: jl25
+    100220: jl25 1
+    100222: jl25 2
+    100224: jl26
+    100226: jl26 1
+    100228: jl26 2
+    100230: jl27
+    100232: jl27 1
+    100234: jl27 2
+    100236: jl28
+    100238: jl28 1
+    100240: jl28 2
+    100242: jl29
+    100244: jl29 1
+    100246: jl29 2
+    100248: jl3
+    100250: jl3 1
+    100252: jl3 2
+    100254: jl30
+    100256: jl30 1
+    100258: jl30 2
+    100260: jl4
+    100262: jl4 1
+    100264: jl4 2
+    100266: jl5
+    100268: jl5 1
+    100270: jl5 2
+    100272: jl6
+    100274: jl6 1
+    100276: jl6 2
+    100278: jl7
+    100280: jl7 1
+    100282: jl7 2
+    100284: jl8
+    100286: jl8 1
+    100288: jl8 2
+    100290: jl9
+    100292: jl9 1
+    100294: jl9 2
+    100296: pbtb_pym
+    100298: pym_10g
+    100300: pym_10g1
+    100302: pym_g
+    100304: pym_g 1
+    100306: pym_g 10
+    100308: pym_g 11
+    100310: pym_g 12
+    100312: pym_g 13
+    100314: pym_g 14
+    100316: pym_g 15
+    100318: pym_g 16
+    100320: pym_g 17
+    100322: pym_g 18
+    100324: pym_g 19
+    100326: pym_g 2
+    100328: pym_g 20
+    100330: pym_g 21
+    100332: pym_g 22
+    100334: pym_g 23
+    100336: pym_g 24
+    100338: pym_g 3
+    100340: pym_g 4
+    100342: pym_g 5
+    100344: pym_g 6
+    100346: pym_g 7
+    100348: pym_g 8
+    100350: pym_g 9
+    100352: pym_pyh
+    100354: pym_pyh 1
+    100356: pym_pyh 2
+    100358: pym_pyh_1
+    100360: pym_pyh_jl
+    100362: pym_pyh_jl 1
+    100364: pym_pyh_jl 2
+    100366: pym_zt
+    100368: pym_zt 1
+    100370: pym_zt 10
+    100372: pym_zt 11
+    100374: pym_zt 12
+    100376: pym_zt 13
+    100378: pym_zt 14
+    100380: pym_zt 15
+    100382: pym_zt 16
+    100384: pym_zt 17
+    100386: pym_zt 18
+    100388: pym_zt 19
+    100390: pym_zt 2
+    100392: pym_zt 20
+    100394: pym_zt 21
+    100396: pym_zt 22
+    100398: pym_zt 23
+    100400: pym_zt 24
+    100402: pym_zt 25
+    100404: pym_zt 3
+    100406: pym_zt 4
+    100408: pym_zt 5
+    100410: pym_zt 6
+    100412: pym_zt 7
+    100414: pym_zt 8
+    100416: pym_zt 9
+    100418: pym_zt_jl
+    100420: pym_zt_jl 1
+    100422: pym_zt_jl 10
+    100424: pym_zt_jl 11
+    100426: pym_zt_jl 12
+    100428: pym_zt_jl 2
+    100430: pym_zt_jl 3
+    100432: pym_zt_jl 4
+    100434: pym_zt_jl 5
+    100436: pym_zt_jl 6
+    100438: pym_zt_jl 7
+    100440: pym_zt_jl 8
+    100442: pym_zt_jl 9
+    100444: pym_zt_yt
+    100446: pym_zt_yt 1
+    100448: pym_zt_yt 10
+    100450: pym_zt_yt 11
+    100452: pym_zt_yt 12
+    100454: pym_zt_yt 13
+    100456: pym_zt_yt 14
+    100458: pym_zt_yt 15
+    100460: pym_zt_yt 16
+    100462: pym_zt_yt 17
+    100464: pym_zt_yt 18
+    100466: pym_zt_yt 19
+    100468: pym_zt_yt 2
+    100470: pym_zt_yt 20
+    100472: pym_zt_yt 21
+    100474: pym_zt_yt 22
+    100476: pym_zt_yt 23
+    100478: pym_zt_yt 24
+    100480: pym_zt_yt 3
+    100482: pym_zt_yt 4
+    100484: pym_zt_yt 5
+    100486: pym_zt_yt 6
+    100488: pym_zt_yt 7
+    100490: pym_zt_yt 8
+    100492: pym_zt_yt 9
+    100494: pym_zt_yt1
+    100496: pym_zt_yt1 1
+    100498: pym_zt_yt1 2
+    100500: pym_zt_yt1 3
+    100502: pym_zt_yt1 4
+    100504: pym_zt_yt1 5
+    100506: pym_zt_yt1 6
+    100508: pym_zt_yt1 7
+    100510: pym_zt_yt1 8
+    100512: pym_zt_yt1 9
+    100514: pyn_zt_bl
+    100516: pyn_zt_bl 1
+    100518: pyn_zt_bl 10
+    100520: pyn_zt_bl 11
+    100522: pyn_zt_bl 12
+    100524: pyn_zt_bl 13
+    100526: pyn_zt_bl 14
+    100528: pyn_zt_bl 15
+    100530: pyn_zt_bl 16
+    100532: pyn_zt_bl 17
+    100534: pyn_zt_bl 18
+    100536: pyn_zt_bl 19
+    100538: pyn_zt_bl 2
+    100540: pyn_zt_bl 20
+    100542: pyn_zt_bl 21
+    100544: pyn_zt_bl 22
+    100546: pyn_zt_bl 23
+    100548: pyn_zt_bl 24
+    100550: pyn_zt_bl 25
+    100552: pyn_zt_bl 3
+    100554: pyn_zt_bl 4
+    100556: pyn_zt_bl 5
+    100558: pyn_zt_bl 6
+    100560: pyn_zt_bl 7
+    100562: pyn_zt_bl 8
+    100564: pyn_zt_bl 9
+    100566: pyx_blm
+    100568: pyx_blm_bl
+    100570: pyx_blm_js
+    100572: pyx_d
+    100574: pyx_kg
+    100576: pyx_m
+    100578: pyx_p
+    100580: pyx_pm
+    100582: pyx_s
+    100584: pyx_sz
+    100586: pyx_tp
+    100588: pyx_x
+    100590: pyx_zt
+    100592: qh_b
+    100594: qh_b_1
+    100596: qh_b_2
+    100598: qh_b_3
+    100600: qh_b_4
+    100602: qh_b_qt
+    100604: qh_b_qt_01
+    100606: qh_b_zy
+    100608: sb1_bl
+    100610: sb1_bq
+    100612: sb_bs
+    100614: sg_gz
+    100616: sg_gz 1
+    100618: sg_gz 2
+    100620: sg_zt
+    100622: sg_zt 1
+    100624: sg_zt 2
+    100626: sg_zt_bq
+    100628: sg_zt_bq 1
+    100630: sg_zt_g
+    100632: sg_zt_g 1
+    100634: sg_zt_g 2
+    100636: sg_zt_kd
+    100638: sg_zt_kd 1
+    100640: sg_zt_kd 2
+    100642: sg_zt_yt
+    100644: sg_zt_yt 1
+    100646: sg_zt_yt1
+    100648: sgj
+    100650: SWSYSAQ_dj
+    100652: syyc_an
+    100654: syyc_an1
+    100656: syyc_an10
+    100658: syyc_an11
+    100660: syyc_an2
+    100662: syyc_an3
+    100664: syyc_an4
+    100666: syyc_an5
+    100668: syyc_an6
+    100670: syyc_an7
+    100672: syyc_an8
+    100674: syyc_an9
+    100676: syyc_bxg
+    100678: syyc_bxg2
+    100680: syyc_kg
+    100682: syyc_m
+    100684: syyc_m1
+    100686: syyc_m2
+    100688: syyc_th
+    100690: syyc_zt
+    100692: yy1q_sz
+    100694: yyq1_sz1
+    100696: yyq1_sz2
+    100698: yyq1_sz3
+    100700: yyq1_sz4
+    100702: yyq_ad1
+    100704: yyq_ad2
+    100706: yyq_zt
+    100708: yyzz_yyq2
+    100710: yyzz_yyqj
+    400000: _pym_g
+    400002: DFM_jzh
+    400004: DFM_jzz
+    400006: DFM_pyh
+    400008: DFM_pyx
+    400010: DFM_sg2
+    400012: DFM_sg7
+    400014: DFM_sg7 1
+    400016: DFM_syyc2
+    400018: DFMSX_jjd
+    400020: DFMSX_lxg5
+    400022: DFMSX_lxg8
+    400024: DFMSX_pym01
+    400026: DFMSX_pym01 1
+    400028: DFMSX_pym010
+    400030: DFMSX_pym011
+    400032: DFMSX_pym012
+    400034: DFMSX_pym013
+    400036: DFMSX_pym014
+    400038: DFMSX_pym02
+    400040: DFMSX_pym02 1
+    400042: DFMSX_pym03
+    400044: DFMSX_pym03 1
+    400046: DFMSX_pym04
+    400048: DFMSX_pym04 1
+    400050: DFMSX_pym05
+    400052: DFMSX_pym05 1
+    400054: DFMSX_pym06
+    400056: DFMSX_pym07
+    400058: DFMSX_pym08
+    400060: DFMSX_pym09
+    400062: DFMSX_pym10
+    400064: DFMSX_pym11
+    400066: DFMSX_pym24
+    400068: DFMSX_pym25
+    400070: DFMSX_pym28
+    400072: DFMSX_pym29
+    400074: DFMSX_pym30
+    400076: DFMSX_sb
+    400078: DFMSX_sb1
+    400080: DFMSX_sg1
+    400082: DFMSX_tbb
+    400084: //RootNode
+    400086: dj_dg
+    400088: dj_dg_bl
+    400090: dj_dg_hs
+    400092: dj_dg_yt
+    400094: dj_ps
+    400096: dj_ps_bq
+    400098: dj_ps_pz
+    400100: dj_ps_yt
+    400102: Dpym_zt_yt
+    400104: jjd_gz
+    400106: jjd_zt
+    400108: jjd_zt_dt
+    400110: jjd_zt_dx
+    400112: jjd_zt_ps
+    400114: jjd_zt_yw
+    400116: jl1
+    400118: jl1 1
+    400120: jl1 2
+    400122: jl10
+    400124: jl10 1
+    400126: jl10 2
+    400128: jl11
+    400130: jl11 1
+    400132: jl11 2
+    400134: jl12
+    400136: jl12 1
+    400138: jl12 2
+    400140: jl13
+    400142: jl13 1
+    400144: jl13 2
+    400146: jl14
+    400148: jl14 1
+    400150: jl14 2
+    400152: jl15
+    400154: jl15 1
+    400156: jl15 2
+    400158: jl16
+    400160: jl16 1
+    400162: jl16 2
+    400164: jl17
+    400166: jl17 1
+    400168: jl17 2
+    400170: jl18
+    400172: jl18 1
+    400174: jl18 2
+    400176: jl19
+    400178: jl19 1
+    400180: jl19 2
+    400182: jl2
+    400184: jl2 1
+    400186: jl2 2
+    400188: jl20
+    400190: jl20 1
+    400192: jl20 2
+    400194: jl21
+    400196: jl21 1
+    400198: jl21 2
+    400200: jl22
+    400202: jl22 1
+    400204: jl22 2
+    400206: jl23
+    400208: jl23 1
+    400210: jl23 2
+    400212: jl24
+    400214: jl24 1
+    400216: jl24 2
+    400218: jl25
+    400220: jl25 1
+    400222: jl25 2
+    400224: jl26
+    400226: jl26 1
+    400228: jl26 2
+    400230: jl27
+    400232: jl27 1
+    400234: jl27 2
+    400236: jl28
+    400238: jl28 1
+    400240: jl28 2
+    400242: jl29
+    400244: jl29 1
+    400246: jl29 2
+    400248: jl3
+    400250: jl3 1
+    400252: jl3 2
+    400254: jl30
+    400256: jl30 1
+    400258: jl30 2
+    400260: jl4
+    400262: jl4 1
+    400264: jl4 2
+    400266: jl5
+    400268: jl5 1
+    400270: jl5 2
+    400272: jl6
+    400274: jl6 1
+    400276: jl6 2
+    400278: jl7
+    400280: jl7 1
+    400282: jl7 2
+    400284: jl8
+    400286: jl8 1
+    400288: jl8 2
+    400290: jl9
+    400292: jl9 1
+    400294: jl9 2
+    400296: pbtb_pym
+    400298: pym_10g
+    400300: pym_10g1
+    400302: pym_g
+    400304: pym_g 1
+    400306: pym_g 10
+    400308: pym_g 11
+    400310: pym_g 12
+    400312: pym_g 13
+    400314: pym_g 14
+    400316: pym_g 15
+    400318: pym_g 16
+    400320: pym_g 17
+    400322: pym_g 18
+    400324: pym_g 19
+    400326: pym_g 2
+    400328: pym_g 20
+    400330: pym_g 21
+    400332: pym_g 22
+    400334: pym_g 23
+    400336: pym_g 24
+    400338: pym_g 3
+    400340: pym_g 4
+    400342: pym_g 5
+    400344: pym_g 6
+    400346: pym_g 7
+    400348: pym_g 8
+    400350: pym_g 9
+    400352: pym_pyh
+    400354: pym_pyh 1
+    400356: pym_pyh 2
+    400358: pym_pyh_1
+    400360: pym_pyh_jl
+    400362: pym_pyh_jl 1
+    400364: pym_pyh_jl 2
+    400366: pym_zt
+    400368: pym_zt 1
+    400370: pym_zt 10
+    400372: pym_zt 11
+    400374: pym_zt 12
+    400376: pym_zt 13
+    400378: pym_zt 14
+    400380: pym_zt 15
+    400382: pym_zt 16
+    400384: pym_zt 17
+    400386: pym_zt 18
+    400388: pym_zt 19
+    400390: pym_zt 2
+    400392: pym_zt 20
+    400394: pym_zt 21
+    400396: pym_zt 22
+    400398: pym_zt 23
+    400400: pym_zt 24
+    400402: pym_zt 25
+    400404: pym_zt 3
+    400406: pym_zt 4
+    400408: pym_zt 5
+    400410: pym_zt 6
+    400412: pym_zt 7
+    400414: pym_zt 8
+    400416: pym_zt 9
+    400418: pym_zt_jl
+    400420: pym_zt_jl 1
+    400422: pym_zt_jl 10
+    400424: pym_zt_jl 11
+    400426: pym_zt_jl 12
+    400428: pym_zt_jl 2
+    400430: pym_zt_jl 3
+    400432: pym_zt_jl 4
+    400434: pym_zt_jl 5
+    400436: pym_zt_jl 6
+    400438: pym_zt_jl 7
+    400440: pym_zt_jl 8
+    400442: pym_zt_jl 9
+    400444: pym_zt_yt
+    400446: pym_zt_yt 1
+    400448: pym_zt_yt 10
+    400450: pym_zt_yt 11
+    400452: pym_zt_yt 12
+    400454: pym_zt_yt 13
+    400456: pym_zt_yt 14
+    400458: pym_zt_yt 15
+    400460: pym_zt_yt 16
+    400462: pym_zt_yt 17
+    400464: pym_zt_yt 18
+    400466: pym_zt_yt 19
+    400468: pym_zt_yt 2
+    400470: pym_zt_yt 20
+    400472: pym_zt_yt 21
+    400474: pym_zt_yt 22
+    400476: pym_zt_yt 23
+    400478: pym_zt_yt 24
+    400480: pym_zt_yt 3
+    400482: pym_zt_yt 4
+    400484: pym_zt_yt 5
+    400486: pym_zt_yt 6
+    400488: pym_zt_yt 7
+    400490: pym_zt_yt 8
+    400492: pym_zt_yt 9
+    400494: pym_zt_yt1
+    400496: pym_zt_yt1 1
+    400498: pym_zt_yt1 2
+    400500: pym_zt_yt1 3
+    400502: pym_zt_yt1 4
+    400504: pym_zt_yt1 5
+    400506: pym_zt_yt1 6
+    400508: pym_zt_yt1 7
+    400510: pym_zt_yt1 8
+    400512: pym_zt_yt1 9
+    400514: pyn_zt_bl
+    400516: pyn_zt_bl 1
+    400518: pyn_zt_bl 10
+    400520: pyn_zt_bl 11
+    400522: pyn_zt_bl 12
+    400524: pyn_zt_bl 13
+    400526: pyn_zt_bl 14
+    400528: pyn_zt_bl 15
+    400530: pyn_zt_bl 16
+    400532: pyn_zt_bl 17
+    400534: pyn_zt_bl 18
+    400536: pyn_zt_bl 19
+    400538: pyn_zt_bl 2
+    400540: pyn_zt_bl 20
+    400542: pyn_zt_bl 21
+    400544: pyn_zt_bl 22
+    400546: pyn_zt_bl 23
+    400548: pyn_zt_bl 24
+    400550: pyn_zt_bl 25
+    400552: pyn_zt_bl 3
+    400554: pyn_zt_bl 4
+    400556: pyn_zt_bl 5
+    400558: pyn_zt_bl 6
+    400560: pyn_zt_bl 7
+    400562: pyn_zt_bl 8
+    400564: pyn_zt_bl 9
+    400566: pyx_blm
+    400568: pyx_blm_bl
+    400570: pyx_blm_js
+    400572: pyx_d
+    400574: pyx_kg
+    400576: pyx_m
+    400578: pyx_p
+    400580: pyx_pm
+    400582: pyx_s
+    400584: pyx_sz
+    400586: pyx_tp
+    400588: pyx_x
+    400590: pyx_zt
+    400592: qh_b
+    400594: qh_b_1
+    400596: qh_b_2
+    400598: qh_b_3
+    400600: qh_b_4
+    400602: qh_b_qt
+    400604: qh_b_qt_01
+    400606: qh_b_zy
+    400608: sb1_bl
+    400610: sb1_bq
+    400612: sb_bs
+    400614: sg_gz
+    400616: sg_gz 1
+    400618: sg_gz 2
+    400620: sg_zt
+    400622: sg_zt 1
+    400624: sg_zt 2
+    400626: sg_zt_bq
+    400628: sg_zt_bq 1
+    400630: sg_zt_g
+    400632: sg_zt_g 1
+    400634: sg_zt_g 2
+    400636: sg_zt_kd
+    400638: sg_zt_kd 1
+    400640: sg_zt_kd 2
+    400642: sg_zt_yt
+    400644: sg_zt_yt 1
+    400646: sg_zt_yt1
+    400648: sgj
+    400650: SWSYSAQ_dj
+    400652: syyc_an
+    400654: syyc_an1
+    400656: syyc_an10
+    400658: syyc_an11
+    400660: syyc_an2
+    400662: syyc_an3
+    400664: syyc_an4
+    400666: syyc_an5
+    400668: syyc_an6
+    400670: syyc_an7
+    400672: syyc_an8
+    400674: syyc_an9
+    400676: syyc_bxg
+    400678: syyc_bxg2
+    400680: syyc_kg
+    400682: syyc_m
+    400684: syyc_m1
+    400686: syyc_m2
+    400688: syyc_th
+    400690: syyc_zt
+    400692: yy1q_sz
+    400694: yyq1_sz1
+    400696: yyq1_sz2
+    400698: yyq1_sz3
+    400700: yyq1_sz4
+    400702: yyq_ad1
+    400704: yyq_ad2
+    400706: yyq_zt
+    400708: yyzz_yyq2
+    400710: yyzz_yyqj
+    2300000: _pym_g
+    2300002: DFM_jzh
+    2300004: DFM_jzz
+    2300006: DFMSX_tbb
+    2300008: dj_dg_bl
+    2300010: dj_dg_hs
+    2300012: dj_dg_yt
+    2300014: dj_ps_bq
+    2300016: dj_ps_pz
+    2300018: dj_ps_yt
+    2300020: Dpym_zt_yt
+    2300022: jjd_gz
+    2300024: jjd_zt_dt
+    2300026: jjd_zt_dx
+    2300028: jjd_zt_ps
+    2300030: jjd_zt_yw
+    2300032: jl1
+    2300034: jl1 1
+    2300036: jl1 2
+    2300038: jl10
+    2300040: jl10 1
+    2300042: jl10 2
+    2300044: jl11
+    2300046: jl11 1
+    2300048: jl11 2
+    2300050: jl12
+    2300052: jl12 1
+    2300054: jl12 2
+    2300056: jl13
+    2300058: jl13 1
+    2300060: jl13 2
+    2300062: jl14
+    2300064: jl14 1
+    2300066: jl14 2
+    2300068: jl15
+    2300070: jl15 1
+    2300072: jl15 2
+    2300074: jl16
+    2300076: jl16 1
+    2300078: jl16 2
+    2300080: jl17
+    2300082: jl17 1
+    2300084: jl17 2
+    2300086: jl18
+    2300088: jl18 1
+    2300090: jl18 2
+    2300092: jl19
+    2300094: jl19 1
+    2300096: jl19 2
+    2300098: jl2
+    2300100: jl2 1
+    2300102: jl2 2
+    2300104: jl20
+    2300106: jl20 1
+    2300108: jl20 2
+    2300110: jl21
+    2300112: jl21 1
+    2300114: jl21 2
+    2300116: jl22
+    2300118: jl22 1
+    2300120: jl22 2
+    2300122: jl23
+    2300124: jl23 1
+    2300126: jl23 2
+    2300128: jl24
+    2300130: jl24 1
+    2300132: jl24 2
+    2300134: jl25
+    2300136: jl25 1
+    2300138: jl25 2
+    2300140: jl26
+    2300142: jl26 1
+    2300144: jl26 2
+    2300146: jl27
+    2300148: jl27 1
+    2300150: jl27 2
+    2300152: jl28
+    2300154: jl28 1
+    2300156: jl28 2
+    2300158: jl29
+    2300160: jl29 1
+    2300162: jl29 2
+    2300164: jl3
+    2300166: jl3 1
+    2300168: jl3 2
+    2300170: jl30
+    2300172: jl30 1
+    2300174: jl30 2
+    2300176: jl4
+    2300178: jl4 1
+    2300180: jl4 2
+    2300182: jl5
+    2300184: jl5 1
+    2300186: jl5 2
+    2300188: jl6
+    2300190: jl6 1
+    2300192: jl6 2
+    2300194: jl7
+    2300196: jl7 1
+    2300198: jl7 2
+    2300200: jl8
+    2300202: jl8 1
+    2300204: jl8 2
+    2300206: jl9
+    2300208: jl9 1
+    2300210: jl9 2
+    2300212: pym_g
+    2300214: pym_g 1
+    2300216: pym_g 10
+    2300218: pym_g 11
+    2300220: pym_g 12
+    2300222: pym_g 13
+    2300224: pym_g 14
+    2300226: pym_g 15
+    2300228: pym_g 16
+    2300230: pym_g 17
+    2300232: pym_g 18
+    2300234: pym_g 19
+    2300236: pym_g 2
+    2300238: pym_g 20
+    2300240: pym_g 21
+    2300242: pym_g 22
+    2300244: pym_g 23
+    2300246: pym_g 24
+    2300248: pym_g 3
+    2300250: pym_g 4
+    2300252: pym_g 5
+    2300254: pym_g 6
+    2300256: pym_g 7
+    2300258: pym_g 8
+    2300260: pym_g 9
+    2300262: pym_zt_jl
+    2300264: pym_zt_jl 1
+    2300266: pym_zt_jl 10
+    2300268: pym_zt_jl 11
+    2300270: pym_zt_jl 12
+    2300272: pym_zt_jl 2
+    2300274: pym_zt_jl 3
+    2300276: pym_zt_jl 4
+    2300278: pym_zt_jl 5
+    2300280: pym_zt_jl 6
+    2300282: pym_zt_jl 7
+    2300284: pym_zt_jl 8
+    2300286: pym_zt_jl 9
+    2300288: pym_zt_yt
+    2300290: pym_zt_yt 1
+    2300292: pym_zt_yt 10
+    2300294: pym_zt_yt 11
+    2300296: pym_zt_yt 12
+    2300298: pym_zt_yt 13
+    2300300: pym_zt_yt 14
+    2300302: pym_zt_yt 15
+    2300304: pym_zt_yt 16
+    2300306: pym_zt_yt 17
+    2300308: pym_zt_yt 18
+    2300310: pym_zt_yt 19
+    2300312: pym_zt_yt 2
+    2300314: pym_zt_yt 20
+    2300316: pym_zt_yt 21
+    2300318: pym_zt_yt 22
+    2300320: pym_zt_yt 23
+    2300322: pym_zt_yt 24
+    2300324: pym_zt_yt 3
+    2300326: pym_zt_yt 4
+    2300328: pym_zt_yt 5
+    2300330: pym_zt_yt 6
+    2300332: pym_zt_yt 7
+    2300334: pym_zt_yt 8
+    2300336: pym_zt_yt 9
+    2300338: pym_zt_yt1
+    2300340: pym_zt_yt1 1
+    2300342: pym_zt_yt1 2
+    2300344: pym_zt_yt1 3
+    2300346: pym_zt_yt1 4
+    2300348: pym_zt_yt1 5
+    2300350: pym_zt_yt1 6
+    2300352: pym_zt_yt1 7
+    2300354: pym_zt_yt1 8
+    2300356: pym_zt_yt1 9
+    2300358: pyn_zt_bl
+    2300360: pyn_zt_bl 1
+    2300362: pyn_zt_bl 10
+    2300364: pyn_zt_bl 11
+    2300366: pyn_zt_bl 12
+    2300368: pyn_zt_bl 13
+    2300370: pyn_zt_bl 14
+    2300372: pyn_zt_bl 15
+    2300374: pyn_zt_bl 16
+    2300376: pyn_zt_bl 17
+    2300378: pyn_zt_bl 18
+    2300380: pyn_zt_bl 19
+    2300382: pyn_zt_bl 2
+    2300384: pyn_zt_bl 20
+    2300386: pyn_zt_bl 21
+    2300388: pyn_zt_bl 22
+    2300390: pyn_zt_bl 23
+    2300392: pyn_zt_bl 24
+    2300394: pyn_zt_bl 25
+    2300396: pyn_zt_bl 3
+    2300398: pyn_zt_bl 4
+    2300400: pyn_zt_bl 5
+    2300402: pyn_zt_bl 6
+    2300404: pyn_zt_bl 7
+    2300406: pyn_zt_bl 8
+    2300408: pyn_zt_bl 9
+    2300410: pyx_blm_bl
+    2300412: pyx_blm_js
+    2300414: pyx_d
+    2300416: pyx_kg
+    2300418: pyx_m
+    2300420: pyx_p
+    2300422: pyx_pm
+    2300424: pyx_s
+    2300426: pyx_sz
+    2300428: pyx_tp
+    2300430: pyx_x
+    2300432: pyx_zt
+    2300434: qh_b_1
+    2300436: qh_b_2
+    2300438: qh_b_3
+    2300440: qh_b_4
+    2300442: qh_b_qt_01
+    2300444: qh_b_zy
+    2300446: sb1_bl
+    2300448: sb1_bq
+    2300450: sb_bs
+    2300452: sg_gz
+    2300454: sg_gz 1
+    2300456: sg_gz 2
+    2300458: sg_zt_bq
+    2300460: sg_zt_bq 1
+    2300462: sg_zt_g
+    2300464: sg_zt_g 1
+    2300466: sg_zt_g 2
+    2300468: sg_zt_kd
+    2300470: sg_zt_kd 1
+    2300472: sg_zt_kd 2
+    2300474: sg_zt_yt
+    2300476: sg_zt_yt 1
+    2300478: sg_zt_yt1
+    2300480: sgj
+    2300482: syyc_an1
+    2300484: syyc_an10
+    2300486: syyc_an11
+    2300488: syyc_an2
+    2300490: syyc_an3
+    2300492: syyc_an4
+    2300494: syyc_an5
+    2300496: syyc_an6
+    2300498: syyc_an7
+    2300500: syyc_an8
+    2300502: syyc_an9
+    2300504: syyc_bxg
+    2300506: syyc_bxg2
+    2300508: syyc_kg
+    2300510: syyc_m1
+    2300512: syyc_m2
+    2300514: syyc_th
+    2300516: syyc_zt
+    2300518: yyq1_sz1
+    2300520: yyq1_sz2
+    2300522: yyq1_sz3
+    2300524: yyq1_sz4
+    2300526: yyq_ad1
+    2300528: yyq_ad2
+    2300530: yyq_zt
+    2300532: yyzz_yyqj
+    3300000: _pym_g
+    3300002: DFM_jzh
+    3300004: DFM_jzz
+    3300006: DFMSX_tbb
+    3300008: dj_dg_bl
+    3300010: dj_dg_hs
+    3300012: dj_dg_yt
+    3300014: dj_ps_bq
+    3300016: dj_ps_pz
+    3300018: dj_ps_yt
+    3300020: Dpym_zt_yt
+    3300022: jjd_gz
+    3300024: jjd_zt_dt
+    3300026: jjd_zt_dx
+    3300028: jjd_zt_ps
+    3300030: jjd_zt_yw
+    3300032: jl1
+    3300034: jl1 1
+    3300036: jl1 2
+    3300038: jl10
+    3300040: jl10 1
+    3300042: jl10 2
+    3300044: jl11
+    3300046: jl11 1
+    3300048: jl11 2
+    3300050: jl12
+    3300052: jl12 1
+    3300054: jl12 2
+    3300056: jl13
+    3300058: jl13 1
+    3300060: jl13 2
+    3300062: jl14
+    3300064: jl14 1
+    3300066: jl14 2
+    3300068: jl15
+    3300070: jl15 1
+    3300072: jl15 2
+    3300074: jl16
+    3300076: jl16 1
+    3300078: jl16 2
+    3300080: jl17
+    3300082: jl17 1
+    3300084: jl17 2
+    3300086: jl18
+    3300088: jl18 1
+    3300090: jl18 2
+    3300092: jl19
+    3300094: jl19 1
+    3300096: jl19 2
+    3300098: jl2
+    3300100: jl2 1
+    3300102: jl2 2
+    3300104: jl20
+    3300106: jl20 1
+    3300108: jl20 2
+    3300110: jl21
+    3300112: jl21 1
+    3300114: jl21 2
+    3300116: jl22
+    3300118: jl22 1
+    3300120: jl22 2
+    3300122: jl23
+    3300124: jl23 1
+    3300126: jl23 2
+    3300128: jl24
+    3300130: jl24 1
+    3300132: jl24 2
+    3300134: jl25
+    3300136: jl25 1
+    3300138: jl25 2
+    3300140: jl26
+    3300142: jl26 1
+    3300144: jl26 2
+    3300146: jl27
+    3300148: jl27 1
+    3300150: jl27 2
+    3300152: jl28
+    3300154: jl28 1
+    3300156: jl28 2
+    3300158: jl29
+    3300160: jl29 1
+    3300162: jl29 2
+    3300164: jl3
+    3300166: jl3 1
+    3300168: jl3 2
+    3300170: jl30
+    3300172: jl30 1
+    3300174: jl30 2
+    3300176: jl4
+    3300178: jl4 1
+    3300180: jl4 2
+    3300182: jl5
+    3300184: jl5 1
+    3300186: jl5 2
+    3300188: jl6
+    3300190: jl6 1
+    3300192: jl6 2
+    3300194: jl7
+    3300196: jl7 1
+    3300198: jl7 2
+    3300200: jl8
+    3300202: jl8 1
+    3300204: jl8 2
+    3300206: jl9
+    3300208: jl9 1
+    3300210: jl9 2
+    3300212: pym_g
+    3300214: pym_g 1
+    3300216: pym_g 10
+    3300218: pym_g 11
+    3300220: pym_g 12
+    3300222: pym_g 13
+    3300224: pym_g 14
+    3300226: pym_g 15
+    3300228: pym_g 16
+    3300230: pym_g 17
+    3300232: pym_g 18
+    3300234: pym_g 19
+    3300236: pym_g 2
+    3300238: pym_g 20
+    3300240: pym_g 21
+    3300242: pym_g 22
+    3300244: pym_g 23
+    3300246: pym_g 24
+    3300248: pym_g 3
+    3300250: pym_g 4
+    3300252: pym_g 5
+    3300254: pym_g 6
+    3300256: pym_g 7
+    3300258: pym_g 8
+    3300260: pym_g 9
+    3300262: pym_zt_jl
+    3300264: pym_zt_jl 1
+    3300266: pym_zt_jl 10
+    3300268: pym_zt_jl 11
+    3300270: pym_zt_jl 12
+    3300272: pym_zt_jl 2
+    3300274: pym_zt_jl 3
+    3300276: pym_zt_jl 4
+    3300278: pym_zt_jl 5
+    3300280: pym_zt_jl 6
+    3300282: pym_zt_jl 7
+    3300284: pym_zt_jl 8
+    3300286: pym_zt_jl 9
+    3300288: pym_zt_yt
+    3300290: pym_zt_yt 1
+    3300292: pym_zt_yt 10
+    3300294: pym_zt_yt 11
+    3300296: pym_zt_yt 12
+    3300298: pym_zt_yt 13
+    3300300: pym_zt_yt 14
+    3300302: pym_zt_yt 15
+    3300304: pym_zt_yt 16
+    3300306: pym_zt_yt 17
+    3300308: pym_zt_yt 18
+    3300310: pym_zt_yt 19
+    3300312: pym_zt_yt 2
+    3300314: pym_zt_yt 20
+    3300316: pym_zt_yt 21
+    3300318: pym_zt_yt 22
+    3300320: pym_zt_yt 23
+    3300322: pym_zt_yt 24
+    3300324: pym_zt_yt 3
+    3300326: pym_zt_yt 4
+    3300328: pym_zt_yt 5
+    3300330: pym_zt_yt 6
+    3300332: pym_zt_yt 7
+    3300334: pym_zt_yt 8
+    3300336: pym_zt_yt 9
+    3300338: pym_zt_yt1
+    3300340: pym_zt_yt1 1
+    3300342: pym_zt_yt1 2
+    3300344: pym_zt_yt1 3
+    3300346: pym_zt_yt1 4
+    3300348: pym_zt_yt1 5
+    3300350: pym_zt_yt1 6
+    3300352: pym_zt_yt1 7
+    3300354: pym_zt_yt1 8
+    3300356: pym_zt_yt1 9
+    3300358: pyn_zt_bl
+    3300360: pyn_zt_bl 1
+    3300362: pyn_zt_bl 10
+    3300364: pyn_zt_bl 11
+    3300366: pyn_zt_bl 12
+    3300368: pyn_zt_bl 13
+    3300370: pyn_zt_bl 14
+    3300372: pyn_zt_bl 15
+    3300374: pyn_zt_bl 16
+    3300376: pyn_zt_bl 17
+    3300378: pyn_zt_bl 18
+    3300380: pyn_zt_bl 19
+    3300382: pyn_zt_bl 2
+    3300384: pyn_zt_bl 20
+    3300386: pyn_zt_bl 21
+    3300388: pyn_zt_bl 22
+    3300390: pyn_zt_bl 23
+    3300392: pyn_zt_bl 24
+    3300394: pyn_zt_bl 25
+    3300396: pyn_zt_bl 3
+    3300398: pyn_zt_bl 4
+    3300400: pyn_zt_bl 5
+    3300402: pyn_zt_bl 6
+    3300404: pyn_zt_bl 7
+    3300406: pyn_zt_bl 8
+    3300408: pyn_zt_bl 9
+    3300410: pyx_blm_bl
+    3300412: pyx_blm_js
+    3300414: pyx_d
+    3300416: pyx_kg
+    3300418: pyx_m
+    3300420: pyx_p
+    3300422: pyx_pm
+    3300424: pyx_s
+    3300426: pyx_sz
+    3300428: pyx_tp
+    3300430: pyx_x
+    3300432: pyx_zt
+    3300434: qh_b_1
+    3300436: qh_b_2
+    3300438: qh_b_3
+    3300440: qh_b_4
+    3300442: qh_b_qt_01
+    3300444: qh_b_zy
+    3300446: sb1_bl
+    3300448: sb1_bq
+    3300450: sb_bs
+    3300452: sg_gz
+    3300454: sg_gz 1
+    3300456: sg_gz 2
+    3300458: sg_zt_bq
+    3300460: sg_zt_bq 1
+    3300462: sg_zt_g
+    3300464: sg_zt_g 1
+    3300466: sg_zt_g 2
+    3300468: sg_zt_kd
+    3300470: sg_zt_kd 1
+    3300472: sg_zt_kd 2
+    3300474: sg_zt_yt
+    3300476: sg_zt_yt 1
+    3300478: sg_zt_yt1
+    3300480: sgj
+    3300482: syyc_an1
+    3300484: syyc_an10
+    3300486: syyc_an11
+    3300488: syyc_an2
+    3300490: syyc_an3
+    3300492: syyc_an4
+    3300494: syyc_an5
+    3300496: syyc_an6
+    3300498: syyc_an7
+    3300500: syyc_an8
+    3300502: syyc_an9
+    3300504: syyc_bxg
+    3300506: syyc_bxg2
+    3300508: syyc_kg
+    3300510: syyc_m1
+    3300512: syyc_m2
+    3300514: syyc_th
+    3300516: syyc_zt
+    3300518: yyq1_sz1
+    3300520: yyq1_sz2
+    3300522: yyq1_sz3
+    3300524: yyq1_sz4
+    3300526: yyq_ad1
+    3300528: yyq_ad2
+    3300530: yyq_zt
+    3300532: yyzz_yyqj
+    4300000: pym_g
+    4300002: pyn_zt_bl
+    4300004: pym_zt_yt
+    4300006: pym_zt_yt1
+    4300008: pym_g
+    4300010: pyn_zt_bl
+    4300012: pym_zt_yt
+    4300014: pym_zt_yt1
+    4300016: pym_g
+    4300018: pyn_zt_bl
+    4300020: pym_zt_yt
+    4300022: pym_zt_yt1
+    4300024: pym_g
+    4300026: pyn_zt_bl
+    4300028: pym_zt_yt
+    4300030: pym_zt_yt1
+    4300032: pym_g
+    4300034: pyn_zt_bl
+    4300036: pym_zt_yt
+    4300038: pym_zt_yt1
+    4300040: pym_g
+    4300042: pyn_zt_bl
+    4300044: pym_zt_yt
+    4300046: pym_zt_yt1
+    4300048: pym_g
+    4300050: pyn_zt_bl
+    4300052: pym_zt_yt
+    4300054: pym_zt_yt1
+    4300056: pym_g
+    4300058: pyn_zt_bl
+    4300060: pym_zt_yt
+    4300062: pym_zt_yt1
+    4300064: pym_g
+    4300066: pyn_zt_bl
+    4300068: pym_zt_yt
+    4300070: pym_zt_yt1
+    4300072: pym_g
+    4300074: pyn_zt_bl
+    4300076: pym_zt_yt
+    4300078: pym_zt_yt1
+    4300080: pym_g
+    4300082: pyn_zt_bl
+    4300084: pym_zt_yt
+    4300086: pym_zt_jl
+    4300088: _pym_g
+    4300090: pyn_zt_bl
+    4300092: pym_zt_yt
+    4300094: pym_zt_jl
+    4300096: pym_g
+    4300098: pyn_zt_bl
+    4300100: pym_zt_yt
+    4300102: pym_zt_jl
+    4300104: sb1_bq
+    4300106: sb1_bl
+    4300108: sg_gz
+    4300110: sg_zt_kd
+    4300112: sg_zt_g
+    4300114: sg_zt_yt1
+    4300116: sgj
+    4300118: qh_b_1
+    4300120: qh_b_2
+    4300122: qh_b_3
+    4300124: qh_b_4
+    4300126: qh_b_qt_01
+    4300128: qh_b_zy
+    4300130: yyzz_yyqj
+    4300132: yyq_zt
+    4300134: yyq_ad1
+    4300136: yyq_ad2
+    4300138: yyq1_sz1
+    4300140: yyq1_sz2
+    4300142: yyq1_sz3
+    4300144: yyq1_sz4
+    4300146: DFMSX_tbb
+    4300148: sb_bs
+    4300150: jjd_gz
+    4300152: jjd_zt_dx
+    4300154: jjd_zt_dt
+    4300156: jjd_zt_ps
+    4300158: jjd_zt_yw
+    4300160: pym_g
+    4300162: pyn_zt_bl
+    4300164: pym_zt_yt
+    4300166: jl1
+    4300168: jl2
+    4300170: jl3
+    4300172: jl4
+    4300174: jl5
+    4300176: jl6
+    4300178: jl7
+    4300180: jl8
+    4300182: jl9
+    4300184: jl10
+    4300186: jl11
+    4300188: jl12
+    4300190: jl13
+    4300192: jl14
+    4300194: jl15
+    4300196: jl16
+    4300198: jl17
+    4300200: jl18
+    4300202: jl19
+    4300204: jl20
+    4300206: jl21
+    4300208: jl22
+    4300210: jl23
+    4300212: jl24
+    4300214: jl25
+    4300216: jl26
+    4300218: jl27
+    4300220: jl28
+    4300222: jl29
+    4300224: jl30
+    4300226: pym_g
+    4300228: pyn_zt_bl
+    4300230: pym_zt_yt
+    4300232: jl1
+    4300234: jl2
+    4300236: jl3
+    4300238: jl4
+    4300240: jl5
+    4300242: jl6
+    4300244: jl7
+    4300246: jl8
+    4300248: jl9
+    4300250: jl10
+    4300252: jl11
+    4300254: jl12
+    4300256: jl13
+    4300258: jl14
+    4300260: jl15
+    4300262: jl16
+    4300264: jl17
+    4300266: jl18
+    4300268: jl19
+    4300270: jl20
+    4300272: jl21
+    4300274: jl22
+    4300276: jl23
+    4300278: jl24
+    4300280: jl25
+    4300282: jl26
+    4300284: jl27
+    4300286: jl28
+    4300288: jl29
+    4300290: jl30
+    4300292: pym_g
+    4300294: pyn_zt_bl
+    4300296: pym_zt_yt
+    4300298: jl1
+    4300300: jl2
+    4300302: jl3
+    4300304: jl4
+    4300306: jl5
+    4300308: jl6
+    4300310: jl7
+    4300312: jl8
+    4300314: jl9
+    4300316: jl10
+    4300318: jl11
+    4300320: jl12
+    4300322: jl13
+    4300324: jl14
+    4300326: jl15
+    4300328: jl16
+    4300330: jl17
+    4300332: jl18
+    4300334: jl19
+    4300336: jl20
+    4300338: jl21
+    4300340: jl22
+    4300342: jl23
+    4300344: jl24
+    4300346: jl25
+    4300348: jl26
+    4300350: jl27
+    4300352: jl28
+    4300354: jl29
+    4300356: jl30
+    4300358: pyx_p
+    4300360: pyx_m
+    4300362: pyx_kg
+    4300364: pyx_blm_bl
+    4300366: pyx_blm_js
+    4300368: pyx_zt
+    4300370: pyx_tp
+    4300372: pyx_s
+    4300374: pyx_pm
+    4300376: pyx_sz
+    4300378: pyx_d
+    4300380: pyx_x
+    4300382: DFM_jzh
+    4300384: sg_gz
+    4300386: sg_zt_yt
+    4300388: sg_zt_kd
+    4300390: sg_zt_g
+    4300392: sg_zt_bq
+    4300394: DFM_jzz
+    4300396: pym_g
+    4300398: pyn_zt_bl
+    4300400: pym_zt_yt
+    4300402: pym_zt_jl
+    4300404: pym_g
+    4300406: pyn_zt_bl
+    4300408: Dpym_zt_yt
+    4300410: pym_zt_jl
+    4300412: pym_g
+    4300414: pyn_zt_bl
+    4300416: pym_zt_yt
+    4300418: pym_zt_jl
+    4300420: pym_g
+    4300422: pyn_zt_bl
+    4300424: pym_zt_yt
+    4300426: pym_zt_jl
+    4300428: pym_g
+    4300430: pyn_zt_bl
+    4300432: pym_zt_yt
+    4300434: pym_zt_jl
+    4300436: pym_g
+    4300438: pyn_zt_bl
+    4300440: pym_zt_yt
+    4300442: pym_zt_jl
+    4300444: pym_g
+    4300446: pyn_zt_bl
+    4300448: pym_zt_yt
+    4300450: pym_zt_jl
+    4300452: pym_g
+    4300454: pyn_zt_bl
+    4300456: pym_zt_yt
+    4300458: pym_zt_jl
+    4300460: pym_g
+    4300462: pyn_zt_bl
+    4300464: pym_zt_yt
+    4300466: pym_zt_jl
+    4300468: pym_g
+    4300470: pyn_zt_bl
+    4300472: pym_zt_yt
+    4300474: pym_zt_jl
+    4300476: dj_ps_pz
+    4300478: dj_ps_yt
+    4300480: dj_ps_bq
+    4300482: dj_dg_bl
+    4300484: dj_dg_hs
+    4300486: dj_dg_yt
+    4300488: syyc_bxg2
+    4300490: syyc_th
+    4300492: syyc_an1
+    4300494: syyc_an10
+    4300496: syyc_an11
+    4300498: syyc_an2
+    4300500: syyc_an3
+    4300502: syyc_an4
+    4300504: syyc_an5
+    4300506: syyc_an6
+    4300508: syyc_an7
+    4300510: syyc_an8
+    4300512: syyc_an9
+    4300514: syyc_zt
+    4300516: syyc_bxg
+    4300518: syyc_kg
+    4300520: syyc_m2
+    4300522: syyc_m1
+    4300524: sg_gz
+    4300526: sg_zt_yt
+    4300528: sg_zt_kd
+    4300530: sg_zt_g
+    4300532: sg_zt_bq
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

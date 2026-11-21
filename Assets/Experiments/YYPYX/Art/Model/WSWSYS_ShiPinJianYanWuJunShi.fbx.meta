@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 26235d111befbb14fa222147d25131e1
+timeCreated: 1470883427
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: WSWSY_bxgz_1
+    100002: WSWSY_bxgz_2
+    100004: WSWSY_bxgz_3
+    100006: WSWSY_bxgz_4
+    100008: WSWSY_bxgz_5
+    100010: WSWSY_bxgz_6
+    100012: WSWSYS_bjclz
+    100014: WSWSYS_bjclz_1
+    100016: WSWSYS_bjclz_2
+    100018: WSWSYS_cz_1
+    100020: WSWSYS_cz_2
+    100022: WSWSYS_cz_3
+    100024: WSWSYS_cz_4
+    100026: WSWSYS_cz_5
+    100028: //RootNode
+    100030: Cjgzt_DengGui
+    100032: Cjgzt_Men
+    100034: Cjgzt_Men_1
+    100036: Cjgzt_Men_2
+    100038: Cjgzt_Shuzi
+    100040: Cjgzt_Shuzi_1
+    100042: Cjgzt_Shuzi_2
+    100044: Cjgzt_Shuzi_3
+    100046: Cjgzt_Shuzi_4
+    100048: Cjgzt_Zhishideng
+    100050: Cjgzt_Zhishideng_1
+    100052: Cjgzt_Zhishideng_2
+    100054: Cjgzt_Zhishideng_3
+    100056: Cjgzt_Zhishideng_4
+    100058: Cjgzt_Zhishideng_5
+    100060: Cjgzt_Zhishideng_6
+    100062: WSWSYS_SYS_Cjgzt1
+    100064: WSWSYS_SYS_Cjgzt1 1
+    400000: WSWSY_bxgz_1
+    400002: WSWSY_bxgz_2
+    400004: WSWSY_bxgz_3
+    400006: WSWSY_bxgz_4
+    400008: WSWSY_bxgz_5
+    400010: WSWSY_bxgz_6
+    400012: WSWSYS_bjclz
+    400014: WSWSYS_bjclz_1
+    400016: WSWSYS_bjclz_2
+    400018: WSWSYS_cz_1
+    400020: WSWSYS_cz_2
+    400022: WSWSYS_cz_3
+    400024: WSWSYS_cz_4
+    400026: WSWSYS_cz_5
+    400028: //RootNode
+    400030: Cjgzt_DengGui
+    400032: Cjgzt_Men
+    400034: Cjgzt_Men_1
+    400036: Cjgzt_Men_2
+    400038: Cjgzt_Shuzi
+    400040: Cjgzt_Shuzi_1
+    400042: Cjgzt_Shuzi_2
+    400044: Cjgzt_Shuzi_3
+    400046: Cjgzt_Shuzi_4
+    400048: Cjgzt_Zhishideng
+    400050: Cjgzt_Zhishideng_1
+    400052: Cjgzt_Zhishideng_2
+    400054: Cjgzt_Zhishideng_3
+    400056: Cjgzt_Zhishideng_4
+    400058: Cjgzt_Zhishideng_5
+    400060: Cjgzt_Zhishideng_6
+    400062: WSWSYS_SYS_Cjgzt1
+    400064: WSWSYS_SYS_Cjgzt1 1
+    2300000: WSWSY_bxgz_1
+    2300002: WSWSY_bxgz_2
+    2300004: WSWSY_bxgz_3
+    2300006: WSWSY_bxgz_4
+    2300008: WSWSY_bxgz_5
+    2300010: WSWSY_bxgz_6
+    2300012: WSWSYS_bjclz_1
+    2300014: WSWSYS_bjclz_2
+    2300016: WSWSYS_cz_1
+    2300018: WSWSYS_cz_2
+    2300020: WSWSYS_cz_3
+    2300022: WSWSYS_cz_4
+    2300024: WSWSYS_cz_5
+    2300026: Cjgzt_DengGui
+    2300028: Cjgzt_Men_1
+    2300030: Cjgzt_Men_2
+    2300032: Cjgzt_Shuzi_1
+    2300034: Cjgzt_Shuzi_2
+    2300036: Cjgzt_Shuzi_3
+    2300038: Cjgzt_Shuzi_4
+    2300040: Cjgzt_Zhishideng_1
+    2300042: Cjgzt_Zhishideng_2
+    2300044: Cjgzt_Zhishideng_3
+    2300046: Cjgzt_Zhishideng_4
+    2300048: Cjgzt_Zhishideng_5
+    2300050: Cjgzt_Zhishideng_6
+    2300052: WSWSYS_SYS_Cjgzt1 1
+    3300000: WSWSY_bxgz_1
+    3300002: WSWSY_bxgz_2
+    3300004: WSWSY_bxgz_3
+    3300006: WSWSY_bxgz_4
+    3300008: WSWSY_bxgz_5
+    3300010: WSWSY_bxgz_6
+    3300012: WSWSYS_bjclz_1
+    3300014: WSWSYS_bjclz_2
+    3300016: WSWSYS_cz_1
+    3300018: WSWSYS_cz_2
+    3300020: WSWSYS_cz_3
+    3300022: WSWSYS_cz_4
+    3300024: WSWSYS_cz_5
+    3300026: Cjgzt_DengGui
+    3300028: Cjgzt_Men_1
+    3300030: Cjgzt_Men_2
+    3300032: Cjgzt_Shuzi_1
+    3300034: Cjgzt_Shuzi_2
+    3300036: Cjgzt_Shuzi_3
+    3300038: Cjgzt_Shuzi_4
+    3300040: Cjgzt_Zhishideng_1
+    3300042: Cjgzt_Zhishideng_2
+    3300044: Cjgzt_Zhishideng_3
+    3300046: Cjgzt_Zhishideng_4
+    3300048: Cjgzt_Zhishideng_5
+    3300050: Cjgzt_Zhishideng_6
+    3300052: WSWSYS_SYS_Cjgzt1 1
+    4300000: WSWSYS_bjclz_1
+    4300002: WSWSYS_bjclz_2
+    4300004: WSWSY_bxgz_1
+    4300006: WSWSY_bxgz_2
+    4300008: WSWSY_bxgz_3
+    4300010: WSWSY_bxgz_4
+    4300012: WSWSY_bxgz_5
+    4300014: WSWSY_bxgz_6
+    4300016: WSWSYS_cz_1
+    4300018: WSWSYS_cz_2
+    4300020: WSWSYS_cz_3
+    4300022: WSWSYS_cz_4
+    4300024: WSWSYS_cz_5
+    4300026: WSWSYS_SYS_Cjgzt1
+    4300028: Cjgzt_DengGui
+    4300030: Cjgzt_Zhishideng_1
+    4300032: Cjgzt_Zhishideng_2
+    4300034: Cjgzt_Zhishideng_3
+    4300036: Cjgzt_Zhishideng_4
+    4300038: Cjgzt_Zhishideng_5
+    4300040: Cjgzt_Zhishideng_6
+    4300042: Cjgzt_Shuzi_1
+    4300044: Cjgzt_Shuzi_2
+    4300046: Cjgzt_Shuzi_3
+    4300048: Cjgzt_Shuzi_4
+    4300050: Cjgzt_Men_1
+    4300052: Cjgzt_Men_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

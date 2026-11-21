@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: b2457b3bb22549743bef988937d73a52
+timeCreated: 1471592519
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BingXiang_1
+    100002: BingXiang_2
+    100004: BingXiang_3
+    100006: BingXiang_5
+    100008: BingXiang_6
+    100010: BingXiang_Hezi
+    100012: BingXiang_Hezi_1
+    100014: BingXiang_Hezi_2
+    100016: BingXiang_Hezi_3
+    100018: BingXiang_Hezi_4
+    100020: BingXiang_Lengdonggui
+    100022: BingXiang_Lengdonggui_1
+    100024: BingXiang_Lengdonggui_2
+    100026: BingXiang_Lengdonggui_3
+    100028: BingXiang_Lengdonggui_4
+    100030: BX_PZ1
+    100032: polySurface11
+    100034: polySurface13
+    100036: polySurface7
+    100038: WSWSYS_ChuShiQi1
+    100040: WSWSYS_LengCangGui1
+    100042: WSWSYS_LengCangGui2
+    100044: WSWSYS_LengCangGui2_1
+    100046: WSWSYS_LengCangGui2_1 1
+    100048: WSWSYS_LengCangGui2_1 2
+    100050: WSWSYS_LengCangGui2_1 3
+    100052: WSWSYS_LengCangGui2_2
+    100054: WSWSYS_LengCangGui2_2 1
+    100056: WSWSYS_LengCangGui2_2 2
+    100058: WSWSYS_LengCangGui2_2 3
+    100060: WSWSYS_LengCangGui2_3
+    100062: WSWSYS_LengCangGui2_3 1
+    100064: WSWSYS_LengCangGui2_3 2
+    100066: WSWSYS_LengCangGui2_3 3
+    100068: WSWSYS_LengCangGui2_4
+    100070: WSWSYS_LengCangGui2_4 1
+    100072: WSWSYS_LengCangGui2_4 2
+    100074: WSWSYS_LengCangGui2_4 3
+    100076: WSWSYS_LengCangGui2_5
+    100078: WSWSYS_LengCangGui2_5 1
+    100080: WSWSYS_LengCangGui2_5 2
+    100082: WSWSYS_LengCangGui2_5 3
+    100084: WSWSYS_LengCangGui2_6
+    100086: WSWSYS_LengCangGui2_6 1
+    100088: WSWSYS_LengCangGui2_6 2
+    100090: WSWSYS_LengCangGui2_6 3
+    100092: WSWSYS_LengCangGui2_7
+    100094: WSWSYS_LengCangGui2_7 1
+    100096: WSWSYS_LengCangGui2_7 2
+    100098: WSWSYS_LengCangGui2_7 3
+    100100: WSWSYS_LengCangGui3
+    100102: WSWSYS_LengCangGui4
+    100104: WSWSYS_LengCangGui5
+    100106: WSWSYS_LengCangGui_1
+    100108: WSWSYS_LengCangGui_2
+    100110: WSWSYS_LengCangGui_3
+    100112: WSWSYS_LengCangGui_4
+    100114: WSWSYS_LengCangGui_5
+    100116: WSWSYS_LengCangGui_6
+    100118: WSWSYS_LengCangGui_7
+    100120: WSWSYS_LengCangGui_Men
+    100122: WSWSYS_LengCangGui_Men2
+    100124: WSWSYS_LengCangGui_Men2 1
+    100126: WSWSYS_LengCangGui_Men2 2
+    100128: WSWSYS_LengCangGui_Men2 3
+    100130: WSWSYS_LengCangGui_Men2_1
+    100132: WSWSYS_LengCangGui_Men2_1 1
+    100134: WSWSYS_LengCangGui_Men2_1 2
+    100136: WSWSYS_LengCangGui_Men2_1 3
+    100138: WSWSYS_LengCangGui_Men2_2
+    100140: WSWSYS_LengCangGui_Men2_2 1
+    100142: WSWSYS_LengCangGui_Men2_2 2
+    100144: WSWSYS_LengCangGui_Men2_2 3
+    100146: WSWSYS_LengCangGui_Men_1
+    100148: WSWSYS_LengCangGui_Men_2
+    100150: WSWSYS_SYS_BingXiang
+    100152: WSWSYS_SYS_BingXiang1
+    100154: WSWSYS_SYS_GB1
+    100156: WSWSYS_SYS_GB2
+    100158: WSWSYS_SYS_GB3
+    100160: WSWSYS_WoShiBingXiang
+    100162: WSWSYS_WoShiBingXiang1
+    100164: WSWSYS_WoShiBingXiang2
+    100166: WSWSYS_WoShiBingXiang3
+    100168: WSWSYS_WoShiBingXiang4
+    100170: WSWSYS_WoShiBingXiang5
+    100172: WSWSYS_WoShiBingXiang6
+    100174: WSWSYS_WoShiBingXiang7
+    100176: WSWSYS_WoShiBingXiang8
+    100178: WSWSYS_WoShiBingXiang9
+    100180: WSWSYS_YiangPinGui1
+    100182: WSWSYS_YiangPinGui1_1
+    100184: WSWSYS_YiangPinGui1_1 1
+    100186: WSWSYS_YiangPinGui1_1 2
+    100188: WSWSYS_YiangPinGui1_2
+    100190: WSWSYS_YiangPinGui1_2 1
+    100192: WSWSYS_YiangPinGui1_2 2
+    100194: WSWSYS_YiangPinGui1_3
+    100196: WSWSYS_YiangPinGui1_3 1
+    100198: WSWSYS_YiangPinGui1_3 2
+    100200: WSWSYS_YiangPinGui1_4
+    100202: WSWSYS_YiangPinGui1_4 1
+    100204: WSWSYS_YiangPinGui1_4 2
+    100206: WSWSYS_YiangPinGui1_5
+    100208: WSWSYS_YiangPinGui1_5 1
+    100210: WSWSYS_YiangPinGui1_5 2
+    100212: WSWSYS_YiangPinGui1_6
+    100214: WSWSYS_YiangPinGui1_6 1
+    100216: WSWSYS_YiangPinGui1_6 2
+    100218: WSWSYS_YiangPinGui1_7
+    100220: WSWSYS_YiangPinGui1_7 1
+    100222: WSWSYS_YiangPinGui1_7 2
+    100224: WSWSYS_YiangPinGui2
+    100226: WSWSYS_YiangPinGui3
+    100228: //RootNode
+    100230: WSWSYS_YPS_bt1
+    100232: WSWSYS_YPS_bt2
+    100234: WSWSYS_YPS_bt3
+    100236: WSWSYS_YPS_cz1
+    100238: BiaoQian
+    100240: BiaoQian 1
+    100242: Body
+    100244: body
+    100246: Body 1
+    100248: body 1
+    100250: Body 2
+    100252: Body 3
+    100254: Body 4
+    100256: body1
+    100258: cork1
+    100260: cork1 1
+    100262: cork1 2
+    100264: cork1 3
+    100266: cork1 4
+    100268: cork2
+    100270: cork2 1
+    100272: cork2 2
+    100274: cork2 3
+    100276: cork2 4
+    100278: CuSuanRongYe1
+    100280: CuSuanRongYe2
+    100282: polySurface15
+    100284: polySurface15 1
+    100286: polySurface15 2
+    100288: polySurface15 3
+    100290: polySurface15 4
+    100292: polySurface15 5
+    100294: polySurface16
+    100296: polySurface18
+    100298: polySurface18 1
+    100300: polySurface18 2
+    100302: polySurface18 3
+    100304: polySurface18 4
+    100306: polySurface18 5
+    100308: polySurface20
+    100310: polySurface21
+    100312: polySurface22
+    100314: polySurface23
+    100316: polySurface24
+    100318: ShiGuan1
+    100320: ShiGuan2
+    100322: ShiGuan3
+    100324: ShiGuan4
+    100326: ShiGuan5
+    100328: ShiGuan6
+    100330: ShiJiPing_200_body
+    100332: ShiJiPing_200_bq
+    100334: ShiJiPing_200_cork
+    100336: ShiJiPing_200_gz
+    100338: WSWSY_ShiJiPing_200ml
+    100340: WSWSY_YiaoPing_BPW
+    100342: WSWSY_YiaoPing_BS
+    100344: WSWSY_YiaoPing_SC
+    100346: WSWSY_YiaoPing_TTB
+    100348: WSWSY_YiaoPing_XLD
+    100350: WSWSYS_GuangKouPing
+    100352: WSWSYS_GuangKouPing_body
+    100354: WSWSYS_GuangKouPing_GaiZi
+    100356: WSWSYS_ShiGuan
+    100358: WSWSYS_ShiGuanJia
+    100360: WSWSYS_SYS_XiYanQi02
+    100362: WSWSYS_WJZiXP_body
+    100364: WSWSYS_WJZiXP_body 1
+    100366: WSWSYS_WJZiXP_body1
+    100368: WSWSYS_WJZiXP_body1 1
+    100370: WSWSYS_WJZiXP_FX
+    100372: WSWSYS_WJZiXP_FX 1
+    100374: WSWSYS_WJZiXP_G
+    100376: WSWSYS_WJZiXP_G 1
+    100378: WSWSYS_WuJunZhuiXingPing
+    100380: WSWSYS_WuJunZhuiXingPing1
+    100382: WSWSYS_ZhuoZi03
+    100384: WSWSYS_ZhuoZi03_1
+    100386: WSWSYS_ZhuoZi03_2
+    100388: WSWSYS_ZhuoZi03_3
+    100390: YiaoPing_BPW_BQ
+    100392: YiaoPing_BS_BQ
+    100394: YiaoPing_SC_BQ
+    100396: YiaoPing_TTB_BQ
+    100398: YiaoPing_XLD_BQ
+    400000: BingXiang_1
+    400002: BingXiang_2
+    400004: BingXiang_3
+    400006: BingXiang_5
+    400008: BingXiang_6
+    400010: BingXiang_Hezi
+    400012: BingXiang_Hezi_1
+    400014: BingXiang_Hezi_2
+    400016: BingXiang_Hezi_3
+    400018: BingXiang_Hezi_4
+    400020: BingXiang_Lengdonggui
+    400022: BingXiang_Lengdonggui_1
+    400024: BingXiang_Lengdonggui_2
+    400026: BingXiang_Lengdonggui_3
+    400028: BingXiang_Lengdonggui_4
+    400030: BX_PZ1
+    400032: polySurface11
+    400034: polySurface13
+    400036: polySurface7
+    400038: WSWSYS_ChuShiQi1
+    400040: WSWSYS_LengCangGui1
+    400042: WSWSYS_LengCangGui2
+    400044: WSWSYS_LengCangGui2_1
+    400046: WSWSYS_LengCangGui2_1 1
+    400048: WSWSYS_LengCangGui2_1 2
+    400050: WSWSYS_LengCangGui2_1 3
+    400052: WSWSYS_LengCangGui2_2
+    400054: WSWSYS_LengCangGui2_2 1
+    400056: WSWSYS_LengCangGui2_2 2
+    400058: WSWSYS_LengCangGui2_2 3
+    400060: WSWSYS_LengCangGui2_3
+    400062: WSWSYS_LengCangGui2_3 1
+    400064: WSWSYS_LengCangGui2_3 2
+    400066: WSWSYS_LengCangGui2_3 3
+    400068: WSWSYS_LengCangGui2_4
+    400070: WSWSYS_LengCangGui2_4 1
+    400072: WSWSYS_LengCangGui2_4 2
+    400074: WSWSYS_LengCangGui2_4 3
+    400076: WSWSYS_LengCangGui2_5
+    400078: WSWSYS_LengCangGui2_5 1
+    400080: WSWSYS_LengCangGui2_5 2
+    400082: WSWSYS_LengCangGui2_5 3
+    400084: WSWSYS_LengCangGui2_6
+    400086: WSWSYS_LengCangGui2_6 1
+    400088: WSWSYS_LengCangGui2_6 2
+    400090: WSWSYS_LengCangGui2_6 3
+    400092: WSWSYS_LengCangGui2_7
+    400094: WSWSYS_LengCangGui2_7 1
+    400096: WSWSYS_LengCangGui2_7 2
+    400098: WSWSYS_LengCangGui2_7 3
+    400100: WSWSYS_LengCangGui3
+    400102: WSWSYS_LengCangGui4
+    400104: WSWSYS_LengCangGui5
+    400106: WSWSYS_LengCangGui_1
+    400108: WSWSYS_LengCangGui_2
+    400110: WSWSYS_LengCangGui_3
+    400112: WSWSYS_LengCangGui_4
+    400114: WSWSYS_LengCangGui_5
+    400116: WSWSYS_LengCangGui_6
+    400118: WSWSYS_LengCangGui_7
+    400120: WSWSYS_LengCangGui_Men
+    400122: WSWSYS_LengCangGui_Men2
+    400124: WSWSYS_LengCangGui_Men2 1
+    400126: WSWSYS_LengCangGui_Men2 2
+    400128: WSWSYS_LengCangGui_Men2 3
+    400130: WSWSYS_LengCangGui_Men2_1
+    400132: WSWSYS_LengCangGui_Men2_1 1
+    400134: WSWSYS_LengCangGui_Men2_1 2
+    400136: WSWSYS_LengCangGui_Men2_1 3
+    400138: WSWSYS_LengCangGui_Men2_2
+    400140: WSWSYS_LengCangGui_Men2_2 1
+    400142: WSWSYS_LengCangGui_Men2_2 2
+    400144: WSWSYS_LengCangGui_Men2_2 3
+    400146: WSWSYS_LengCangGui_Men_1
+    400148: WSWSYS_LengCangGui_Men_2
+    400150: WSWSYS_SYS_BingXiang
+    400152: WSWSYS_SYS_BingXiang1
+    400154: WSWSYS_SYS_GB1
+    400156: WSWSYS_SYS_GB2
+    400158: WSWSYS_SYS_GB3
+    400160: WSWSYS_WoShiBingXiang
+    400162: WSWSYS_WoShiBingXiang1
+    400164: WSWSYS_WoShiBingXiang2
+    400166: WSWSYS_WoShiBingXiang3
+    400168: WSWSYS_WoShiBingXiang4
+    400170: WSWSYS_WoShiBingXiang5
+    400172: WSWSYS_WoShiBingXiang6
+    400174: WSWSYS_WoShiBingXiang7
+    400176: WSWSYS_WoShiBingXiang8
+    400178: WSWSYS_WoShiBingXiang9
+    400180: WSWSYS_YiangPinGui1
+    400182: WSWSYS_YiangPinGui1_1
+    400184: WSWSYS_YiangPinGui1_1 1
+    400186: WSWSYS_YiangPinGui1_1 2
+    400188: WSWSYS_YiangPinGui1_2
+    400190: WSWSYS_YiangPinGui1_2 1
+    400192: WSWSYS_YiangPinGui1_2 2
+    400194: WSWSYS_YiangPinGui1_3
+    400196: WSWSYS_YiangPinGui1_3 1
+    400198: WSWSYS_YiangPinGui1_3 2
+    400200: WSWSYS_YiangPinGui1_4
+    400202: WSWSYS_YiangPinGui1_4 1
+    400204: WSWSYS_YiangPinGui1_4 2
+    400206: WSWSYS_YiangPinGui1_5
+    400208: WSWSYS_YiangPinGui1_5 1
+    400210: WSWSYS_YiangPinGui1_5 2
+    400212: WSWSYS_YiangPinGui1_6
+    400214: WSWSYS_YiangPinGui1_6 1
+    400216: WSWSYS_YiangPinGui1_6 2
+    400218: WSWSYS_YiangPinGui1_7
+    400220: WSWSYS_YiangPinGui1_7 1
+    400222: WSWSYS_YiangPinGui1_7 2
+    400224: WSWSYS_YiangPinGui2
+    400226: WSWSYS_YiangPinGui3
+    400228: //RootNode
+    400230: WSWSYS_YPS_bt1
+    400232: WSWSYS_YPS_bt2
+    400234: WSWSYS_YPS_bt3
+    400236: WSWSYS_YPS_cz1
+    400238: BiaoQian
+    400240: BiaoQian 1
+    400242: Body
+    400244: body
+    400246: Body 1
+    400248: body 1
+    400250: Body 2
+    400252: Body 3
+    400254: Body 4
+    400256: body1
+    400258: cork1
+    400260: cork1 1
+    400262: cork1 2
+    400264: cork1 3
+    400266: cork1 4
+    400268: cork2
+    400270: cork2 1
+    400272: cork2 2
+    400274: cork2 3
+    400276: cork2 4
+    400278: CuSuanRongYe1
+    400280: CuSuanRongYe2
+    400282: polySurface15
+    400284: polySurface15 1
+    400286: polySurface15 2
+    400288: polySurface15 3
+    400290: polySurface15 4
+    400292: polySurface15 5
+    400294: polySurface16
+    400296: polySurface18
+    400298: polySurface18 1
+    400300: polySurface18 2
+    400302: polySurface18 3
+    400304: polySurface18 4
+    400306: polySurface18 5
+    400308: polySurface20
+    400310: polySurface21
+    400312: polySurface22
+    400314: polySurface23
+    400316: polySurface24
+    400318: ShiGuan1
+    400320: ShiGuan2
+    400322: ShiGuan3
+    400324: ShiGuan4
+    400326: ShiGuan5
+    400328: ShiGuan6
+    400330: ShiJiPing_200_body
+    400332: ShiJiPing_200_bq
+    400334: ShiJiPing_200_cork
+    400336: ShiJiPing_200_gz
+    400338: WSWSY_ShiJiPing_200ml
+    400340: WSWSY_YiaoPing_BPW
+    400342: WSWSY_YiaoPing_BS
+    400344: WSWSY_YiaoPing_SC
+    400346: WSWSY_YiaoPing_TTB
+    400348: WSWSY_YiaoPing_XLD
+    400350: WSWSYS_GuangKouPing
+    400352: WSWSYS_GuangKouPing_body
+    400354: WSWSYS_GuangKouPing_GaiZi
+    400356: WSWSYS_ShiGuan
+    400358: WSWSYS_ShiGuanJia
+    400360: WSWSYS_SYS_XiYanQi02
+    400362: WSWSYS_WJZiXP_body
+    400364: WSWSYS_WJZiXP_body 1
+    400366: WSWSYS_WJZiXP_body1
+    400368: WSWSYS_WJZiXP_body1 1
+    400370: WSWSYS_WJZiXP_FX
+    400372: WSWSYS_WJZiXP_FX 1
+    400374: WSWSYS_WJZiXP_G
+    400376: WSWSYS_WJZiXP_G 1
+    400378: WSWSYS_WuJunZhuiXingPing
+    400380: WSWSYS_WuJunZhuiXingPing1
+    400382: WSWSYS_ZhuoZi03
+    400384: WSWSYS_ZhuoZi03_1
+    400386: WSWSYS_ZhuoZi03_2
+    400388: WSWSYS_ZhuoZi03_3
+    400390: YiaoPing_BPW_BQ
+    400392: YiaoPing_BS_BQ
+    400394: YiaoPing_SC_BQ
+    400396: YiaoPing_TTB_BQ
+    400398: YiaoPing_XLD_BQ
+    2300000: BingXiang_1
+    2300002: BingXiang_2
+    2300004: BingXiang_3
+    2300006: BingXiang_5
+    2300008: BingXiang_6
+    2300010: BingXiang_Hezi_1
+    2300012: BingXiang_Hezi_2
+    2300014: BingXiang_Hezi_3
+    2300016: BingXiang_Hezi_4
+    2300018: BingXiang_Lengdonggui_1
+    2300020: BingXiang_Lengdonggui_2
+    2300022: BingXiang_Lengdonggui_3
+    2300024: BingXiang_Lengdonggui_4
+    2300026: BX_PZ1
+    2300028: polySurface11
+    2300030: polySurface13
+    2300032: polySurface7
+    2300034: WSWSYS_ChuShiQi1
+    2300036: WSWSYS_LengCangGui2_1
+    2300038: WSWSYS_LengCangGui2_1 1
+    2300040: WSWSYS_LengCangGui2_1 2
+    2300042: WSWSYS_LengCangGui2_1 3
+    2300044: WSWSYS_LengCangGui2_2
+    2300046: WSWSYS_LengCangGui2_2 1
+    2300048: WSWSYS_LengCangGui2_2 2
+    2300050: WSWSYS_LengCangGui2_2 3
+    2300052: WSWSYS_LengCangGui2_3
+    2300054: WSWSYS_LengCangGui2_3 1
+    2300056: WSWSYS_LengCangGui2_3 2
+    2300058: WSWSYS_LengCangGui2_3 3
+    2300060: WSWSYS_LengCangGui2_4
+    2300062: WSWSYS_LengCangGui2_4 1
+    2300064: WSWSYS_LengCangGui2_4 2
+    2300066: WSWSYS_LengCangGui2_4 3
+    2300068: WSWSYS_LengCangGui2_5
+    2300070: WSWSYS_LengCangGui2_5 1
+    2300072: WSWSYS_LengCangGui2_5 2
+    2300074: WSWSYS_LengCangGui2_5 3
+    2300076: WSWSYS_LengCangGui2_6
+    2300078: WSWSYS_LengCangGui2_6 1
+    2300080: WSWSYS_LengCangGui2_6 2
+    2300082: WSWSYS_LengCangGui2_6 3
+    2300084: WSWSYS_LengCangGui2_7
+    2300086: WSWSYS_LengCangGui2_7 1
+    2300088: WSWSYS_LengCangGui2_7 2
+    2300090: WSWSYS_LengCangGui2_7 3
+    2300092: WSWSYS_LengCangGui_1
+    2300094: WSWSYS_LengCangGui_2
+    2300096: WSWSYS_LengCangGui_3
+    2300098: WSWSYS_LengCangGui_4
+    2300100: WSWSYS_LengCangGui_5
+    2300102: WSWSYS_LengCangGui_6
+    2300104: WSWSYS_LengCangGui_7
+    2300106: WSWSYS_LengCangGui_Men2_1
+    2300108: WSWSYS_LengCangGui_Men2_1 1
+    2300110: WSWSYS_LengCangGui_Men2_1 2
+    2300112: WSWSYS_LengCangGui_Men2_1 3
+    2300114: WSWSYS_LengCangGui_Men2_2
+    2300116: WSWSYS_LengCangGui_Men2_2 1
+    2300118: WSWSYS_LengCangGui_Men2_2 2
+    2300120: WSWSYS_LengCangGui_Men2_2 3
+    2300122: WSWSYS_LengCangGui_Men_1
+    2300124: WSWSYS_LengCangGui_Men_2
+    2300126: WSWSYS_SYS_BingXiang
+    2300128: WSWSYS_WoShiBingXiang1
+    2300130: WSWSYS_WoShiBingXiang2
+    2300132: WSWSYS_WoShiBingXiang3
+    2300134: WSWSYS_WoShiBingXiang4
+    2300136: WSWSYS_WoShiBingXiang5
+    2300138: WSWSYS_WoShiBingXiang6
+    2300140: WSWSYS_WoShiBingXiang7
+    2300142: WSWSYS_WoShiBingXiang8
+    2300144: WSWSYS_WoShiBingXiang9
+    2300146: WSWSYS_YiangPinGui1_1
+    2300148: WSWSYS_YiangPinGui1_1 1
+    2300150: WSWSYS_YiangPinGui1_1 2
+    2300152: WSWSYS_YiangPinGui1_2
+    2300154: WSWSYS_YiangPinGui1_2 1
+    2300156: WSWSYS_YiangPinGui1_2 2
+    2300158: WSWSYS_YiangPinGui1_3
+    2300160: WSWSYS_YiangPinGui1_3 1
+    2300162: WSWSYS_YiangPinGui1_3 2
+    2300164: WSWSYS_YiangPinGui1_4
+    2300166: WSWSYS_YiangPinGui1_4 1
+    2300168: WSWSYS_YiangPinGui1_4 2
+    2300170: WSWSYS_YiangPinGui1_5
+    2300172: WSWSYS_YiangPinGui1_5 1
+    2300174: WSWSYS_YiangPinGui1_5 2
+    2300176: WSWSYS_YiangPinGui1_6
+    2300178: WSWSYS_YiangPinGui1_6 1
+    2300180: WSWSYS_YiangPinGui1_6 2
+    2300182: WSWSYS_YiangPinGui1_7
+    2300184: WSWSYS_YiangPinGui1_7 1
+    2300186: WSWSYS_YiangPinGui1_7 2
+    2300188: WSWSYS_YPS_bt1
+    2300190: WSWSYS_YPS_bt2
+    2300192: WSWSYS_YPS_bt3
+    2300194: WSWSYS_YPS_cz1
+    2300196: BiaoQian
+    2300198: BiaoQian 1
+    2300200: Body
+    2300202: body
+    2300204: Body 1
+    2300206: body 1
+    2300208: Body 2
+    2300210: Body 3
+    2300212: Body 4
+    2300214: body1
+    2300216: cork1
+    2300218: cork1 1
+    2300220: cork1 2
+    2300222: cork1 3
+    2300224: cork1 4
+    2300226: cork2
+    2300228: cork2 1
+    2300230: cork2 2
+    2300232: cork2 3
+    2300234: cork2 4
+    2300236: CuSuanRongYe1
+    2300238: CuSuanRongYe2
+    2300240: polySurface15
+    2300242: polySurface15 1
+    2300244: polySurface15 2
+    2300246: polySurface15 3
+    2300248: polySurface15 4
+    2300250: polySurface15 5
+    2300252: polySurface16
+    2300254: polySurface18
+    2300256: polySurface18 1
+    2300258: polySurface18 2
+    2300260: polySurface18 3
+    2300262: polySurface18 4
+    2300264: polySurface18 5
+    2300266: polySurface20
+    2300268: polySurface21
+    2300270: polySurface22
+    2300272: polySurface23
+    2300274: polySurface24
+    2300276: ShiJiPing_200_body
+    2300278: ShiJiPing_200_bq
+    2300280: ShiJiPing_200_cork
+    2300282: ShiJiPing_200_gz
+    2300284: WSWSYS_GuangKouPing_body
+    2300286: WSWSYS_GuangKouPing_GaiZi
+    2300288: WSWSYS_ShiGuanJia
+    2300290: WSWSYS_SYS_XiYanQi02
+    2300292: WSWSYS_WJZiXP_body
+    2300294: WSWSYS_WJZiXP_body 1
+    2300296: WSWSYS_WJZiXP_body1
+    2300298: WSWSYS_WJZiXP_body1 1
+    2300300: WSWSYS_WJZiXP_FX
+    2300302: WSWSYS_WJZiXP_FX 1
+    2300304: WSWSYS_WJZiXP_G
+    2300306: WSWSYS_WJZiXP_G 1
+    2300308: WSWSYS_ZhuoZi03_1
+    2300310: WSWSYS_ZhuoZi03_2
+    2300312: WSWSYS_ZhuoZi03_3
+    2300314: YiaoPing_BPW_BQ
+    2300316: YiaoPing_BS_BQ
+    2300318: YiaoPing_SC_BQ
+    2300320: YiaoPing_TTB_BQ
+    2300322: YiaoPing_XLD_BQ
+    3300000: BingXiang_1
+    3300002: BingXiang_2
+    3300004: BingXiang_3
+    3300006: BingXiang_5
+    3300008: BingXiang_6
+    3300010: BingXiang_Hezi_1
+    3300012: BingXiang_Hezi_2
+    3300014: BingXiang_Hezi_3
+    3300016: BingXiang_Hezi_4
+    3300018: BingXiang_Lengdonggui_1
+    3300020: BingXiang_Lengdonggui_2
+    3300022: BingXiang_Lengdonggui_3
+    3300024: BingXiang_Lengdonggui_4
+    3300026: BX_PZ1
+    3300028: polySurface11
+    3300030: polySurface13
+    3300032: polySurface7
+    3300034: WSWSYS_ChuShiQi1
+    3300036: WSWSYS_LengCangGui2_1
+    3300038: WSWSYS_LengCangGui2_1 1
+    3300040: WSWSYS_LengCangGui2_1 2
+    3300042: WSWSYS_LengCangGui2_1 3
+    3300044: WSWSYS_LengCangGui2_2
+    3300046: WSWSYS_LengCangGui2_2 1
+    3300048: WSWSYS_LengCangGui2_2 2
+    3300050: WSWSYS_LengCangGui2_2 3
+    3300052: WSWSYS_LengCangGui2_3
+    3300054: WSWSYS_LengCangGui2_3 1
+    3300056: WSWSYS_LengCangGui2_3 2
+    3300058: WSWSYS_LengCangGui2_3 3
+    3300060: WSWSYS_LengCangGui2_4
+    3300062: WSWSYS_LengCangGui2_4 1
+    3300064: WSWSYS_LengCangGui2_4 2
+    3300066: WSWSYS_LengCangGui2_4 3
+    3300068: WSWSYS_LengCangGui2_5
+    3300070: WSWSYS_LengCangGui2_5 1
+    3300072: WSWSYS_LengCangGui2_5 2
+    3300074: WSWSYS_LengCangGui2_5 3
+    3300076: WSWSYS_LengCangGui2_6
+    3300078: WSWSYS_LengCangGui2_6 1
+    3300080: WSWSYS_LengCangGui2_6 2
+    3300082: WSWSYS_LengCangGui2_6 3
+    3300084: WSWSYS_LengCangGui2_7
+    3300086: WSWSYS_LengCangGui2_7 1
+    3300088: WSWSYS_LengCangGui2_7 2
+    3300090: WSWSYS_LengCangGui2_7 3
+    3300092: WSWSYS_LengCangGui_1
+    3300094: WSWSYS_LengCangGui_2
+    3300096: WSWSYS_LengCangGui_3
+    3300098: WSWSYS_LengCangGui_4
+    3300100: WSWSYS_LengCangGui_5
+    3300102: WSWSYS_LengCangGui_6
+    3300104: WSWSYS_LengCangGui_7
+    3300106: WSWSYS_LengCangGui_Men2_1
+    3300108: WSWSYS_LengCangGui_Men2_1 1
+    3300110: WSWSYS_LengCangGui_Men2_1 2
+    3300112: WSWSYS_LengCangGui_Men2_1 3
+    3300114: WSWSYS_LengCangGui_Men2_2
+    3300116: WSWSYS_LengCangGui_Men2_2 1
+    3300118: WSWSYS_LengCangGui_Men2_2 2
+    3300120: WSWSYS_LengCangGui_Men2_2 3
+    3300122: WSWSYS_LengCangGui_Men_1
+    3300124: WSWSYS_LengCangGui_Men_2
+    3300126: WSWSYS_SYS_BingXiang
+    3300128: WSWSYS_WoShiBingXiang1
+    3300130: WSWSYS_WoShiBingXiang2
+    3300132: WSWSYS_WoShiBingXiang3
+    3300134: WSWSYS_WoShiBingXiang4
+    3300136: WSWSYS_WoShiBingXiang5
+    3300138: WSWSYS_WoShiBingXiang6
+    3300140: WSWSYS_WoShiBingXiang7
+    3300142: WSWSYS_WoShiBingXiang8
+    3300144: WSWSYS_WoShiBingXiang9
+    3300146: WSWSYS_YiangPinGui1_1
+    3300148: WSWSYS_YiangPinGui1_1 1
+    3300150: WSWSYS_YiangPinGui1_1 2
+    3300152: WSWSYS_YiangPinGui1_2
+    3300154: WSWSYS_YiangPinGui1_2 1
+    3300156: WSWSYS_YiangPinGui1_2 2
+    3300158: WSWSYS_YiangPinGui1_3
+    3300160: WSWSYS_YiangPinGui1_3 1
+    3300162: WSWSYS_YiangPinGui1_3 2
+    3300164: WSWSYS_YiangPinGui1_4
+    3300166: WSWSYS_YiangPinGui1_4 1
+    3300168: WSWSYS_YiangPinGui1_4 2
+    3300170: WSWSYS_YiangPinGui1_5
+    3300172: WSWSYS_YiangPinGui1_5 1
+    3300174: WSWSYS_YiangPinGui1_5 2
+    3300176: WSWSYS_YiangPinGui1_6
+    3300178: WSWSYS_YiangPinGui1_6 1
+    3300180: WSWSYS_YiangPinGui1_6 2
+    3300182: WSWSYS_YiangPinGui1_7
+    3300184: WSWSYS_YiangPinGui1_7 1
+    3300186: WSWSYS_YiangPinGui1_7 2
+    3300188: WSWSYS_YPS_bt1
+    3300190: WSWSYS_YPS_bt2
+    3300192: WSWSYS_YPS_bt3
+    3300194: WSWSYS_YPS_cz1
+    3300196: BiaoQian
+    3300198: BiaoQian 1
+    3300200: Body
+    3300202: body
+    3300204: Body 1
+    3300206: body 1
+    3300208: Body 2
+    3300210: Body 3
+    3300212: Body 4
+    3300214: body1
+    3300216: cork1
+    3300218: cork1 1
+    3300220: cork1 2
+    3300222: cork1 3
+    3300224: cork1 4
+    3300226: cork2
+    3300228: cork2 1
+    3300230: cork2 2
+    3300232: cork2 3
+    3300234: cork2 4
+    3300236: CuSuanRongYe1
+    3300238: CuSuanRongYe2
+    3300240: polySurface15
+    3300242: polySurface15 1
+    3300244: polySurface15 2
+    3300246: polySurface15 3
+    3300248: polySurface15 4
+    3300250: polySurface15 5
+    3300252: polySurface16
+    3300254: polySurface18
+    3300256: polySurface18 1
+    3300258: polySurface18 2
+    3300260: polySurface18 3
+    3300262: polySurface18 4
+    3300264: polySurface18 5
+    3300266: polySurface20
+    3300268: polySurface21
+    3300270: polySurface22
+    3300272: polySurface23
+    3300274: polySurface24
+    3300276: ShiJiPing_200_body
+    3300278: ShiJiPing_200_bq
+    3300280: ShiJiPing_200_cork
+    3300282: ShiJiPing_200_gz
+    3300284: WSWSYS_GuangKouPing_body
+    3300286: WSWSYS_GuangKouPing_GaiZi
+    3300288: WSWSYS_ShiGuanJia
+    3300290: WSWSYS_SYS_XiYanQi02
+    3300292: WSWSYS_WJZiXP_body
+    3300294: WSWSYS_WJZiXP_body 1
+    3300296: WSWSYS_WJZiXP_body1
+    3300298: WSWSYS_WJZiXP_body1 1
+    3300300: WSWSYS_WJZiXP_FX
+    3300302: WSWSYS_WJZiXP_FX 1
+    3300304: WSWSYS_WJZiXP_G
+    3300306: WSWSYS_WJZiXP_G 1
+    3300308: WSWSYS_ZhuoZi03_1
+    3300310: WSWSYS_ZhuoZi03_2
+    3300312: WSWSYS_ZhuoZi03_3
+    3300314: YiaoPing_BPW_BQ
+    3300316: YiaoPing_BS_BQ
+    3300318: YiaoPing_SC_BQ
+    3300320: YiaoPing_TTB_BQ
+    3300322: YiaoPing_XLD_BQ
+    4300000: WSWSYS_LengCangGui_1
+    4300002: WSWSYS_LengCangGui_2
+    4300004: WSWSYS_LengCangGui_3
+    4300006: WSWSYS_LengCangGui_4
+    4300008: WSWSYS_LengCangGui_5
+    4300010: WSWSYS_LengCangGui_6
+    4300012: WSWSYS_LengCangGui_7
+    4300014: WSWSYS_LengCangGui_Men_1
+    4300016: WSWSYS_LengCangGui_Men_2
+    4300018: WSWSYS_LengCangGui2_1
+    4300020: WSWSYS_LengCangGui2_2
+    4300022: WSWSYS_LengCangGui2_3
+    4300024: WSWSYS_LengCangGui2_4
+    4300026: WSWSYS_LengCangGui2_5
+    4300028: WSWSYS_LengCangGui2_6
+    4300030: WSWSYS_LengCangGui2_7
+    4300032: WSWSYS_LengCangGui_Men2_1
+    4300034: WSWSYS_LengCangGui_Men2_2
+    4300036: WSWSYS_LengCangGui2_1
+    4300038: WSWSYS_LengCangGui2_2
+    4300040: WSWSYS_LengCangGui2_3
+    4300042: WSWSYS_LengCangGui2_4
+    4300044: WSWSYS_LengCangGui2_5
+    4300046: WSWSYS_LengCangGui2_6
+    4300048: WSWSYS_LengCangGui2_7
+    4300050: WSWSYS_LengCangGui_Men2_1
+    4300052: WSWSYS_LengCangGui_Men2_2
+    4300054: WSWSYS_LengCangGui2_1
+    4300056: WSWSYS_LengCangGui2_2
+    4300058: WSWSYS_LengCangGui2_3
+    4300060: WSWSYS_LengCangGui2_4
+    4300062: WSWSYS_LengCangGui2_5
+    4300064: WSWSYS_LengCangGui2_6
+    4300066: WSWSYS_LengCangGui2_7
+    4300068: WSWSYS_LengCangGui_Men2_1
+    4300070: WSWSYS_LengCangGui_Men2_2
+    4300072: WSWSYS_LengCangGui2_1
+    4300074: WSWSYS_LengCangGui2_2
+    4300076: WSWSYS_LengCangGui2_3
+    4300078: WSWSYS_LengCangGui2_4
+    4300080: WSWSYS_LengCangGui2_5
+    4300082: WSWSYS_LengCangGui2_6
+    4300084: WSWSYS_LengCangGui2_7
+    4300086: WSWSYS_LengCangGui_Men2_1
+    4300088: WSWSYS_LengCangGui_Men2_2
+    4300090: WSWSYS_WoShiBingXiang1
+    4300092: WSWSYS_WoShiBingXiang2
+    4300094: WSWSYS_WoShiBingXiang3
+    4300096: WSWSYS_WoShiBingXiang4
+    4300098: WSWSYS_WoShiBingXiang5
+    4300100: WSWSYS_WoShiBingXiang6
+    4300102: WSWSYS_WoShiBingXiang7
+    4300104: WSWSYS_WoShiBingXiang8
+    4300106: WSWSYS_WoShiBingXiang9
+    4300108: BX_PZ1
+    4300110: WSWSYS_SYS_BingXiang
+    4300112: BingXiang_5
+    4300114: BingXiang_Hezi_1
+    4300116: BingXiang_Hezi_2
+    4300118: BingXiang_Hezi_3
+    4300120: BingXiang_Hezi_4
+    4300122: BingXiang_Lengdonggui_1
+    4300124: BingXiang_Lengdonggui_2
+    4300126: BingXiang_Lengdonggui_3
+    4300128: BingXiang_Lengdonggui_4
+    4300130: BingXiang_6
+    4300132: BingXiang_3
+    4300134: polySurface7
+    4300136: polySurface11
+    4300138: BingXiang_2
+    4300140: BingXiang_1
+    4300142: polySurface13
+    4300144: WSWSYS_YiangPinGui1_1
+    4300146: WSWSYS_YiangPinGui1_2
+    4300148: WSWSYS_YiangPinGui1_3
+    4300150: WSWSYS_YiangPinGui1_4
+    4300152: WSWSYS_YiangPinGui1_5
+    4300154: WSWSYS_YiangPinGui1_6
+    4300156: WSWSYS_YiangPinGui1_7
+    4300158: WSWSYS_YiangPinGui1_1
+    4300160: WSWSYS_YiangPinGui1_2
+    4300162: WSWSYS_YiangPinGui1_3
+    4300164: WSWSYS_YiangPinGui1_4
+    4300166: WSWSYS_YiangPinGui1_5
+    4300168: WSWSYS_YiangPinGui1_6
+    4300170: WSWSYS_YiangPinGui1_7
+    4300172: WSWSYS_YiangPinGui1_1
+    4300174: WSWSYS_YiangPinGui1_2
+    4300176: WSWSYS_YiangPinGui1_3
+    4300178: WSWSYS_YiangPinGui1_4
+    4300180: WSWSYS_YiangPinGui1_5
+    4300182: WSWSYS_YiangPinGui1_6
+    4300184: WSWSYS_YiangPinGui1_7
+    4300186: WSWSYS_ChuShiQi1
+    4300188: WSWSYS_YPS_bt1
+    4300190: WSWSYS_YPS_bt2
+    4300192: WSWSYS_YPS_bt3
+    4300194: WSWSYS_YPS_cz1
+    4300196: WSWSYS_ZhuoZi03_1
+    4300198: WSWSYS_ZhuoZi03_2
+    4300200: WSWSYS_ZhuoZi03_3
+    4300202: WSWSYS_SYS_XiYanQi02
+    4300204: WSWSYS_ShiGuanJia
+    4300206: polySurface18
+    4300208: polySurface15
+    4300210: polySurface16
+    4300212: polySurface20
+    4300214: polySurface18
+    4300216: polySurface15
+    4300218: polySurface18
+    4300220: polySurface15
+    4300222: polySurface21
+    4300224: polySurface18
+    4300226: polySurface15
+    4300228: polySurface22
+    4300230: polySurface18
+    4300232: polySurface15
+    4300234: polySurface23
+    4300236: polySurface18
+    4300238: polySurface15
+    4300240: polySurface24
+    4300242: WSWSYS_GuangKouPing_body
+    4300244: WSWSYS_GuangKouPing_GaiZi
+    4300246: WSWSYS_WJZiXP_G
+    4300248: WSWSYS_WJZiXP_body
+    4300250: WSWSYS_WJZiXP_FX
+    4300252: WSWSYS_WJZiXP_body1
+    4300254: CuSuanRongYe2
+    4300256: body1
+    4300258: body
+    4300260: BiaoQian
+    4300262: CuSuanRongYe1
+    4300264: body
+    4300266: BiaoQian
+    4300268: WSWSYS_WJZiXP_G
+    4300270: WSWSYS_WJZiXP_body
+    4300272: WSWSYS_WJZiXP_FX
+    4300274: WSWSYS_WJZiXP_body1
+    4300276: YiaoPing_TTB_BQ
+    4300278: cork1
+    4300280: cork2
+    4300282: Body
+    4300284: YiaoPing_SC_BQ
+    4300286: cork1
+    4300288: cork2
+    4300290: Body
+    4300292: YiaoPing_BPW_BQ
+    4300294: cork1
+    4300296: cork2
+    4300298: Body
+    4300300: YiaoPing_XLD_BQ
+    4300302: cork1
+    4300304: cork2
+    4300306: Body
+    4300308: YiaoPing_BS_BQ
+    4300310: cork1
+    4300312: cork2
+    4300314: Body
+    4300316: ShiJiPing_200_bq
+    4300318: ShiJiPing_200_body
+    4300320: ShiJiPing_200_gz
+    4300322: ShiJiPing_200_cork
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

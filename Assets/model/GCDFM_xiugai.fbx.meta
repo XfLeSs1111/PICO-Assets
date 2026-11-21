@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 11bfb97b03179c04d9f16005e31992e1
+timeCreated: 1672798744
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group5
+    100004: hand
+    100006: hand_model
+    100008: hand_model 1
+    100010: hand_model_grp
+    100012: hand_rig_L
+    100014: hand_rig_R
+    100016: index01
+    100018: index02
+    100020: index03
+    100022: index04
+    100024: joint1
+    100026: joint10
+    100028: joint11
+    100030: joint12
+    100032: joint13
+    100034: joint14
+    100036: joint15
+    100038: joint16
+    100040: joint17
+    100042: joint18
+    100044: joint19
+    100046: joint2
+    100048: joint20
+    100050: joint21
+    100052: joint22
+    100054: joint23
+    100056: joint3
+    100058: joint4
+    100060: joint5
+    100062: joint6
+    100064: joint7
+    100066: joint8
+    100068: joint9
+    100070: little01
+    100072: little02
+    100074: little03
+    100076: little04
+    100078: lxg_xin
+    100080: lxg_xin_1
+    100082: lxg_xin_1_g
+    100084: middle01
+    100086: middle02
+    100088: middle03
+    100090: middle04
+    100092: qmjy_lxgj_lxg2_gz
+    100094: qmjy_lxgj_lxg2_zt
+    100096: qmjy_lxgj_lxg2_zt_bq
+    100098: qmjy_lxgj_lxg2_zt_gs
+    100100: qmjy_lxgj_lxg2_zt_yt
+    100102: ring01
+    100104: ring02
+    100106: ring03
+    100108: ring04
+    100110: skeleton_grp
+    100112: thumb01
+    100114: thumb02
+    100116: thumb03
+    100118: thumb04
+    100120: wrist
+    400000: //RootNode
+    400002: group5
+    400004: hand
+    400006: hand_model
+    400008: hand_model 1
+    400010: hand_model_grp
+    400012: hand_rig_L
+    400014: hand_rig_R
+    400016: index01
+    400018: index02
+    400020: index03
+    400022: index04
+    400024: joint1
+    400026: joint10
+    400028: joint11
+    400030: joint12
+    400032: joint13
+    400034: joint14
+    400036: joint15
+    400038: joint16
+    400040: joint17
+    400042: joint18
+    400044: joint19
+    400046: joint2
+    400048: joint20
+    400050: joint21
+    400052: joint22
+    400054: joint23
+    400056: joint3
+    400058: joint4
+    400060: joint5
+    400062: joint6
+    400064: joint7
+    400066: joint8
+    400068: joint9
+    400070: little01
+    400072: little02
+    400074: little03
+    400076: little04
+    400078: lxg_xin
+    400080: lxg_xin_1
+    400082: lxg_xin_1_g
+    400084: middle01
+    400086: middle02
+    400088: middle03
+    400090: middle04
+    400092: qmjy_lxgj_lxg2_gz
+    400094: qmjy_lxgj_lxg2_zt
+    400096: qmjy_lxgj_lxg2_zt_bq
+    400098: qmjy_lxgj_lxg2_zt_gs
+    400100: qmjy_lxgj_lxg2_zt_yt
+    400102: ring01
+    400104: ring02
+    400106: ring03
+    400108: ring04
+    400110: skeleton_grp
+    400112: thumb01
+    400114: thumb02
+    400116: thumb03
+    400118: thumb04
+    400120: wrist
+    2300000: qmjy_lxgj_lxg2_gz
+    2300002: qmjy_lxgj_lxg2_zt_bq
+    2300004: qmjy_lxgj_lxg2_zt_gs
+    2300006: qmjy_lxgj_lxg2_zt_yt
+    3300000: qmjy_lxgj_lxg2_gz
+    3300002: qmjy_lxgj_lxg2_zt_bq
+    3300004: qmjy_lxgj_lxg2_zt_gs
+    3300006: qmjy_lxgj_lxg2_zt_yt
+    4300000: hand_model
+    4300002: qmjy_lxgj_lxg2_gz
+    4300004: qmjy_lxgj_lxg2_zt_gs
+    4300006: qmjy_lxgj_lxg2_zt_yt
+    4300008: qmjy_lxgj_lxg2_zt_bq
+    4300010: hand_model
+    7400000: Take 001
+    7400002: a1
+    7400004: a2
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: hand_model
+    13700002: hand_model 1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: a1
+      takeName: 
+      firstFrame: 5200
+      lastFrame: 5300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: a2
+      takeName: 
+      firstFrame: 5310
+      lastFrame: 5385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 0b0bb57dd80f8d748aeb08b39f22d750
+timeCreated: 1654569838
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aniu
+    100002: aniu_dw
+    100004: aniu_wd
+    100006: aniu_xl
+    100008: dj_aniu
+    100010: dj_aniu_dws
+    100012: dj_aniu_dwx
+    100014: dj_aniu_phmv
+    100016: dj_aniu_qr
+    100018: dj_aniu_wds
+    100020: dj_aniu_wdx
+    100022: dj_aniu_xls
+    100024: dj_aniu_xlx
+    100026: jx
+    100028: lvzhi
+    100030: //RootNode
+    100032: PHJ
+    100034: PHJ_b
+    100036: PHJ_bg
+    100038: PHJ_dp
+    100040: PHJ_kg
+    100042: PHJ_sg_1
+    100044: PHJ_sg_2
+    100046: PHJ_sz
+    100048: PHJ_t
+    100050: PHJ_zt
+    100052: polySurface1
+    100054: polySurface1 1
+    100056: polySurface1 2
+    100058: polySurface2
+    100060: polySurface2 1
+    100062: polySurface2 2
+    100064: sb100
+    100066: sb1001
+    100068: sb1002
+    100070: sb1003
+    100072: sb100_bq
+    100074: sb100_bq 1
+    100076: sb100_bq 2
+    100078: sb100_bq 3
+    100080: sb100_bs
+    100082: sb100_bs 1
+    100084: sb100_bs 2
+    100086: sb100_bs 3
+    100088: sb100_yt
+    100090: sb100_yt 1
+    100092: sb100_yt 2
+    100094: sb100_yt 3
+    100096: sb250
+    100098: sb250_bq
+    100100: sb250_bs
+    100102: sb250_yt
+    100104: SWSY_blb
+    100106: SWSY_xp
+    100108: SZ_mv
+    100110: SZ_ph
+    100112: szmb
+    100114: szmb_1
+    100116: szmb_2
+    100118: szmb_3
+    100120: szmb_4
+    100122: szmb_5
+    100124: wdmb
+    100126: wdmb_1
+    100128: wdmb_2
+    100130: wdmb_3
+    100132: wdmb_4
+    100134: xp_lj
+    100136: xp_lj_gz
+    100138: xp_lj_pg
+    100140: xp_ps
+    100142: xp_ps_bq
+    100144: xp_ps_yw
+    100146: xp_ps_zt
+    400000: aniu
+    400002: aniu_dw
+    400004: aniu_wd
+    400006: aniu_xl
+    400008: dj_aniu
+    400010: dj_aniu_dws
+    400012: dj_aniu_dwx
+    400014: dj_aniu_phmv
+    400016: dj_aniu_qr
+    400018: dj_aniu_wds
+    400020: dj_aniu_wdx
+    400022: dj_aniu_xls
+    400024: dj_aniu_xlx
+    400026: jx
+    400028: lvzhi
+    400030: //RootNode
+    400032: PHJ
+    400034: PHJ_b
+    400036: PHJ_bg
+    400038: PHJ_dp
+    400040: PHJ_kg
+    400042: PHJ_sg_1
+    400044: PHJ_sg_2
+    400046: PHJ_sz
+    400048: PHJ_t
+    400050: PHJ_zt
+    400052: polySurface1
+    400054: polySurface1 1
+    400056: polySurface1 2
+    400058: polySurface2
+    400060: polySurface2 1
+    400062: polySurface2 2
+    400064: sb100
+    400066: sb1001
+    400068: sb1002
+    400070: sb1003
+    400072: sb100_bq
+    400074: sb100_bq 1
+    400076: sb100_bq 2
+    400078: sb100_bq 3
+    400080: sb100_bs
+    400082: sb100_bs 1
+    400084: sb100_bs 2
+    400086: sb100_bs 3
+    400088: sb100_yt
+    400090: sb100_yt 1
+    400092: sb100_yt 2
+    400094: sb100_yt 3
+    400096: sb250
+    400098: sb250_bq
+    400100: sb250_bs
+    400102: sb250_yt
+    400104: SWSY_blb
+    400106: SWSY_xp
+    400108: SZ_mv
+    400110: SZ_ph
+    400112: szmb
+    400114: szmb_1
+    400116: szmb_2
+    400118: szmb_3
+    400120: szmb_4
+    400122: szmb_5
+    400124: wdmb
+    400126: wdmb_1
+    400128: wdmb_2
+    400130: wdmb_3
+    400132: wdmb_4
+    400134: xp_lj
+    400136: xp_lj_gz
+    400138: xp_lj_pg
+    400140: xp_ps
+    400142: xp_ps_bq
+    400144: xp_ps_yw
+    400146: xp_ps_zt
+    2300000: aniu_dw
+    2300002: aniu_wd
+    2300004: aniu_xl
+    2300006: dj_aniu_dws
+    2300008: dj_aniu_dwx
+    2300010: dj_aniu_phmv
+    2300012: dj_aniu_qr
+    2300014: dj_aniu_wds
+    2300016: dj_aniu_wdx
+    2300018: dj_aniu_xls
+    2300020: dj_aniu_xlx
+    2300022: jx
+    2300024: lvzhi
+    2300026: PHJ_bg
+    2300028: PHJ_dp
+    2300030: PHJ_kg
+    2300032: PHJ_sg_1
+    2300034: PHJ_sg_2
+    2300036: PHJ_t
+    2300038: PHJ_zt
+    2300040: polySurface1
+    2300042: polySurface1 1
+    2300044: polySurface1 2
+    2300046: polySurface2
+    2300048: polySurface2 1
+    2300050: polySurface2 2
+    2300052: sb100_bq
+    2300054: sb100_bs
+    2300056: sb100_bs 1
+    2300058: sb100_bs 2
+    2300060: sb100_bs 3
+    2300062: sb100_yt
+    2300064: sb100_yt 1
+    2300066: sb100_yt 2
+    2300068: sb100_yt 3
+    2300070: sb250_bq
+    2300072: sb250_bs
+    2300074: sb250_yt
+    2300076: SWSY_blb
+    2300078: SZ_mv
+    2300080: SZ_ph
+    2300082: szmb_1
+    2300084: szmb_2
+    2300086: szmb_3
+    2300088: szmb_4
+    2300090: szmb_5
+    2300092: wdmb_1
+    2300094: wdmb_2
+    2300096: wdmb_3
+    2300098: wdmb_4
+    2300100: xp_lj_gz
+    2300102: xp_lj_pg
+    2300104: xp_ps_bq
+    2300106: xp_ps_yw
+    2300108: xp_ps_zt
+    3300000: aniu_dw
+    3300002: aniu_wd
+    3300004: aniu_xl
+    3300006: dj_aniu_dws
+    3300008: dj_aniu_dwx
+    3300010: dj_aniu_phmv
+    3300012: dj_aniu_qr
+    3300014: dj_aniu_wds
+    3300016: dj_aniu_wdx
+    3300018: dj_aniu_xls
+    3300020: dj_aniu_xlx
+    3300022: jx
+    3300024: lvzhi
+    3300026: PHJ_bg
+    3300028: PHJ_dp
+    3300030: PHJ_kg
+    3300032: PHJ_sg_1
+    3300034: PHJ_sg_2
+    3300036: PHJ_t
+    3300038: PHJ_zt
+    3300040: polySurface1
+    3300042: polySurface1 1
+    3300044: polySurface1 2
+    3300046: polySurface2
+    3300048: polySurface2 1
+    3300050: polySurface2 2
+    3300052: sb100_bq
+    3300054: sb100_bs
+    3300056: sb100_bs 1
+    3300058: sb100_bs 2
+    3300060: sb100_bs 3
+    3300062: sb100_yt
+    3300064: sb100_yt 1
+    3300066: sb100_yt 2
+    3300068: sb100_yt 3
+    3300070: sb250_bq
+    3300072: sb250_bs
+    3300074: sb250_yt
+    3300076: SWSY_blb
+    3300078: SZ_mv
+    3300080: SZ_ph
+    3300082: szmb_1
+    3300084: szmb_2
+    3300086: szmb_3
+    3300088: szmb_4
+    3300090: szmb_5
+    3300092: wdmb_1
+    3300094: wdmb_2
+    3300096: wdmb_3
+    3300098: wdmb_4
+    3300100: xp_lj_gz
+    3300102: xp_lj_pg
+    3300104: xp_ps_bq
+    3300106: xp_ps_yw
+    3300108: xp_ps_zt
+    4300000: SWSY_blb
+    4300002: lvzhi
+    4300004: sb100_bs
+    4300006: polySurface1
+    4300008: polySurface2
+    4300010: sb100_yt
+    4300012: sb100_bs
+    4300014: polySurface1
+    4300016: polySurface2
+    4300018: sb100_yt
+    4300020: sb100_bs
+    4300022: polySurface1
+    4300024: polySurface2
+    4300026: sb100_yt
+    4300028: xp_ps_zt
+    4300030: xp_ps_bq
+    4300032: xp_ps_yw
+    4300034: xp_lj_gz
+    4300036: xp_lj_pg
+    4300038: sb250_bs
+    4300040: sb250_bq
+    4300042: sb250_yt
+    4300044: sb100_bs
+    4300046: sb100_bq
+    4300048: sb100_yt
+    4300050: dj_aniu_qr
+    4300052: dj_aniu_dws
+    4300054: dj_aniu_dwx
+    4300056: dj_aniu_xls
+    4300058: dj_aniu_xlx
+    4300060: dj_aniu_wds
+    4300062: dj_aniu_wdx
+    4300064: dj_aniu_phmv
+    4300066: aniu_dw
+    4300068: aniu_xl
+    4300070: aniu_wd
+    4300072: SZ_ph
+    4300074: SZ_mv
+    4300076: szmb_1
+    4300078: szmb_2
+    4300080: szmb_3
+    4300082: szmb_4
+    4300084: szmb_5
+    4300086: wdmb_1
+    4300088: wdmb_2
+    4300090: wdmb_3
+    4300092: wdmb_4
+    4300094: PHJ_t
+    4300096: PHJ_bg
+    4300098: jx
+    4300100: PHJ_sg_1
+    4300102: PHJ_dp
+    4300104: PHJ_sg_2
+    4300106: PHJ_kg
+    4300108: PHJ_zt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 339295b2aadf715409cf862aba247f06
+timeCreated: 1471592514
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AnQuanFa_1
+    100002: AnQuanFa_1 1
+    100004: AnQuanFa_2
+    100006: AnQuanFa_2 1
+    100008: AnQuanFa_3
+    100010: AnQuanFa_3 1
+    100012: AnQuanFa_4
+    100014: AnQuanFa_4 1
+    100016: DiShuiWei_LOW
+    100018: DiShuiWei_LOW 1
+    100020: DiWen_LA
+    100022: DiWen_LA 1
+    100024: FangQiFa_1
+    100026: FangQiFa_1 1
+    100028: FangQiFa_2
+    100030: FangQiFa_2 1
+    100032: FangQiFa_3
+    100034: FangQiFa_3 1
+    100036: FangQiFa_4
+    100038: FangQiFa_4 1
+    100040: GaoShuiWei_HIGH
+    100042: GaoShuiWei_HIGH 1
+    100044: GaoWen_HA
+    100046: GaoWen_HA 1
+    100048: GWMJJ_AnQuanFa
+    100050: GWMJJ_AnQuanFa 1
+    100052: GWMJJ_Body
+    100054: GWMJJ_Body 1
+    100056: GWMJJ_Fa
+    100058: GWMJJ_Fa 1
+    100060: GWMJJ_FangQiFa
+    100062: GWMJJ_FangQiFa 1
+    100064: GWMJJ_Gai
+    100066: GWMJJ_Gai 1
+    100068: GWMJJ_Gai_2
+    100070: GWMJJ_Gai_2 1
+    100072: GWMJJ_Gai_3
+    100074: GWMJJ_Gai_3 1
+    100076: GWMJJ_Gai_7
+    100078: GWMJJ_Gai_7 1
+    100080: GWMJJ_Gai_8
+    100082: GWMJJ_Gai_8 1
+    100084: GWMJJ_NeiDan
+    100086: GWMJJ_NeiDan 1
+    100088: GWMJJ_Number_Power
+    100090: GWMJJ_Number_Power 1
+    100092: GWMJJ_PaiQi_PaiShui
+    100094: GWMJJ_PaiQi_PaiShui 1
+    100096: GWMJJ_TiLian
+    100098: GWMJJ_TiLian 1
+    100100: GWMJJ_ZhiZhen
+    100102: GWMJJ_ZhiZhen 1
+    100104: GWMJJ_ZiDongDianZha
+    100106: GWMJJ_ZiDongDianZha 1
+    100108: GYMJJ_PZ1
+    100110: GYMJJ_PZ1 1
+    100112: JiaRen_OUT
+    100114: JiaRen_OUT 1
+    100116: Number_Power1
+    100118: Number_Power1 1
+    100120: Number_Power2
+    100122: Number_Power2 1
+    100124: Number_Power3
+    100126: Number_Power3 1
+    100128: Number_Power4
+    100130: Number_Power4 1
+    100132: Number_Power5
+    100134: Number_Power5 1
+    100136: Number_Power6
+    100138: Number_Power6 1
+    100140: Number_Power7
+    100142: Number_Power7 1
+    100144: Number_Power8
+    100146: Number_Power8 1
+    100148: power_KaiGuan
+    100150: power_KaiGuan 1
+    100152: QueShui_LACK
+    100154: QueShui_LACK 1
+    100156: WSWSSYS_HengWenGanZaoXiang
+    100158: WSWSSYS_HengWenGanZaoXiang_1
+    100160: WSWSSYS_HengWenGanZaoXiang_2
+    100162: WSWSSYS_HengWenGanZaoXiang_3
+    100164: WSWSSYS_HengWenGanZaoXiang_4
+    100166: WSWSSYS_HengWenGanZaoXiang_5
+    100168: WSWSSYS_HengWenGanZaoXiang_6
+    100170: WSWSSYS_HengWenGanZaoXiang_7
+    100172: WSWSSYS_HengWenGanZaoXiang_boli
+    100174: WSWSSYS_HengWenGanZaoXiang_Men
+    100176: WSWSSYS_HengWenGanZaoXiang_Men 1
+    100178: WSWSYS_GYMJJ_Low1
+    100180: WSWSYS_GYMJJ_Low1_sd
+    100182: WSWSYS_GYMJJ_Low1_sd 1
+    100184: WSWSYS_GYMJJ_Low2
+    100186: WSWSYS_MJS_bt1
+    100188: WSWSYS_MJS_cz1
+    100190: WSWSYS_SYS_SLT
+    100192: WSWSYS_SYS_SLT1
+    100194: WSWSYS_SYS_SLT_17
+    100196: WSWSYS_SYS_SLT_17 1
+    100198: WSWSYS_SYS_SLT_18
+    100200: WSWSYS_SYS_SLT_18 1
+    100202: WSWSYS_SYS_SLT_19
+    100204: WSWSYS_SYS_SLT_19 1
+    100206: WSWSYS_SYS_SLT_20
+    100208: WSWSYS_SYS_SLT_20 1
+    100210: WSWSYS_SYS_XiYanQi01
+    100212: //RootNode
+    100214: WSWSYS_YiangPinGui1_1
+    100216: WSWSYS_YiangPinGui1_1 1
+    100218: WSWSYS_YiangPinGui1_1 2
+    100220: WSWSYS_YiangPinGui1_2
+    100222: WSWSYS_YiangPinGui1_2 1
+    100224: WSWSYS_YiangPinGui1_2 2
+    100226: WSWSYS_YiangPinGui1_3
+    100228: WSWSYS_YiangPinGui1_3 1
+    100230: WSWSYS_YiangPinGui1_3 2
+    100232: WSWSYS_YiangPinGui1_4
+    100234: WSWSYS_YiangPinGui1_4 1
+    100236: WSWSYS_YiangPinGui1_4 2
+    100238: WSWSYS_YiangPinGui1_5
+    100240: WSWSYS_YiangPinGui1_5 1
+    100242: WSWSYS_YiangPinGui1_5 2
+    100244: WSWSYS_YiangPinGui1_6
+    100246: WSWSYS_YiangPinGui1_6 1
+    100248: WSWSYS_YiangPinGui1_6 2
+    100250: WSWSYS_YiangPinGui1_7
+    100252: WSWSYS_YiangPinGui1_7 1
+    100254: WSWSYS_YiangPinGui1_7 2
+    100256: WSWSYS_YiangPinGui4
+    100258: WSWSYS_YiangPinGui5
+    100260: WSWSYS_YiangPinGui6
+    100262: sz_1
+    100264: sz_2
+    100266: sz_3
+    100268: sz_4
+    100270: WSWSY_BJ_171
+    100272: WSWSY_Bx_8
+    100274: WSWSYS_MJS_cz2
+    100276: zdq
+    100278: ZDQ_bq
+    100280: ZDQ_dy
+    100282: ZDQ_kg
+    100284: ZDQ_sz
+    100286: ZDQ_ts
+    100288: ZDQ_tsw
+    100290: ZDQ_zt
+    100292: WSWSY_BJ_172
+    100294: WSWSY_BJ_173
+    400000: AnQuanFa_1
+    400002: AnQuanFa_1 1
+    400004: AnQuanFa_2
+    400006: AnQuanFa_2 1
+    400008: AnQuanFa_3
+    400010: AnQuanFa_3 1
+    400012: AnQuanFa_4
+    400014: AnQuanFa_4 1
+    400016: DiShuiWei_LOW
+    400018: DiShuiWei_LOW 1
+    400020: DiWen_LA
+    400022: DiWen_LA 1
+    400024: FangQiFa_1
+    400026: FangQiFa_1 1
+    400028: FangQiFa_2
+    400030: FangQiFa_2 1
+    400032: FangQiFa_3
+    400034: FangQiFa_3 1
+    400036: FangQiFa_4
+    400038: FangQiFa_4 1
+    400040: GaoShuiWei_HIGH
+    400042: GaoShuiWei_HIGH 1
+    400044: GaoWen_HA
+    400046: GaoWen_HA 1
+    400048: GWMJJ_AnQuanFa
+    400050: GWMJJ_AnQuanFa 1
+    400052: GWMJJ_Body
+    400054: GWMJJ_Body 1
+    400056: GWMJJ_Fa
+    400058: GWMJJ_Fa 1
+    400060: GWMJJ_FangQiFa
+    400062: GWMJJ_FangQiFa 1
+    400064: GWMJJ_Gai
+    400066: GWMJJ_Gai 1
+    400068: GWMJJ_Gai_2
+    400070: GWMJJ_Gai_2 1
+    400072: GWMJJ_Gai_3
+    400074: GWMJJ_Gai_3 1
+    400076: GWMJJ_Gai_7
+    400078: GWMJJ_Gai_7 1
+    400080: GWMJJ_Gai_8
+    400082: GWMJJ_Gai_8 1
+    400084: GWMJJ_NeiDan
+    400086: GWMJJ_NeiDan 1
+    400088: GWMJJ_Number_Power
+    400090: GWMJJ_Number_Power 1
+    400092: GWMJJ_PaiQi_PaiShui
+    400094: GWMJJ_PaiQi_PaiShui 1
+    400096: GWMJJ_TiLian
+    400098: GWMJJ_TiLian 1
+    400100: GWMJJ_ZhiZhen
+    400102: GWMJJ_ZhiZhen 1
+    400104: GWMJJ_ZiDongDianZha
+    400106: GWMJJ_ZiDongDianZha 1
+    400108: GYMJJ_PZ1
+    400110: GYMJJ_PZ1 1
+    400112: JiaRen_OUT
+    400114: JiaRen_OUT 1
+    400116: Number_Power1
+    400118: Number_Power1 1
+    400120: Number_Power2
+    400122: Number_Power2 1
+    400124: Number_Power3
+    400126: Number_Power3 1
+    400128: Number_Power4
+    400130: Number_Power4 1
+    400132: Number_Power5
+    400134: Number_Power5 1
+    400136: Number_Power6
+    400138: Number_Power6 1
+    400140: Number_Power7
+    400142: Number_Power7 1
+    400144: Number_Power8
+    400146: Number_Power8 1
+    400148: power_KaiGuan
+    400150: power_KaiGuan 1
+    400152: QueShui_LACK
+    400154: QueShui_LACK 1
+    400156: WSWSSYS_HengWenGanZaoXiang
+    400158: WSWSSYS_HengWenGanZaoXiang_1
+    400160: WSWSSYS_HengWenGanZaoXiang_2
+    400162: WSWSSYS_HengWenGanZaoXiang_3
+    400164: WSWSSYS_HengWenGanZaoXiang_4
+    400166: WSWSSYS_HengWenGanZaoXiang_5
+    400168: WSWSSYS_HengWenGanZaoXiang_6
+    400170: WSWSSYS_HengWenGanZaoXiang_7
+    400172: WSWSSYS_HengWenGanZaoXiang_boli
+    400174: WSWSSYS_HengWenGanZaoXiang_Men
+    400176: WSWSSYS_HengWenGanZaoXiang_Men 1
+    400178: WSWSYS_GYMJJ_Low1
+    400180: WSWSYS_GYMJJ_Low1_sd
+    400182: WSWSYS_GYMJJ_Low1_sd 1
+    400184: WSWSYS_GYMJJ_Low2
+    400186: WSWSYS_MJS_bt1
+    400188: WSWSYS_MJS_cz1
+    400190: WSWSYS_SYS_SLT
+    400192: WSWSYS_SYS_SLT1
+    400194: WSWSYS_SYS_SLT_17
+    400196: WSWSYS_SYS_SLT_17 1
+    400198: WSWSYS_SYS_SLT_18
+    400200: WSWSYS_SYS_SLT_18 1
+    400202: WSWSYS_SYS_SLT_19
+    400204: WSWSYS_SYS_SLT_19 1
+    400206: WSWSYS_SYS_SLT_20
+    400208: WSWSYS_SYS_SLT_20 1
+    400210: WSWSYS_SYS_XiYanQi01
+    400212: //RootNode
+    400214: WSWSYS_YiangPinGui1_1
+    400216: WSWSYS_YiangPinGui1_1 1
+    400218: WSWSYS_YiangPinGui1_1 2
+    400220: WSWSYS_YiangPinGui1_2
+    400222: WSWSYS_YiangPinGui1_2 1
+    400224: WSWSYS_YiangPinGui1_2 2
+    400226: WSWSYS_YiangPinGui1_3
+    400228: WSWSYS_YiangPinGui1_3 1
+    400230: WSWSYS_YiangPinGui1_3 2
+    400232: WSWSYS_YiangPinGui1_4
+    400234: WSWSYS_YiangPinGui1_4 1
+    400236: WSWSYS_YiangPinGui1_4 2
+    400238: WSWSYS_YiangPinGui1_5
+    400240: WSWSYS_YiangPinGui1_5 1
+    400242: WSWSYS_YiangPinGui1_5 2
+    400244: WSWSYS_YiangPinGui1_6
+    400246: WSWSYS_YiangPinGui1_6 1
+    400248: WSWSYS_YiangPinGui1_6 2
+    400250: WSWSYS_YiangPinGui1_7
+    400252: WSWSYS_YiangPinGui1_7 1
+    400254: WSWSYS_YiangPinGui1_7 2
+    400256: WSWSYS_YiangPinGui4
+    400258: WSWSYS_YiangPinGui5
+    400260: WSWSYS_YiangPinGui6
+    400262: sz_1
+    400264: sz_2
+    400266: sz_3
+    400268: sz_4
+    400270: WSWSY_BJ_171
+    400272: WSWSY_Bx_8
+    400274: WSWSYS_MJS_cz2
+    400276: zdq
+    400278: ZDQ_bq
+    400280: ZDQ_dy
+    400282: ZDQ_kg
+    400284: ZDQ_sz
+    400286: ZDQ_ts
+    400288: ZDQ_tsw
+    400290: ZDQ_zt
+    400292: WSWSY_BJ_172
+    400294: WSWSY_BJ_173
+    2300000: AnQuanFa_1
+    2300002: AnQuanFa_1 1
+    2300004: AnQuanFa_2
+    2300006: AnQuanFa_2 1
+    2300008: AnQuanFa_3
+    2300010: AnQuanFa_3 1
+    2300012: AnQuanFa_4
+    2300014: AnQuanFa_4 1
+    2300016: DiShuiWei_LOW
+    2300018: DiShuiWei_LOW 1
+    2300020: DiWen_LA
+    2300022: DiWen_LA 1
+    2300024: FangQiFa_1
+    2300026: FangQiFa_1 1
+    2300028: FangQiFa_2
+    2300030: FangQiFa_2 1
+    2300032: FangQiFa_3
+    2300034: FangQiFa_3 1
+    2300036: FangQiFa_4
+    2300038: FangQiFa_4 1
+    2300040: GaoShuiWei_HIGH
+    2300042: GaoShuiWei_HIGH 1
+    2300044: GaoWen_HA
+    2300046: GaoWen_HA 1
+    2300048: GWMJJ_Body
+    2300050: GWMJJ_Body 1
+    2300052: GWMJJ_Fa
+    2300054: GWMJJ_Fa 1
+    2300056: GWMJJ_Gai_2
+    2300058: GWMJJ_Gai_2 1
+    2300060: GWMJJ_Gai_3
+    2300062: GWMJJ_Gai_3 1
+    2300064: GWMJJ_Gai_7
+    2300066: GWMJJ_Gai_7 1
+    2300068: GWMJJ_Gai_8
+    2300070: GWMJJ_Gai_8 1
+    2300072: GWMJJ_NeiDan
+    2300074: GWMJJ_NeiDan 1
+    2300076: GWMJJ_PaiQi_PaiShui
+    2300078: GWMJJ_PaiQi_PaiShui 1
+    2300080: GWMJJ_TiLian
+    2300082: GWMJJ_TiLian 1
+    2300084: GWMJJ_ZhiZhen
+    2300086: GWMJJ_ZhiZhen 1
+    2300088: GWMJJ_ZiDongDianZha
+    2300090: GWMJJ_ZiDongDianZha 1
+    2300092: GYMJJ_PZ1
+    2300094: GYMJJ_PZ1 1
+    2300096: JiaRen_OUT
+    2300098: JiaRen_OUT 1
+    2300100: Number_Power1
+    2300102: Number_Power1 1
+    2300104: Number_Power2
+    2300106: Number_Power2 1
+    2300108: Number_Power3
+    2300110: Number_Power3 1
+    2300112: Number_Power4
+    2300114: Number_Power4 1
+    2300116: Number_Power5
+    2300118: Number_Power5 1
+    2300120: Number_Power6
+    2300122: Number_Power6 1
+    2300124: Number_Power7
+    2300126: Number_Power7 1
+    2300128: Number_Power8
+    2300130: Number_Power8 1
+    2300132: power_KaiGuan
+    2300134: power_KaiGuan 1
+    2300136: QueShui_LACK
+    2300138: QueShui_LACK 1
+    2300140: WSWSSYS_HengWenGanZaoXiang_1
+    2300142: WSWSSYS_HengWenGanZaoXiang_2
+    2300144: WSWSSYS_HengWenGanZaoXiang_3
+    2300146: WSWSSYS_HengWenGanZaoXiang_4
+    2300148: WSWSSYS_HengWenGanZaoXiang_5
+    2300150: WSWSSYS_HengWenGanZaoXiang_6
+    2300152: WSWSSYS_HengWenGanZaoXiang_7
+    2300154: WSWSSYS_HengWenGanZaoXiang_boli
+    2300156: WSWSSYS_HengWenGanZaoXiang_Men 1
+    2300158: WSWSYS_GYMJJ_Low1_sd
+    2300160: WSWSYS_GYMJJ_Low1_sd 1
+    2300162: WSWSYS_MJS_bt1
+    2300164: WSWSYS_MJS_cz1
+    2300166: WSWSYS_SYS_SLT_17
+    2300168: WSWSYS_SYS_SLT_17 1
+    2300170: WSWSYS_SYS_SLT_18
+    2300172: WSWSYS_SYS_SLT_18 1
+    2300174: WSWSYS_SYS_SLT_19
+    2300176: WSWSYS_SYS_SLT_19 1
+    2300178: WSWSYS_SYS_SLT_20
+    2300180: WSWSYS_SYS_SLT_20 1
+    2300182: WSWSYS_SYS_XiYanQi01
+    2300184: WSWSYS_YiangPinGui1_1
+    2300186: WSWSYS_YiangPinGui1_1 1
+    2300188: WSWSYS_YiangPinGui1_1 2
+    2300190: WSWSYS_YiangPinGui1_2
+    2300192: WSWSYS_YiangPinGui1_2 1
+    2300194: WSWSYS_YiangPinGui1_2 2
+    2300196: WSWSYS_YiangPinGui1_3
+    2300198: WSWSYS_YiangPinGui1_3 1
+    2300200: WSWSYS_YiangPinGui1_3 2
+    2300202: WSWSYS_YiangPinGui1_4
+    2300204: WSWSYS_YiangPinGui1_4 1
+    2300206: WSWSYS_YiangPinGui1_4 2
+    2300208: WSWSYS_YiangPinGui1_5
+    2300210: WSWSYS_YiangPinGui1_5 1
+    2300212: WSWSYS_YiangPinGui1_5 2
+    2300214: WSWSYS_YiangPinGui1_6
+    2300216: WSWSYS_YiangPinGui1_6 1
+    2300218: WSWSYS_YiangPinGui1_6 2
+    2300220: WSWSYS_YiangPinGui1_7
+    2300222: WSWSYS_YiangPinGui1_7 1
+    2300224: WSWSYS_YiangPinGui1_7 2
+    2300226: sz_1
+    2300228: sz_2
+    2300230: sz_3
+    2300232: sz_4
+    2300234: WSWSY_BJ_171
+    2300236: WSWSY_Bx_8
+    2300238: WSWSYS_MJS_cz2
+    2300240: ZDQ_bq
+    2300242: ZDQ_dy
+    2300244: ZDQ_kg
+    2300246: ZDQ_ts
+    2300248: ZDQ_tsw
+    2300250: ZDQ_zt
+    2300252: WSWSY_BJ_172
+    2300254: WSWSY_BJ_173
+    3300000: AnQuanFa_1
+    3300002: AnQuanFa_1 1
+    3300004: AnQuanFa_2
+    3300006: AnQuanFa_2 1
+    3300008: AnQuanFa_3
+    3300010: AnQuanFa_3 1
+    3300012: AnQuanFa_4
+    3300014: AnQuanFa_4 1
+    3300016: DiShuiWei_LOW
+    3300018: DiShuiWei_LOW 1
+    3300020: DiWen_LA
+    3300022: DiWen_LA 1
+    3300024: FangQiFa_1
+    3300026: FangQiFa_1 1
+    3300028: FangQiFa_2
+    3300030: FangQiFa_2 1
+    3300032: FangQiFa_3
+    3300034: FangQiFa_3 1
+    3300036: FangQiFa_4
+    3300038: FangQiFa_4 1
+    3300040: GaoShuiWei_HIGH
+    3300042: GaoShuiWei_HIGH 1
+    3300044: GaoWen_HA
+    3300046: GaoWen_HA 1
+    3300048: GWMJJ_Body
+    3300050: GWMJJ_Body 1
+    3300052: GWMJJ_Fa
+    3300054: GWMJJ_Fa 1
+    3300056: GWMJJ_Gai_2
+    3300058: GWMJJ_Gai_2 1
+    3300060: GWMJJ_Gai_3
+    3300062: GWMJJ_Gai_3 1
+    3300064: GWMJJ_Gai_7
+    3300066: GWMJJ_Gai_7 1
+    3300068: GWMJJ_Gai_8
+    3300070: GWMJJ_Gai_8 1
+    3300072: GWMJJ_NeiDan
+    3300074: GWMJJ_NeiDan 1
+    3300076: GWMJJ_PaiQi_PaiShui
+    3300078: GWMJJ_PaiQi_PaiShui 1
+    3300080: GWMJJ_TiLian
+    3300082: GWMJJ_TiLian 1
+    3300084: GWMJJ_ZhiZhen
+    3300086: GWMJJ_ZhiZhen 1
+    3300088: GWMJJ_ZiDongDianZha
+    3300090: GWMJJ_ZiDongDianZha 1
+    3300092: GYMJJ_PZ1
+    3300094: GYMJJ_PZ1 1
+    3300096: JiaRen_OUT
+    3300098: JiaRen_OUT 1
+    3300100: Number_Power1
+    3300102: Number_Power1 1
+    3300104: Number_Power2
+    3300106: Number_Power2 1
+    3300108: Number_Power3
+    3300110: Number_Power3 1
+    3300112: Number_Power4
+    3300114: Number_Power4 1
+    3300116: Number_Power5
+    3300118: Number_Power5 1
+    3300120: Number_Power6
+    3300122: Number_Power6 1
+    3300124: Number_Power7
+    3300126: Number_Power7 1
+    3300128: Number_Power8
+    3300130: Number_Power8 1
+    3300132: power_KaiGuan
+    3300134: power_KaiGuan 1
+    3300136: QueShui_LACK
+    3300138: QueShui_LACK 1
+    3300140: WSWSSYS_HengWenGanZaoXiang_1
+    3300142: WSWSSYS_HengWenGanZaoXiang_2
+    3300144: WSWSSYS_HengWenGanZaoXiang_3
+    3300146: WSWSSYS_HengWenGanZaoXiang_4
+    3300148: WSWSSYS_HengWenGanZaoXiang_5
+    3300150: WSWSSYS_HengWenGanZaoXiang_6
+    3300152: WSWSSYS_HengWenGanZaoXiang_7
+    3300154: WSWSSYS_HengWenGanZaoXiang_boli
+    3300156: WSWSSYS_HengWenGanZaoXiang_Men 1
+    3300158: WSWSYS_GYMJJ_Low1_sd
+    3300160: WSWSYS_GYMJJ_Low1_sd 1
+    3300162: WSWSYS_MJS_bt1
+    3300164: WSWSYS_MJS_cz1
+    3300166: WSWSYS_SYS_SLT_17
+    3300168: WSWSYS_SYS_SLT_17 1
+    3300170: WSWSYS_SYS_SLT_18
+    3300172: WSWSYS_SYS_SLT_18 1
+    3300174: WSWSYS_SYS_SLT_19
+    3300176: WSWSYS_SYS_SLT_19 1
+    3300178: WSWSYS_SYS_SLT_20
+    3300180: WSWSYS_SYS_SLT_20 1
+    3300182: WSWSYS_SYS_XiYanQi01
+    3300184: WSWSYS_YiangPinGui1_1
+    3300186: WSWSYS_YiangPinGui1_1 1
+    3300188: WSWSYS_YiangPinGui1_1 2
+    3300190: WSWSYS_YiangPinGui1_2
+    3300192: WSWSYS_YiangPinGui1_2 1
+    3300194: WSWSYS_YiangPinGui1_2 2
+    3300196: WSWSYS_YiangPinGui1_3
+    3300198: WSWSYS_YiangPinGui1_3 1
+    3300200: WSWSYS_YiangPinGui1_3 2
+    3300202: WSWSYS_YiangPinGui1_4
+    3300204: WSWSYS_YiangPinGui1_4 1
+    3300206: WSWSYS_YiangPinGui1_4 2
+    3300208: WSWSYS_YiangPinGui1_5
+    3300210: WSWSYS_YiangPinGui1_5 1
+    3300212: WSWSYS_YiangPinGui1_5 2
+    3300214: WSWSYS_YiangPinGui1_6
+    3300216: WSWSYS_YiangPinGui1_6 1
+    3300218: WSWSYS_YiangPinGui1_6 2
+    3300220: WSWSYS_YiangPinGui1_7
+    3300222: WSWSYS_YiangPinGui1_7 1
+    3300224: WSWSYS_YiangPinGui1_7 2
+    3300226: sz_1
+    3300228: sz_2
+    3300230: sz_3
+    3300232: sz_4
+    3300234: WSWSY_BJ_171
+    3300236: WSWSY_Bx_8
+    3300238: WSWSYS_MJS_cz2
+    3300240: ZDQ_bq
+    3300242: ZDQ_dy
+    3300244: ZDQ_kg
+    3300246: ZDQ_ts
+    3300248: ZDQ_tsw
+    3300250: ZDQ_zt
+    3300252: WSWSY_BJ_172
+    3300254: WSWSY_BJ_173
+    4300000: WSWSYS_YiangPinGui1_1
+    4300002: WSWSYS_YiangPinGui1_2
+    4300004: WSWSYS_YiangPinGui1_3
+    4300006: WSWSYS_YiangPinGui1_4
+    4300008: WSWSYS_YiangPinGui1_5
+    4300010: WSWSYS_YiangPinGui1_6
+    4300012: WSWSYS_YiangPinGui1_7
+    4300014: WSWSYS_YiangPinGui1_1
+    4300016: WSWSYS_YiangPinGui1_2
+    4300018: WSWSYS_YiangPinGui1_3
+    4300020: WSWSYS_YiangPinGui1_4
+    4300022: WSWSYS_YiangPinGui1_5
+    4300024: WSWSYS_YiangPinGui1_6
+    4300026: WSWSYS_YiangPinGui1_7
+    4300028: WSWSYS_YiangPinGui1_1
+    4300030: WSWSYS_YiangPinGui1_2
+    4300032: WSWSYS_YiangPinGui1_3
+    4300034: WSWSYS_YiangPinGui1_4
+    4300036: WSWSYS_YiangPinGui1_5
+    4300038: WSWSYS_YiangPinGui1_6
+    4300040: WSWSYS_YiangPinGui1_7
+    4300042: GYMJJ_PZ1
+    4300044: GWMJJ_TiLian
+    4300046: GWMJJ_ZhiZhen
+    4300048: GaoWen_HA
+    4300050: JiaRen_OUT
+    4300052: DiWen_LA
+    4300054: GaoShuiWei_HIGH
+    4300056: QueShui_LACK
+    4300058: DiShuiWei_LOW
+    4300060: GWMJJ_Body
+    4300062: power_KaiGuan
+    4300064: GWMJJ_ZiDongDianZha
+    4300066: GWMJJ_NeiDan
+    4300068: GWMJJ_PaiQi_PaiShui
+    4300070: GWMJJ_Fa
+    4300072: Number_Power1
+    4300074: Number_Power2
+    4300076: Number_Power3
+    4300078: Number_Power4
+    4300080: Number_Power5
+    4300082: Number_Power6
+    4300084: Number_Power7
+    4300086: Number_Power8
+    4300088: FangQiFa_1
+    4300090: FangQiFa_2
+    4300092: FangQiFa_3
+    4300094: FangQiFa_4
+    4300096: AnQuanFa_1
+    4300098: AnQuanFa_2
+    4300100: AnQuanFa_3
+    4300102: AnQuanFa_4
+    4300104: GWMJJ_Gai_2
+    4300106: GWMJJ_Gai_3
+    4300108: GWMJJ_Gai_7
+    4300110: GWMJJ_Gai_8
+    4300112: WSWSYS_GYMJJ_Low1_sd
+    4300114: GYMJJ_PZ1
+    4300116: GWMJJ_TiLian
+    4300118: GWMJJ_ZhiZhen
+    4300120: GaoWen_HA
+    4300122: JiaRen_OUT
+    4300124: DiWen_LA
+    4300126: GaoShuiWei_HIGH
+    4300128: QueShui_LACK
+    4300130: DiShuiWei_LOW
+    4300132: GWMJJ_Body
+    4300134: power_KaiGuan
+    4300136: GWMJJ_ZiDongDianZha
+    4300138: GWMJJ_NeiDan
+    4300140: GWMJJ_PaiQi_PaiShui
+    4300142: GWMJJ_Fa
+    4300144: Number_Power1
+    4300146: Number_Power2
+    4300148: Number_Power3
+    4300150: Number_Power4
+    4300152: Number_Power5
+    4300154: Number_Power6
+    4300156: Number_Power7
+    4300158: Number_Power8
+    4300160: FangQiFa_1
+    4300162: FangQiFa_2
+    4300164: FangQiFa_3
+    4300166: FangQiFa_4
+    4300168: AnQuanFa_1
+    4300170: AnQuanFa_2
+    4300172: AnQuanFa_3
+    4300174: AnQuanFa_4
+    4300176: GWMJJ_Gai_2
+    4300178: GWMJJ_Gai_3
+    4300180: GWMJJ_Gai_7
+    4300182: GWMJJ_Gai_8
+    4300184: WSWSYS_GYMJJ_Low1_sd
+    4300186: WSWSSYS_HengWenGanZaoXiang_boli
+    4300188: WSWSSYS_HengWenGanZaoXiang_Men
+    4300190: WSWSSYS_HengWenGanZaoXiang_7
+    4300192: WSWSSYS_HengWenGanZaoXiang_6
+    4300194: WSWSSYS_HengWenGanZaoXiang_5
+    4300196: WSWSSYS_HengWenGanZaoXiang_1
+    4300198: WSWSSYS_HengWenGanZaoXiang_2
+    4300200: WSWSSYS_HengWenGanZaoXiang_3
+    4300202: WSWSSYS_HengWenGanZaoXiang_4
+    4300204: WSWSYS_SYS_SLT_20
+    4300206: WSWSYS_SYS_SLT_19
+    4300208: WSWSYS_SYS_SLT_18
+    4300210: WSWSYS_SYS_SLT_17
+    4300212: WSWSYS_SYS_SLT_20
+    4300214: WSWSYS_SYS_SLT_19
+    4300216: WSWSYS_SYS_SLT_18
+    4300218: WSWSYS_SYS_SLT_17
+    4300220: WSWSYS_MJS_bt1
+    4300222: WSWSYS_MJS_cz1
+    4300224: WSWSYS_SYS_XiYanQi01
+    4300226: WSWSYS_MJS_cz2
+    4300228: ZDQ_dy
+    4300230: ZDQ_kg
+    4300232: ZDQ_ts
+    4300234: ZDQ_zt
+    4300236: ZDQ_tsw
+    4300238: ZDQ_bq
+    4300240: sz_1
+    4300242: sz_2
+    4300244: sz_3
+    4300246: sz_4
+    4300248: WSWSY_BJ_171
+    4300250: WSWSY_Bx_8
+    4300252: WSWSY_BJ_173
+    4300254: WSWSY_BJ_172
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

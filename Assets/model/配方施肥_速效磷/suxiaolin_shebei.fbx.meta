@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 28945f05b0e12c248a1148e1591c9d2c
+timeCreated: 1655272517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: an_acct
+    100002: an_acct1
+    100004: an_acct2
+    100006: an_acct3
+    100008: blp_gz
+    100010: blp_gz 1
+    100012: blp_zt
+    100014: blp_zt 1
+    100016: blp_zt_bq
+    100018: blp_zt_bq 1
+    100020: blp_zt_pt
+    100022: blp_zt_pt 1
+    100024: blp_zt_pt2
+    100026: blp_zt_pt2 1
+    100028: dztp
+    100030: dztp_an1
+    100032: dztp_an2
+    100034: dztp_an3
+    100036: dztp_an4
+    100038: dztp_sz
+    100040: dztp_sz1
+    100042: dztp_sz2
+    100044: dztp_sz3
+    100046: dztp_sz4
+    100048: dztp_sz5
+    100050: dztp_sz6
+    100052: dztp_sz7
+    100054: dztp_sz8
+    100056: dztp_zt
+    100058: HXSY_rlp50
+    100060: HXSY_sb500
+    100062: HXSY_zxp100
+    100064: HXSY_zxp250
+    100066: hz_1
+    100068: hz_2
+    100070: hz_3
+    100072: hz_4
+    100074: loudou
+    100076: lt
+    100078: lt_bq
+    100080: lvzhi
+    100082: lztd
+    100084: MXK_lt_100
+    100086: MXK_zwgdj
+    100088: polySurface1
+    100090: polySurface2
+    100092: ps_1
+    100094: ps_bq
+    100096: ptlz
+    100098: qcl_xjy
+    100100: qcl_xjy_3
+    100102: qcl_xjy_4
+    100104: qcl_xjy_5
+    100106: qcl_xjy_6
+    100108: qcl_xjy_bxg1
+    100110: qcl_xjy_tt
+    100112: qxspy_yygj1_10
+    100114: qxspy_yygj1_10_bq
+    100116: qxspy_yygj1_10_gt
+    100118: qxspy_yygj1_10_yt
+    100120: qyhnyp
+    100122: qyhnyp_pg
+    100124: QYHNYP_ps
+    100126: rlp50_bq
+    100128: rlp50_h
+    100130: rlp50_ps1
+    100132: rlp50_ps2
+    100134: rlp50_yw
+    100136: sb500_bl
+    100138: sb500_bq
+    100140: sb500_yw
+    100142: shuzi_1
+    100144: shuzi_2
+    100146: //RootNode
+    100148: SWSYSAQ_blp
+    100150: SWSYSAQ_blp1
+    100152: sz3
+    100154: sz4
+    100156: sz5
+    100158: sz6e
+    100160: sz_1
+    100162: sz_2
+    100164: tudui
+    100166: tudui_ping
+    100168: tudui_ping1
+    100170: xeq
+    100172: xjy_an
+    100174: xjy_off
+    100176: xjy_sz
+    100178: yaoshao
+    100180: yaoshao_sz
+    100182: zwgdj_an
+    100184: zwgdj_cm
+    100186: zwgdj_hz
+    100188: zwgdj_ng
+    100190: zwgdj_sz
+    100192: zwgdj_SZ_1
+    100194: zwgdj_SZ_1 1
+    100196: zwgdj_SZ_1 2
+    100198: zwgdj_SZ_15
+    100200: zwgdj_SZ_15 1
+    100202: zwgdj_SZ_15 2
+    100204: zwgdj_SZ_16
+    100206: zwgdj_SZ_17
+    100208: zwgdj_SZ_18
+    100210: zwgdj_SZ_19
+    100212: zwgdj_SZ_2
+    100214: zwgdj_SZ_2 1
+    100216: zwgdj_SZ_2 2
+    100218: zwgdj_SZ_3
+    100220: zwgdj_SZ_3 1
+    100222: zwgdj_SZ_3 2
+    100224: zwgdj_SZ_4
+    100226: zwgdj_SZ_4 1
+    100228: zwgdj_SZ_4 2
+    100230: zwgdj_xzan
+    100232: zwgdj_zt
+    100234: zxp100_bl
+    100236: zxp100_bq
+    100238: zxp100_yw
+    100240: zxp250_bl
+    100242: zxp250_bq
+    100244: zxp250_yw
+    400000: an_acct
+    400002: an_acct1
+    400004: an_acct2
+    400006: an_acct3
+    400008: blp_gz
+    400010: blp_gz 1
+    400012: blp_zt
+    400014: blp_zt 1
+    400016: blp_zt_bq
+    400018: blp_zt_bq 1
+    400020: blp_zt_pt
+    400022: blp_zt_pt 1
+    400024: blp_zt_pt2
+    400026: blp_zt_pt2 1
+    400028: dztp
+    400030: dztp_an1
+    400032: dztp_an2
+    400034: dztp_an3
+    400036: dztp_an4
+    400038: dztp_sz
+    400040: dztp_sz1
+    400042: dztp_sz2
+    400044: dztp_sz3
+    400046: dztp_sz4
+    400048: dztp_sz5
+    400050: dztp_sz6
+    400052: dztp_sz7
+    400054: dztp_sz8
+    400056: dztp_zt
+    400058: HXSY_rlp50
+    400060: HXSY_sb500
+    400062: HXSY_zxp100
+    400064: HXSY_zxp250
+    400066: hz_1
+    400068: hz_2
+    400070: hz_3
+    400072: hz_4
+    400074: loudou
+    400076: lt
+    400078: lt_bq
+    400080: lvzhi
+    400082: lztd
+    400084: MXK_lt_100
+    400086: MXK_zwgdj
+    400088: polySurface1
+    400090: polySurface2
+    400092: ps_1
+    400094: ps_bq
+    400096: ptlz
+    400098: qcl_xjy
+    400100: qcl_xjy_3
+    400102: qcl_xjy_4
+    400104: qcl_xjy_5
+    400106: qcl_xjy_6
+    400108: qcl_xjy_bxg1
+    400110: qcl_xjy_tt
+    400112: qxspy_yygj1_10
+    400114: qxspy_yygj1_10_bq
+    400116: qxspy_yygj1_10_gt
+    400118: qxspy_yygj1_10_yt
+    400120: qyhnyp
+    400122: qyhnyp_pg
+    400124: QYHNYP_ps
+    400126: rlp50_bq
+    400128: rlp50_h
+    400130: rlp50_ps1
+    400132: rlp50_ps2
+    400134: rlp50_yw
+    400136: sb500_bl
+    400138: sb500_bq
+    400140: sb500_yw
+    400142: shuzi_1
+    400144: shuzi_2
+    400146: //RootNode
+    400148: SWSYSAQ_blp
+    400150: SWSYSAQ_blp1
+    400152: sz3
+    400154: sz4
+    400156: sz5
+    400158: sz6e
+    400160: sz_1
+    400162: sz_2
+    400164: tudui
+    400166: tudui_ping
+    400168: tudui_ping1
+    400170: xeq
+    400172: xjy_an
+    400174: xjy_off
+    400176: xjy_sz
+    400178: yaoshao
+    400180: yaoshao_sz
+    400182: zwgdj_an
+    400184: zwgdj_cm
+    400186: zwgdj_hz
+    400188: zwgdj_ng
+    400190: zwgdj_sz
+    400192: zwgdj_SZ_1
+    400194: zwgdj_SZ_1 1
+    400196: zwgdj_SZ_1 2
+    400198: zwgdj_SZ_15
+    400200: zwgdj_SZ_15 1
+    400202: zwgdj_SZ_15 2
+    400204: zwgdj_SZ_16
+    400206: zwgdj_SZ_17
+    400208: zwgdj_SZ_18
+    400210: zwgdj_SZ_19
+    400212: zwgdj_SZ_2
+    400214: zwgdj_SZ_2 1
+    400216: zwgdj_SZ_2 2
+    400218: zwgdj_SZ_3
+    400220: zwgdj_SZ_3 1
+    400222: zwgdj_SZ_3 2
+    400224: zwgdj_SZ_4
+    400226: zwgdj_SZ_4 1
+    400228: zwgdj_SZ_4 2
+    400230: zwgdj_xzan
+    400232: zwgdj_zt
+    400234: zxp100_bl
+    400236: zxp100_bq
+    400238: zxp100_yw
+    400240: zxp250_bl
+    400242: zxp250_bq
+    400244: zxp250_yw
+    2300000: an_acct
+    2300002: an_acct1
+    2300004: an_acct2
+    2300006: an_acct3
+    2300008: blp_gz
+    2300010: blp_gz 1
+    2300012: blp_zt_bq
+    2300014: blp_zt_bq 1
+    2300016: blp_zt_pt
+    2300018: blp_zt_pt 1
+    2300020: blp_zt_pt2
+    2300022: blp_zt_pt2 1
+    2300024: dztp_an1
+    2300026: dztp_an2
+    2300028: dztp_an3
+    2300030: dztp_an4
+    2300032: dztp_sz1
+    2300034: dztp_sz2
+    2300036: dztp_sz3
+    2300038: dztp_sz4
+    2300040: dztp_sz5
+    2300042: dztp_sz6
+    2300044: dztp_sz7
+    2300046: dztp_sz8
+    2300048: dztp_zt
+    2300050: hz_1
+    2300052: hz_2
+    2300054: hz_3
+    2300056: hz_4
+    2300058: loudou
+    2300060: lt
+    2300062: lt_bq
+    2300064: lvzhi
+    2300066: polySurface1
+    2300068: polySurface2
+    2300070: ps_1
+    2300072: ps_bq
+    2300074: ptlz
+    2300076: qcl_xjy_3
+    2300078: qcl_xjy_4
+    2300080: qcl_xjy_5
+    2300082: qcl_xjy_6
+    2300084: qcl_xjy_bxg1
+    2300086: qcl_xjy_tt
+    2300088: qxspy_yygj1_10_bq
+    2300090: qxspy_yygj1_10_gt
+    2300092: qxspy_yygj1_10_yt
+    2300094: qyhnyp_pg
+    2300096: rlp50_bq
+    2300098: rlp50_h
+    2300100: rlp50_ps1
+    2300102: rlp50_ps2
+    2300104: rlp50_yw
+    2300106: sb500_bl
+    2300108: sb500_bq
+    2300110: sb500_yw
+    2300112: sz3
+    2300114: sz4
+    2300116: sz5
+    2300118: sz6e
+    2300120: tudui_ping
+    2300122: tudui_ping1
+    2300124: xeq
+    2300126: xjy_off
+    2300128: yaoshao_sz
+    2300130: zwgdj_cm
+    2300132: zwgdj_ng
+    2300134: zwgdj_SZ_1
+    2300136: zwgdj_SZ_1 1
+    2300138: zwgdj_SZ_1 2
+    2300140: zwgdj_SZ_15
+    2300142: zwgdj_SZ_15 1
+    2300144: zwgdj_SZ_15 2
+    2300146: zwgdj_SZ_16
+    2300148: zwgdj_SZ_17
+    2300150: zwgdj_SZ_18
+    2300152: zwgdj_SZ_19
+    2300154: zwgdj_SZ_2
+    2300156: zwgdj_SZ_2 1
+    2300158: zwgdj_SZ_2 2
+    2300160: zwgdj_SZ_3
+    2300162: zwgdj_SZ_3 1
+    2300164: zwgdj_SZ_3 2
+    2300166: zwgdj_SZ_4
+    2300168: zwgdj_SZ_4 1
+    2300170: zwgdj_SZ_4 2
+    2300172: zwgdj_xzan
+    2300174: zwgdj_zt
+    2300176: zxp100_bl
+    2300178: zxp100_bq
+    2300180: zxp100_yw
+    2300182: zxp250_bq
+    2300184: zxp250_yw
+    3300000: an_acct
+    3300002: an_acct1
+    3300004: an_acct2
+    3300006: an_acct3
+    3300008: blp_gz
+    3300010: blp_gz 1
+    3300012: blp_zt_bq
+    3300014: blp_zt_bq 1
+    3300016: blp_zt_pt
+    3300018: blp_zt_pt 1
+    3300020: blp_zt_pt2
+    3300022: blp_zt_pt2 1
+    3300024: dztp_an1
+    3300026: dztp_an2
+    3300028: dztp_an3
+    3300030: dztp_an4
+    3300032: dztp_sz1
+    3300034: dztp_sz2
+    3300036: dztp_sz3
+    3300038: dztp_sz4
+    3300040: dztp_sz5
+    3300042: dztp_sz6
+    3300044: dztp_sz7
+    3300046: dztp_sz8
+    3300048: dztp_zt
+    3300050: hz_1
+    3300052: hz_2
+    3300054: hz_3
+    3300056: hz_4
+    3300058: loudou
+    3300060: lt
+    3300062: lt_bq
+    3300064: lvzhi
+    3300066: polySurface1
+    3300068: polySurface2
+    3300070: ps_1
+    3300072: ps_bq
+    3300074: ptlz
+    3300076: qcl_xjy_3
+    3300078: qcl_xjy_4
+    3300080: qcl_xjy_5
+    3300082: qcl_xjy_6
+    3300084: qcl_xjy_bxg1
+    3300086: qcl_xjy_tt
+    3300088: qxspy_yygj1_10_bq
+    3300090: qxspy_yygj1_10_gt
+    3300092: qxspy_yygj1_10_yt
+    3300094: qyhnyp_pg
+    3300096: rlp50_bq
+    3300098: rlp50_h
+    3300100: rlp50_ps1
+    3300102: rlp50_ps2
+    3300104: rlp50_yw
+    3300106: sb500_bl
+    3300108: sb500_bq
+    3300110: sb500_yw
+    3300112: sz3
+    3300114: sz4
+    3300116: sz5
+    3300118: sz6e
+    3300120: tudui_ping
+    3300122: tudui_ping1
+    3300124: xeq
+    3300126: xjy_off
+    3300128: yaoshao_sz
+    3300130: zwgdj_cm
+    3300132: zwgdj_ng
+    3300134: zwgdj_SZ_1
+    3300136: zwgdj_SZ_1 1
+    3300138: zwgdj_SZ_1 2
+    3300140: zwgdj_SZ_15
+    3300142: zwgdj_SZ_15 1
+    3300144: zwgdj_SZ_15 2
+    3300146: zwgdj_SZ_16
+    3300148: zwgdj_SZ_17
+    3300150: zwgdj_SZ_18
+    3300152: zwgdj_SZ_19
+    3300154: zwgdj_SZ_2
+    3300156: zwgdj_SZ_2 1
+    3300158: zwgdj_SZ_2 2
+    3300160: zwgdj_SZ_3
+    3300162: zwgdj_SZ_3 1
+    3300164: zwgdj_SZ_3 2
+    3300166: zwgdj_SZ_4
+    3300168: zwgdj_SZ_4 1
+    3300170: zwgdj_SZ_4 2
+    3300172: zwgdj_xzan
+    3300174: zwgdj_zt
+    3300176: zxp100_bl
+    3300178: zxp100_bq
+    3300180: zxp100_yw
+    3300182: zxp250_bq
+    3300184: zxp250_yw
+    4300000: zwgdj_cm
+    4300002: zwgdj_xzan
+    4300004: zwgdj_zt
+    4300006: zwgdj_ng
+    4300008: hz_1
+    4300010: hz_2
+    4300012: hz_3
+    4300014: hz_4
+    4300016: zwgdj_SZ_1
+    4300018: zwgdj_SZ_2
+    4300020: zwgdj_SZ_3
+    4300022: zwgdj_SZ_4
+    4300024: zwgdj_SZ_15
+    4300026: zwgdj_SZ_16
+    4300028: zwgdj_SZ_19
+    4300030: zwgdj_SZ_1
+    4300032: zwgdj_SZ_2
+    4300034: zwgdj_SZ_3
+    4300036: zwgdj_SZ_4
+    4300038: zwgdj_SZ_15
+    4300040: zwgdj_SZ_18
+    4300042: zwgdj_SZ_1
+    4300044: zwgdj_SZ_2
+    4300046: zwgdj_SZ_3
+    4300048: zwgdj_SZ_4
+    4300050: zwgdj_SZ_15
+    4300052: zwgdj_SZ_17
+    4300054: an_acct
+    4300056: an_acct1
+    4300058: an_acct2
+    4300060: an_acct3
+    4300062: sb500_bl
+    4300064: sb500_bq
+    4300066: sb500_yw
+    4300068: xeq
+    4300070: qxspy_yygj1_10_bq
+    4300072: qxspy_yygj1_10_gt
+    4300074: qxspy_yygj1_10_yt
+    4300076: rlp50_ps2
+    4300078: rlp50_ps1
+    4300080: rlp50_yw
+    4300082: rlp50_h
+    4300084: rlp50_bq
+    4300086: lt
+    4300088: lt_bq
+    4300090: blp_gz
+    4300092: blp_zt_bq
+    4300094: blp_zt_pt
+    4300096: blp_zt_pt2
+    4300098: blp_gz
+    4300100: blp_zt_bq
+    4300102: blp_zt_pt
+    4300104: blp_zt_pt2
+    4300106: zxp100_bl
+    4300108: zxp100_bq
+    4300110: zxp100_yw
+    4300112: polySurface1
+    4300114: polySurface2
+    4300116: zxp250_bq
+    4300118: zxp250_yw
+    4300120: loudou
+    4300122: lvzhi
+    4300124: qyhnyp_pg
+    4300126: ps_bq
+    4300128: ps_1
+    4300130: dztp_sz1
+    4300132: dztp_sz2
+    4300134: dztp_sz3
+    4300136: dztp_sz4
+    4300138: dztp_sz5
+    4300140: dztp_sz6
+    4300142: dztp_sz7
+    4300144: dztp_sz8
+    4300146: dztp_zt
+    4300148: dztp_an1
+    4300150: dztp_an2
+    4300152: dztp_an3
+    4300154: dztp_an4
+    4300156: yaoshao_sz
+    4300158: tudui_ping1
+    4300160: sz6e
+    4300162: sz3
+    4300164: sz4
+    4300166: sz5
+    4300168: qcl_xjy_tt
+    4300170: qcl_xjy_6
+    4300172: qcl_xjy_5
+    4300174: qcl_xjy_bxg1
+    4300176: qcl_xjy_4
+    4300178: qcl_xjy_3
+    4300180: xjy_off
+    4300182: ptlz
+    4300184: tudui_ping
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

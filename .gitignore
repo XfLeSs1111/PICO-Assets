@@ -1,0 +1,77 @@
+# Unity 生成目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Ee]xports/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 项目特有：PICO 驱动运行时日志（每个约 20MB，按天滚动，含无序号的最新日志）
+ps_driver_sdk*.log
+
+# 测试输出
+TestResults/
+
+# Python 分析脚本缓存
+__pycache__/
+
+# 本地构建产物（APK 安装包体积过大，不入库）
+apk/
+
+# 本地工具运行数据与索引缓存
+.workbuddy/
+.guid_index.json
+
+# 仓库根目录临时探测/分析产物
+_flows_full.json
+_mcp_calls.json
+_mcp_probe.py
+_probe_err.txt
+_probe_flow_details.json
+_probe_flow_query*.json
+_probe_flow_resources*.json
+_probe_log.txt
+_probe_out.txt
+_res.txt
+_scan2.py
+_scan2_log.txt
+_scan_flows.py
+
+# Unity 自动截图（每次运行都会新增，不入库）
+Assets/Screenshots/
+
+# 编译产物（分析用，可随时重新生成）
+Docs/Analysis/**/compile-current/*.dll
+Docs/Analysis/**/compile-current/*.pdb
+
+# 编辑器/测试产生的临时备份
+*.bak
+Assets/Experiments/*/Scenes/TestRecovery_*.unity
+Assets/Experiments/*/Scenes/TestRecovery_*.unity.meta
+*.bak.meta

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: a7d880cfaa7b16b4090934c154cf9cbb
+timeCreated: 1471592519
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bi
+    100002: bi_body_1
+    100004: bi_body_10
+    100006: bi_body_2
+    100008: bi_body_3
+    100010: bi_body_4
+    100012: bi_body_5
+    100014: bi_body_6
+    100016: bi_body_7
+    100018: bi_body_8
+    100020: bi_body_9
+    100022: bl
+    100024: chat
+    100026: ct
+    100028: ht
+    100030: jsq1
+    100032: mao
+    100034: mao_body_1
+    100036: mao_body_2
+    100038: mao_body_3
+    100040: mao_body_4
+    100042: mao_body_5
+    100044: mao_body_6
+    100046: mao_body_7
+    100048: mao_body_8
+    100050: mao_body_9
+    100052: o
+    100054: Peiyangxiang_Bolimen
+    100056: Peiyangxiang_Bolimen 1
+    100058: Peiyangxiang_Bolimen1
+    100060: Peiyangxiang_Bolimen1 1
+    100062: Peiyangxiang_Bolimen2
+    100064: Peiyangxiang_Bolimen2 1
+    100066: Peiyangxiang_CZ
+    100068: Peiyangxiang_CZ 1
+    100070: Peiyangxiang_Deng
+    100072: Peiyangxiang_Deng 1
+    100074: Peiyangxiang_Deng_1
+    100076: Peiyangxiang_Deng_1 1
+    100078: Peiyangxiang_Deng_2
+    100080: Peiyangxiang_Deng_2 1
+    100082: Peiyangxiang_Deng_3
+    100084: Peiyangxiang_Deng_3 1
+    100086: Peiyangxiang_Deng_4
+    100088: Peiyangxiang_Deng_4 1
+    100090: Peiyangxiang_Deng_5
+    100092: Peiyangxiang_Deng_5 1
+    100094: Peiyangxiang_Deng_6
+    100096: Peiyangxiang_Deng_6 1
+    100098: Peiyangxiang_Deng_7
+    100100: Peiyangxiang_Deng_7 1
+    100102: Peiyangxiang_Deng_8
+    100104: Peiyangxiang_Deng_8 1
+    100106: Peiyangxiang_Deng_9
+    100108: Peiyangxiang_Deng_9 1
+    100110: Peiyangxiang_KG
+    100112: Peiyangxiang_KG 1
+    100114: Peiyangxiang_Men
+    100116: Peiyangxiang_Men 1
+    100118: Peiyangxiang_Pen
+    100120: Peiyangxiang_Pen 1
+    100122: Peiyangxiang_sss
+    100124: Peiyangxiang_sss 1
+    100126: Peiyangxiang_Xianshi
+    100128: Peiyangxiang_Xianshi 1
+    100130: Peiyangxiang_Xianshi_1
+    100132: Peiyangxiang_Xianshi_1 1
+    100134: Peiyangxiang_Xianshi_2
+    100136: Peiyangxiang_Xianshi_2 1
+    100138: Peiyangxiang_Xianshi_3
+    100140: Peiyangxiang_Xianshi_3 1
+    100142: Peiyangxiang_Xianshi_4
+    100144: Peiyangxiang_Xianshi_4 1
+    100146: Peiyangxiang_Xianshi_5
+    100148: Peiyangxiang_Xianshi_5 1
+    100150: Peiyangxiang_Xianshi_6
+    100152: Peiyangxiang_Xianshi_6 1
+    100154: Peiyangxiang_Xianshi_7
+    100156: Peiyangxiang_Xianshi_7 1
+    100158: PeiYiangXiang_Body
+    100160: PeiYiangXiang_Body 1
+    100162: PeiYiangXiang_PZ
+    100164: PeiYiangXiang_PZ 1
+    100166: PeiYiangXiang_TP
+    100168: PeiYiangXiang_TP 1
+    100170: s
+    100172: SWSSY_jljsq1
+    100174: sz
+    100176: t
+    100178: ti
+    100180: //RootNode
+    100182: WSWSYS_MJPZS_bt1
+    100184: WSWSYS_MJPZS_cz1
+    100186: WSWSYS_SYS_PeiYiangXiang4
+    100188: WSWSYS_SYS_PeiYiangXiang5
+    100190: WSWSY_BJ_174
+    100192: wswsy_jljsq_dx
+    400000: bi
+    400002: bi_body_1
+    400004: bi_body_10
+    400006: bi_body_2
+    400008: bi_body_3
+    400010: bi_body_4
+    400012: bi_body_5
+    400014: bi_body_6
+    400016: bi_body_7
+    400018: bi_body_8
+    400020: bi_body_9
+    400022: bl
+    400024: chat
+    400026: ct
+    400028: ht
+    400030: jsq1
+    400032: mao
+    400034: mao_body_1
+    400036: mao_body_2
+    400038: mao_body_3
+    400040: mao_body_4
+    400042: mao_body_5
+    400044: mao_body_6
+    400046: mao_body_7
+    400048: mao_body_8
+    400050: mao_body_9
+    400052: o
+    400054: Peiyangxiang_Bolimen
+    400056: Peiyangxiang_Bolimen 1
+    400058: Peiyangxiang_Bolimen1
+    400060: Peiyangxiang_Bolimen1 1
+    400062: Peiyangxiang_Bolimen2
+    400064: Peiyangxiang_Bolimen2 1
+    400066: Peiyangxiang_CZ
+    400068: Peiyangxiang_CZ 1
+    400070: Peiyangxiang_Deng
+    400072: Peiyangxiang_Deng 1
+    400074: Peiyangxiang_Deng_1
+    400076: Peiyangxiang_Deng_1 1
+    400078: Peiyangxiang_Deng_2
+    400080: Peiyangxiang_Deng_2 1
+    400082: Peiyangxiang_Deng_3
+    400084: Peiyangxiang_Deng_3 1
+    400086: Peiyangxiang_Deng_4
+    400088: Peiyangxiang_Deng_4 1
+    400090: Peiyangxiang_Deng_5
+    400092: Peiyangxiang_Deng_5 1
+    400094: Peiyangxiang_Deng_6
+    400096: Peiyangxiang_Deng_6 1
+    400098: Peiyangxiang_Deng_7
+    400100: Peiyangxiang_Deng_7 1
+    400102: Peiyangxiang_Deng_8
+    400104: Peiyangxiang_Deng_8 1
+    400106: Peiyangxiang_Deng_9
+    400108: Peiyangxiang_Deng_9 1
+    400110: Peiyangxiang_KG
+    400112: Peiyangxiang_KG 1
+    400114: Peiyangxiang_Men
+    400116: Peiyangxiang_Men 1
+    400118: Peiyangxiang_Pen
+    400120: Peiyangxiang_Pen 1
+    400122: Peiyangxiang_sss
+    400124: Peiyangxiang_sss 1
+    400126: Peiyangxiang_Xianshi
+    400128: Peiyangxiang_Xianshi 1
+    400130: Peiyangxiang_Xianshi_1
+    400132: Peiyangxiang_Xianshi_1 1
+    400134: Peiyangxiang_Xianshi_2
+    400136: Peiyangxiang_Xianshi_2 1
+    400138: Peiyangxiang_Xianshi_3
+    400140: Peiyangxiang_Xianshi_3 1
+    400142: Peiyangxiang_Xianshi_4
+    400144: Peiyangxiang_Xianshi_4 1
+    400146: Peiyangxiang_Xianshi_5
+    400148: Peiyangxiang_Xianshi_5 1
+    400150: Peiyangxiang_Xianshi_6
+    400152: Peiyangxiang_Xianshi_6 1
+    400154: Peiyangxiang_Xianshi_7
+    400156: Peiyangxiang_Xianshi_7 1
+    400158: PeiYiangXiang_Body
+    400160: PeiYiangXiang_Body 1
+    400162: PeiYiangXiang_PZ
+    400164: PeiYiangXiang_PZ 1
+    400166: PeiYiangXiang_TP
+    400168: PeiYiangXiang_TP 1
+    400170: s
+    400172: SWSSY_jljsq1
+    400174: sz
+    400176: t
+    400178: ti
+    400180: //RootNode
+    400182: WSWSYS_MJPZS_bt1
+    400184: WSWSYS_MJPZS_cz1
+    400186: WSWSYS_SYS_PeiYiangXiang4
+    400188: WSWSYS_SYS_PeiYiangXiang5
+    400190: WSWSY_BJ_174
+    400192: wswsy_jljsq_dx
+    2300000: bi_body_1
+    2300002: bi_body_10
+    2300004: bi_body_2
+    2300006: bi_body_3
+    2300008: bi_body_4
+    2300010: bi_body_5
+    2300012: bi_body_6
+    2300014: bi_body_7
+    2300016: bi_body_8
+    2300018: bi_body_9
+    2300020: bl
+    2300022: chat
+    2300024: ct
+    2300026: ht
+    2300028: mao_body_1
+    2300030: mao_body_2
+    2300032: mao_body_3
+    2300034: mao_body_4
+    2300036: mao_body_5
+    2300038: mao_body_6
+    2300040: mao_body_7
+    2300042: mao_body_8
+    2300044: mao_body_9
+    2300046: o
+    2300048: Peiyangxiang_Bolimen1
+    2300050: Peiyangxiang_Bolimen1 1
+    2300052: Peiyangxiang_Bolimen2
+    2300054: Peiyangxiang_Bolimen2 1
+    2300056: Peiyangxiang_CZ
+    2300058: Peiyangxiang_CZ 1
+    2300060: Peiyangxiang_Deng_1
+    2300062: Peiyangxiang_Deng_1 1
+    2300064: Peiyangxiang_Deng_2
+    2300066: Peiyangxiang_Deng_2 1
+    2300068: Peiyangxiang_Deng_3
+    2300070: Peiyangxiang_Deng_3 1
+    2300072: Peiyangxiang_Deng_4
+    2300074: Peiyangxiang_Deng_4 1
+    2300076: Peiyangxiang_Deng_5
+    2300078: Peiyangxiang_Deng_5 1
+    2300080: Peiyangxiang_Deng_6
+    2300082: Peiyangxiang_Deng_6 1
+    2300084: Peiyangxiang_Deng_7
+    2300086: Peiyangxiang_Deng_7 1
+    2300088: Peiyangxiang_Deng_8
+    2300090: Peiyangxiang_Deng_8 1
+    2300092: Peiyangxiang_Deng_9
+    2300094: Peiyangxiang_Deng_9 1
+    2300096: Peiyangxiang_KG
+    2300098: Peiyangxiang_KG 1
+    2300100: Peiyangxiang_Men
+    2300102: Peiyangxiang_Men 1
+    2300104: Peiyangxiang_Pen
+    2300106: Peiyangxiang_Pen 1
+    2300108: Peiyangxiang_sss
+    2300110: Peiyangxiang_sss 1
+    2300112: Peiyangxiang_Xianshi_1
+    2300114: Peiyangxiang_Xianshi_1 1
+    2300116: Peiyangxiang_Xianshi_2
+    2300118: Peiyangxiang_Xianshi_2 1
+    2300120: Peiyangxiang_Xianshi_3
+    2300122: Peiyangxiang_Xianshi_3 1
+    2300124: Peiyangxiang_Xianshi_4
+    2300126: Peiyangxiang_Xianshi_4 1
+    2300128: Peiyangxiang_Xianshi_5
+    2300130: Peiyangxiang_Xianshi_5 1
+    2300132: Peiyangxiang_Xianshi_6
+    2300134: Peiyangxiang_Xianshi_6 1
+    2300136: Peiyangxiang_Xianshi_7
+    2300138: Peiyangxiang_Xianshi_7 1
+    2300140: PeiYiangXiang_Body
+    2300142: PeiYiangXiang_Body 1
+    2300144: PeiYiangXiang_PZ
+    2300146: PeiYiangXiang_PZ 1
+    2300148: PeiYiangXiang_TP
+    2300150: PeiYiangXiang_TP 1
+    2300152: s
+    2300154: t
+    2300156: WSWSYS_MJPZS_bt1
+    2300158: WSWSYS_MJPZS_cz1
+    2300160: WSWSY_BJ_174
+    2300162: wswsy_jljsq_dx
+    3300000: bi_body_1
+    3300002: bi_body_10
+    3300004: bi_body_2
+    3300006: bi_body_3
+    3300008: bi_body_4
+    3300010: bi_body_5
+    3300012: bi_body_6
+    3300014: bi_body_7
+    3300016: bi_body_8
+    3300018: bi_body_9
+    3300020: bl
+    3300022: chat
+    3300024: ct
+    3300026: ht
+    3300028: mao_body_1
+    3300030: mao_body_2
+    3300032: mao_body_3
+    3300034: mao_body_4
+    3300036: mao_body_5
+    3300038: mao_body_6
+    3300040: mao_body_7
+    3300042: mao_body_8
+    3300044: mao_body_9
+    3300046: o
+    3300048: Peiyangxiang_Bolimen1
+    3300050: Peiyangxiang_Bolimen1 1
+    3300052: Peiyangxiang_Bolimen2
+    3300054: Peiyangxiang_Bolimen2 1
+    3300056: Peiyangxiang_CZ
+    3300058: Peiyangxiang_CZ 1
+    3300060: Peiyangxiang_Deng_1
+    3300062: Peiyangxiang_Deng_1 1
+    3300064: Peiyangxiang_Deng_2
+    3300066: Peiyangxiang_Deng_2 1
+    3300068: Peiyangxiang_Deng_3
+    3300070: Peiyangxiang_Deng_3 1
+    3300072: Peiyangxiang_Deng_4
+    3300074: Peiyangxiang_Deng_4 1
+    3300076: Peiyangxiang_Deng_5
+    3300078: Peiyangxiang_Deng_5 1
+    3300080: Peiyangxiang_Deng_6
+    3300082: Peiyangxiang_Deng_6 1
+    3300084: Peiyangxiang_Deng_7
+    3300086: Peiyangxiang_Deng_7 1
+    3300088: Peiyangxiang_Deng_8
+    3300090: Peiyangxiang_Deng_8 1
+    3300092: Peiyangxiang_Deng_9
+    3300094: Peiyangxiang_Deng_9 1
+    3300096: Peiyangxiang_KG
+    3300098: Peiyangxiang_KG 1
+    3300100: Peiyangxiang_Men
+    3300102: Peiyangxiang_Men 1
+    3300104: Peiyangxiang_Pen
+    3300106: Peiyangxiang_Pen 1
+    3300108: Peiyangxiang_sss
+    3300110: Peiyangxiang_sss 1
+    3300112: Peiyangxiang_Xianshi_1
+    3300114: Peiyangxiang_Xianshi_1 1
+    3300116: Peiyangxiang_Xianshi_2
+    3300118: Peiyangxiang_Xianshi_2 1
+    3300120: Peiyangxiang_Xianshi_3
+    3300122: Peiyangxiang_Xianshi_3 1
+    3300124: Peiyangxiang_Xianshi_4
+    3300126: Peiyangxiang_Xianshi_4 1
+    3300128: Peiyangxiang_Xianshi_5
+    3300130: Peiyangxiang_Xianshi_5 1
+    3300132: Peiyangxiang_Xianshi_6
+    3300134: Peiyangxiang_Xianshi_6 1
+    3300136: Peiyangxiang_Xianshi_7
+    3300138: Peiyangxiang_Xianshi_7 1
+    3300140: PeiYiangXiang_Body
+    3300142: PeiYiangXiang_Body 1
+    3300144: PeiYiangXiang_PZ
+    3300146: PeiYiangXiang_PZ 1
+    3300148: PeiYiangXiang_TP
+    3300150: PeiYiangXiang_TP 1
+    3300152: s
+    3300154: t
+    3300156: WSWSYS_MJPZS_bt1
+    3300158: WSWSYS_MJPZS_cz1
+    3300160: WSWSY_BJ_174
+    3300162: wswsy_jljsq_dx
+    4300000: PeiYiangXiang_PZ
+    4300002: Peiyangxiang_Pen
+    4300004: Peiyangxiang_Men
+    4300006: Peiyangxiang_Deng_1
+    4300008: Peiyangxiang_Deng_2
+    4300010: Peiyangxiang_Deng_3
+    4300012: Peiyangxiang_Deng_4
+    4300014: Peiyangxiang_Deng_5
+    4300016: Peiyangxiang_Deng_6
+    4300018: Peiyangxiang_Deng_7
+    4300020: Peiyangxiang_Deng_8
+    4300022: Peiyangxiang_Deng_9
+    4300024: Peiyangxiang_Bolimen1
+    4300026: Peiyangxiang_Bolimen2
+    4300028: Peiyangxiang_Xianshi_1
+    4300030: Peiyangxiang_Xianshi_2
+    4300032: Peiyangxiang_Xianshi_3
+    4300034: Peiyangxiang_Xianshi_4
+    4300036: Peiyangxiang_Xianshi_5
+    4300038: Peiyangxiang_Xianshi_6
+    4300040: Peiyangxiang_Xianshi_7
+    4300042: PeiYiangXiang_Body
+    4300044: PeiYiangXiang_TP
+    4300046: Peiyangxiang_CZ
+    4300048: Peiyangxiang_sss
+    4300050: Peiyangxiang_KG
+    4300052: PeiYiangXiang_PZ
+    4300054: Peiyangxiang_Pen
+    4300056: Peiyangxiang_Men
+    4300058: Peiyangxiang_Deng_1
+    4300060: Peiyangxiang_Deng_2
+    4300062: Peiyangxiang_Deng_3
+    4300064: Peiyangxiang_Deng_4
+    4300066: Peiyangxiang_Deng_5
+    4300068: Peiyangxiang_Deng_6
+    4300070: Peiyangxiang_Deng_7
+    4300072: Peiyangxiang_Deng_8
+    4300074: Peiyangxiang_Deng_9
+    4300076: Peiyangxiang_Bolimen1
+    4300078: Peiyangxiang_Bolimen2
+    4300080: Peiyangxiang_Xianshi_1
+    4300082: Peiyangxiang_Xianshi_2
+    4300084: Peiyangxiang_Xianshi_3
+    4300086: Peiyangxiang_Xianshi_4
+    4300088: Peiyangxiang_Xianshi_5
+    4300090: Peiyangxiang_Xianshi_6
+    4300092: Peiyangxiang_Xianshi_7
+    4300094: PeiYiangXiang_Body
+    4300096: PeiYiangXiang_TP
+    4300098: Peiyangxiang_CZ
+    4300100: Peiyangxiang_sss
+    4300102: Peiyangxiang_KG
+    4300104: chat
+    4300106: bi_body_1
+    4300108: bi_body_2
+    4300110: bi_body_3
+    4300112: bi_body_4
+    4300114: bi_body_5
+    4300116: bi_body_6
+    4300118: bi_body_7
+    4300120: bi_body_8
+    4300122: bi_body_9
+    4300124: bi_body_10
+    4300126: mao_body_1
+    4300128: mao_body_2
+    4300130: mao_body_3
+    4300132: mao_body_4
+    4300134: mao_body_5
+    4300136: mao_body_6
+    4300138: mao_body_7
+    4300140: mao_body_8
+    4300142: mao_body_9
+    4300144: ct
+    4300146: bl
+    4300148: ht
+    4300150: o
+    4300152: t
+    4300154: s
+    4300156: WSWSYS_MJPZS_bt1
+    4300158: WSWSYS_MJPZS_cz1
+    4300160: WSWSY_BJ_174
+    4300162: wswsy_jljsq_dx
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

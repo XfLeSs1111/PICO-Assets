@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 3811bec4c0f3c0c4fa4b02ea16ff8ce1
+timeCreated: 1682391866
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: wbl_2_dyx
+    100002: wbl_dyx
+    100004: wbl_dyx1
+    100006: //RootNode
+    100008: wbl_syz
+    100010: wbl_syz_1
+    100012: wbl_syz_2
+    100014: wbl_syz_3
+    100016: wbl_syz_4
+    100018: wbl_syz_5
+    100020: wbl_syz_6
+    100022: WSWSYS_SYS_SLT_21
+    100024: WSWSYS_SYS_SLT_22
+    100026: WSWSYS_SYS_SLT_23
+    100028: WSWSYS_SYS_SLT_24
+    100030: WSWSYS_WeiBoLu
+    100032: WSWSYS_WeiBoLu2
+    100034: WSWSYS_WeiBoLu_1
+    100036: WSWSYS_WeiBoLu_1 1
+    100038: WSWSYS_WeiBoLu_3
+    100040: WSWSYS_WeiBoLu_3 1
+    100042: WSWSYS_WeiBoLu_5
+    100044: WSWSYS_WeiBoLu_5 1
+    100046: WSWSYS_WeiBoLu_6
+    100048: WSWSYS_WeiBoLu_6 1
+    100050: WSWSYS_WeiBoLu_7
+    100052: WSWSYS_WeiBoLu_7 1
+    100054: WSWSYS_WeiBoLu_8
+    100056: WSWSYS_WeiBoLu_8 1
+    100058: WSWSYS_WeiBoLu_boli_1
+    100060: WSWSYS_WeiBoLu_boli_1 1
+    100062: WSWSYS_WeiBoLu_boli_2
+    100064: WSWSYS_WeiBoLu_boli_2_1
+    100066: WSWSYS_WeiBoLu_boli_2_2
+    100068: WSWSYS_WeiBoLu_men
+    100070: WSWSYS_WeiBoLu_men 1
+    100072: WSWSYS_WeiBoLu_men_1
+    100074: WSWSYS_WeiBoLu_men_1 1
+    100076: WSWSYS_WeiBoLu_men_2
+    100078: WSWSYS_WeiBoLu_men_2 1
+    100080: WSWSYS_WeiBoLu_men_3
+    100082: WSWSYS_WeiBoLu_men_3 1
+    400000: wbl_2_dyx
+    400002: wbl_dyx
+    400004: wbl_dyx1
+    400006: //RootNode
+    400008: wbl_syz
+    400010: wbl_syz_1
+    400012: wbl_syz_2
+    400014: wbl_syz_3
+    400016: wbl_syz_4
+    400018: wbl_syz_5
+    400020: wbl_syz_6
+    400022: WSWSYS_SYS_SLT_21
+    400024: WSWSYS_SYS_SLT_22
+    400026: WSWSYS_SYS_SLT_23
+    400028: WSWSYS_SYS_SLT_24
+    400030: WSWSYS_WeiBoLu
+    400032: WSWSYS_WeiBoLu2
+    400034: WSWSYS_WeiBoLu_1
+    400036: WSWSYS_WeiBoLu_1 1
+    400038: WSWSYS_WeiBoLu_3
+    400040: WSWSYS_WeiBoLu_3 1
+    400042: WSWSYS_WeiBoLu_5
+    400044: WSWSYS_WeiBoLu_5 1
+    400046: WSWSYS_WeiBoLu_6
+    400048: WSWSYS_WeiBoLu_6 1
+    400050: WSWSYS_WeiBoLu_7
+    400052: WSWSYS_WeiBoLu_7 1
+    400054: WSWSYS_WeiBoLu_8
+    400056: WSWSYS_WeiBoLu_8 1
+    400058: WSWSYS_WeiBoLu_boli_1
+    400060: WSWSYS_WeiBoLu_boli_1 1
+    400062: WSWSYS_WeiBoLu_boli_2
+    400064: WSWSYS_WeiBoLu_boli_2_1
+    400066: WSWSYS_WeiBoLu_boli_2_2
+    400068: WSWSYS_WeiBoLu_men
+    400070: WSWSYS_WeiBoLu_men 1
+    400072: WSWSYS_WeiBoLu_men_1
+    400074: WSWSYS_WeiBoLu_men_1 1
+    400076: WSWSYS_WeiBoLu_men_2
+    400078: WSWSYS_WeiBoLu_men_2 1
+    400080: WSWSYS_WeiBoLu_men_3
+    400082: WSWSYS_WeiBoLu_men_3 1
+    2300000: wbl_2_dyx
+    2300002: wbl_dyx
+    2300004: wbl_dyx1
+    2300006: wbl_syz_1
+    2300008: wbl_syz_3
+    2300010: wbl_syz_4
+    2300012: wbl_syz_5
+    2300014: wbl_syz_6
+    2300016: WSWSYS_SYS_SLT_21
+    2300018: WSWSYS_SYS_SLT_22
+    2300020: WSWSYS_SYS_SLT_23
+    2300022: WSWSYS_SYS_SLT_24
+    2300024: WSWSYS_WeiBoLu_1
+    2300026: WSWSYS_WeiBoLu_1 1
+    2300028: WSWSYS_WeiBoLu_3
+    2300030: WSWSYS_WeiBoLu_3 1
+    2300032: WSWSYS_WeiBoLu_5
+    2300034: WSWSYS_WeiBoLu_5 1
+    2300036: WSWSYS_WeiBoLu_6
+    2300038: WSWSYS_WeiBoLu_6 1
+    2300040: WSWSYS_WeiBoLu_7
+    2300042: WSWSYS_WeiBoLu_7 1
+    2300044: WSWSYS_WeiBoLu_8
+    2300046: WSWSYS_WeiBoLu_8 1
+    2300048: WSWSYS_WeiBoLu_boli_1
+    2300050: WSWSYS_WeiBoLu_boli_1 1
+    2300052: WSWSYS_WeiBoLu_boli_2_1
+    2300054: WSWSYS_WeiBoLu_boli_2_2
+    2300056: WSWSYS_WeiBoLu_men_1
+    2300058: WSWSYS_WeiBoLu_men_1 1
+    2300060: WSWSYS_WeiBoLu_men_2
+    2300062: WSWSYS_WeiBoLu_men_2 1
+    2300064: WSWSYS_WeiBoLu_men_3
+    2300066: WSWSYS_WeiBoLu_men_3 1
+    3300000: wbl_2_dyx
+    3300002: wbl_dyx
+    3300004: wbl_dyx1
+    3300006: wbl_syz_1
+    3300008: wbl_syz_3
+    3300010: wbl_syz_4
+    3300012: wbl_syz_5
+    3300014: wbl_syz_6
+    3300016: WSWSYS_SYS_SLT_21
+    3300018: WSWSYS_SYS_SLT_22
+    3300020: WSWSYS_SYS_SLT_23
+    3300022: WSWSYS_SYS_SLT_24
+    3300024: WSWSYS_WeiBoLu_1
+    3300026: WSWSYS_WeiBoLu_1 1
+    3300028: WSWSYS_WeiBoLu_3
+    3300030: WSWSYS_WeiBoLu_3 1
+    3300032: WSWSYS_WeiBoLu_5
+    3300034: WSWSYS_WeiBoLu_5 1
+    3300036: WSWSYS_WeiBoLu_6
+    3300038: WSWSYS_WeiBoLu_6 1
+    3300040: WSWSYS_WeiBoLu_7
+    3300042: WSWSYS_WeiBoLu_7 1
+    3300044: WSWSYS_WeiBoLu_8
+    3300046: WSWSYS_WeiBoLu_8 1
+    3300048: WSWSYS_WeiBoLu_boli_1
+    3300050: WSWSYS_WeiBoLu_boli_1 1
+    3300052: WSWSYS_WeiBoLu_boli_2_1
+    3300054: WSWSYS_WeiBoLu_boli_2_2
+    3300056: WSWSYS_WeiBoLu_men_1
+    3300058: WSWSYS_WeiBoLu_men_1 1
+    3300060: WSWSYS_WeiBoLu_men_2
+    3300062: WSWSYS_WeiBoLu_men_2 1
+    3300064: WSWSYS_WeiBoLu_men_3
+    3300066: WSWSYS_WeiBoLu_men_3 1
+    4300000: wbl_syz_1
+    4300002: WSWSYS_SYS_SLT_21
+    4300004: WSWSYS_SYS_SLT_22
+    4300006: WSWSYS_SYS_SLT_23
+    4300008: WSWSYS_SYS_SLT_24
+    4300010: wbl_syz_3
+    4300012: wbl_syz_4
+    4300014: wbl_syz_5
+    4300016: wbl_syz_6
+    4300018: WSWSYS_WeiBoLu_8
+    4300020: WSWSYS_WeiBoLu_1
+    4300022: WSWSYS_WeiBoLu_boli_1
+    4300024: WSWSYS_WeiBoLu_boli_2_1
+    4300026: WSWSYS_WeiBoLu_boli_2_2
+    4300028: WSWSYS_WeiBoLu_3
+    4300030: WSWSYS_WeiBoLu_men_1
+    4300032: WSWSYS_WeiBoLu_men_2
+    4300034: WSWSYS_WeiBoLu_men_3
+    4300036: WSWSYS_WeiBoLu_5
+    4300038: WSWSYS_WeiBoLu_6
+    4300040: wbl_dyx
+    4300042: WSWSYS_WeiBoLu_7
+    4300044: wbl_dyx1
+    4300046: WSWSYS_WeiBoLu_1
+    4300048: WSWSYS_WeiBoLu_boli_1
+    4300050: WSWSYS_WeiBoLu_3
+    4300052: WSWSYS_WeiBoLu_men_1
+    4300054: WSWSYS_WeiBoLu_men_2
+    4300056: WSWSYS_WeiBoLu_men_3
+    4300058: WSWSYS_WeiBoLu_5
+    4300060: WSWSYS_WeiBoLu_6
+    4300062: WSWSYS_WeiBoLu_7
+    4300064: WSWSYS_WeiBoLu_8
+    4300066: wbl_2_dyx
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

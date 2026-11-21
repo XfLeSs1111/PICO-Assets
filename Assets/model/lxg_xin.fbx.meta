@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 030dca97d1163eb40aad273c2c2dc364
+timeCreated: 1671677302
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lxg_xin_1
+    100004: lxg_xin_2
+    100006: lxg_xin_3
+    100008: lxg_xin_4
+    100010: lxg_xin_5
+    100012: qmjy_lxgj_lxg2_gz
+    100014: qmjy_lxgj_lxg2_gz 1
+    100016: qmjy_lxgj_lxg2_gz 2
+    100018: qmjy_lxgj_lxg2_gz 3
+    100020: qmjy_lxgj_lxg2_gz 4
+    100022: qmjy_lxgj_lxg2_zt
+    100024: qmjy_lxgj_lxg2_zt 1
+    100026: qmjy_lxgj_lxg2_zt 2
+    100028: qmjy_lxgj_lxg2_zt 3
+    100030: qmjy_lxgj_lxg2_zt 4
+    100032: qmjy_lxgj_lxg2_zt_bq
+    100034: qmjy_lxgj_lxg2_zt_bq 1
+    100036: qmjy_lxgj_lxg2_zt_bq 2
+    100038: qmjy_lxgj_lxg2_zt_bq 3
+    100040: qmjy_lxgj_lxg2_zt_bq 4
+    100042: qmjy_lxgj_lxg2_zt_gs
+    100044: qmjy_lxgj_lxg2_zt_gs 1
+    100046: qmjy_lxgj_lxg2_zt_gs 2
+    100048: qmjy_lxgj_lxg2_zt_gs 3
+    100050: qmjy_lxgj_lxg2_zt_gs 4
+    100052: qmjy_lxgj_lxg2_zt_yt
+    100054: qmjy_lxgj_lxg2_zt_yt 1
+    100056: qmjy_lxgj_lxg2_zt_yt 2
+    100058: qmjy_lxgj_lxg2_zt_yt 3
+    100060: qmjy_lxgj_lxg2_zt_yt 4
+    400000: //RootNode
+    400002: lxg_xin_1
+    400004: lxg_xin_2
+    400006: lxg_xin_3
+    400008: lxg_xin_4
+    400010: lxg_xin_5
+    400012: qmjy_lxgj_lxg2_gz
+    400014: qmjy_lxgj_lxg2_gz 1
+    400016: qmjy_lxgj_lxg2_gz 2
+    400018: qmjy_lxgj_lxg2_gz 3
+    400020: qmjy_lxgj_lxg2_gz 4
+    400022: qmjy_lxgj_lxg2_zt
+    400024: qmjy_lxgj_lxg2_zt 1
+    400026: qmjy_lxgj_lxg2_zt 2
+    400028: qmjy_lxgj_lxg2_zt 3
+    400030: qmjy_lxgj_lxg2_zt 4
+    400032: qmjy_lxgj_lxg2_zt_bq
+    400034: qmjy_lxgj_lxg2_zt_bq 1
+    400036: qmjy_lxgj_lxg2_zt_bq 2
+    400038: qmjy_lxgj_lxg2_zt_bq 3
+    400040: qmjy_lxgj_lxg2_zt_bq 4
+    400042: qmjy_lxgj_lxg2_zt_gs
+    400044: qmjy_lxgj_lxg2_zt_gs 1
+    400046: qmjy_lxgj_lxg2_zt_gs 2
+    400048: qmjy_lxgj_lxg2_zt_gs 3
+    400050: qmjy_lxgj_lxg2_zt_gs 4
+    400052: qmjy_lxgj_lxg2_zt_yt
+    400054: qmjy_lxgj_lxg2_zt_yt 1
+    400056: qmjy_lxgj_lxg2_zt_yt 2
+    400058: qmjy_lxgj_lxg2_zt_yt 3
+    400060: qmjy_lxgj_lxg2_zt_yt 4
+    2300000: qmjy_lxgj_lxg2_gz
+    2300002: qmjy_lxgj_lxg2_gz 1
+    2300004: qmjy_lxgj_lxg2_gz 2
+    2300006: qmjy_lxgj_lxg2_gz 3
+    2300008: qmjy_lxgj_lxg2_gz 4
+    2300010: qmjy_lxgj_lxg2_zt_bq
+    2300012: qmjy_lxgj_lxg2_zt_bq 1
+    2300014: qmjy_lxgj_lxg2_zt_bq 2
+    2300016: qmjy_lxgj_lxg2_zt_bq 3
+    2300018: qmjy_lxgj_lxg2_zt_bq 4
+    2300020: qmjy_lxgj_lxg2_zt_gs
+    2300022: qmjy_lxgj_lxg2_zt_gs 1
+    2300024: qmjy_lxgj_lxg2_zt_gs 2
+    2300026: qmjy_lxgj_lxg2_zt_gs 3
+    2300028: qmjy_lxgj_lxg2_zt_gs 4
+    2300030: qmjy_lxgj_lxg2_zt_yt
+    2300032: qmjy_lxgj_lxg2_zt_yt 1
+    2300034: qmjy_lxgj_lxg2_zt_yt 2
+    2300036: qmjy_lxgj_lxg2_zt_yt 3
+    2300038: qmjy_lxgj_lxg2_zt_yt 4
+    3300000: qmjy_lxgj_lxg2_gz
+    3300002: qmjy_lxgj_lxg2_gz 1
+    3300004: qmjy_lxgj_lxg2_gz 2
+    3300006: qmjy_lxgj_lxg2_gz 3
+    3300008: qmjy_lxgj_lxg2_gz 4
+    3300010: qmjy_lxgj_lxg2_zt_bq
+    3300012: qmjy_lxgj_lxg2_zt_bq 1
+    3300014: qmjy_lxgj_lxg2_zt_bq 2
+    3300016: qmjy_lxgj_lxg2_zt_bq 3
+    3300018: qmjy_lxgj_lxg2_zt_bq 4
+    3300020: qmjy_lxgj_lxg2_zt_gs
+    3300022: qmjy_lxgj_lxg2_zt_gs 1
+    3300024: qmjy_lxgj_lxg2_zt_gs 2
+    3300026: qmjy_lxgj_lxg2_zt_gs 3
+    3300028: qmjy_lxgj_lxg2_zt_gs 4
+    3300030: qmjy_lxgj_lxg2_zt_yt
+    3300032: qmjy_lxgj_lxg2_zt_yt 1
+    3300034: qmjy_lxgj_lxg2_zt_yt 2
+    3300036: qmjy_lxgj_lxg2_zt_yt 3
+    3300038: qmjy_lxgj_lxg2_zt_yt 4
+    4300000: qmjy_lxgj_lxg2_gz
+    4300002: qmjy_lxgj_lxg2_zt_gs
+    4300004: qmjy_lxgj_lxg2_zt_yt
+    4300006: qmjy_lxgj_lxg2_zt_bq
+    4300008: qmjy_lxgj_lxg2_gz
+    4300010: qmjy_lxgj_lxg2_zt_gs
+    4300012: qmjy_lxgj_lxg2_zt_yt
+    4300014: qmjy_lxgj_lxg2_zt_bq
+    4300016: qmjy_lxgj_lxg2_gz
+    4300018: qmjy_lxgj_lxg2_zt_gs
+    4300020: qmjy_lxgj_lxg2_zt_yt
+    4300022: qmjy_lxgj_lxg2_zt_bq
+    4300024: qmjy_lxgj_lxg2_gz
+    4300026: qmjy_lxgj_lxg2_zt_gs
+    4300028: qmjy_lxgj_lxg2_zt_yt
+    4300030: qmjy_lxgj_lxg2_zt_bq
+    4300032: qmjy_lxgj_lxg2_gz
+    4300034: qmjy_lxgj_lxg2_zt_gs
+    4300036: qmjy_lxgj_lxg2_zt_yt
+    4300038: qmjy_lxgj_lxg2_zt_bq
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

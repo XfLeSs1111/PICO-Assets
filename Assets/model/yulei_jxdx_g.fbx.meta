@@ -1,0 +1,1061 @@
+fileFormatVersion: 2
+guid: f3f6cc269ed70a5419e5e45e075dff2c
+timeCreated: 1679558768
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: banmayu
+    100002: bmy_p
+    100004: chaowang_g
+    100006: chaowang_wang
+    100008: chaowang_zt
+    100010: clz_1
+    100012: clz_2
+    100014: clz_3
+    100016: clz_4
+    100018: clz_5
+    100020: clz_6
+    100022: clz_7
+    100024: clz_8
+    100026: clz_8_1
+    100028: clz_8_2
+    100030: clz_9
+    100032: clz_9_1
+    100034: clz_9_2
+    100036: clz_a
+    100038: clz_a1
+    100040: clz_a2
+    100042: clz_b
+    100044: clz_b1
+    100046: clz_b2
+    100048: dztp_ct
+    100050: dztp_hou
+    100052: dztp_qian
+    100054: dztp_shang
+    100056: dztp_sz
+    100058: dztp_sz_1
+    100060: dztp_sz_2
+    100062: dztp_sz_3
+    100064: dztp_sz_4
+    100066: dztp_sz_5
+    100068: dztp_sz_6
+    100070: dztp_sz_7
+    100072: dztp_sz_g
+    100074: dztp_sz_g1
+    100076: dztp_x
+    100078: dztp_you
+    100080: dztp_zt
+    100082: dztp_zuo
+    100084: Epp_Holder
+    100086: epp_pipette_1000_ani_qt
+    100088: epp_pipette_1000_body
+    100090: epp_pipette_1000_button
+    100092: epp_pipette_1000_button_2
+    100094: epp_pipette_1000_g
+    100096: epp_pipette_1000_label
+    100098: epp_pipette_1000_num
+    100100: epp_pipette_1000_num_1
+    100102: epp_pipette_1000_num_2
+    100104: epp_pipette_1000_num_3
+    100106: epp_pipette_1000_num_4
+    100108: epp_pipette_100_body
+    100110: epp_pipette_100_button
+    100112: epp_pipette_100_button_2
+    100114: epp_pipette_100_g
+    100116: epp_pipette_100_label
+    100118: epp_pipette_100_num
+    100120: epp_pipette_100_num_1
+    100122: epp_pipette_100_num_2
+    100124: epp_pipette_100_num_3
+    100126: epp_pipette_100_num_4
+    100128: epp_pipette_100_num_cut
+    100130: epp_pipette_100_qt
+    100132: epp_pipette_10_ani_qt
+    100134: epp_pipette_10_body
+    100136: epp_pipette_10_button
+    100138: epp_pipette_10_button_2
+    100140: epp_pipette_10_g
+    100142: epp_pipette_10_label
+    100144: epp_pipette_10_num
+    100146: epp_pipette_10_num_1
+    100148: epp_pipette_10_num_2
+    100150: epp_pipette_10_num_3
+    100152: epp_pipette_10_num_4
+    100154: epp_pipette_10_num_cut
+    100156: epp_pipette_200_body
+    100158: epp_pipette_200_button
+    100160: epp_pipette_200_button_2
+    100162: epp_pipette_200_g
+    100164: epp_pipette_200_label
+    100166: epp_pipette_200_num
+    100168: epp_pipette_200_num_1
+    100170: epp_pipette_200_num_2
+    100172: epp_pipette_200_num_3
+    100174: epp_pipette_200_num_4
+    100176: epp_pipette_200_num_cut
+    100178: epp_pipette_200_qt
+    100180: epp_pipette_20_ani_qt
+    100182: epp_pipette_20_body
+    100184: epp_pipette_20_button
+    100186: epp_pipette_20_button_2
+    100188: epp_pipette_20_g
+    100190: epp_pipette_20_label
+    100192: epp_pipette_20_num
+    100194: epp_pipette_20_num_1
+    100196: epp_pipette_20_num_2
+    100198: epp_pipette_20_num_3
+    100200: epp_pipette_20_num_4
+    100202: epp_pipette_20_num_cut
+    100204: epp_pipette_5ml__button_2
+    100206: epp_pipette_5ml_body
+    100208: epp_pipette_5ml_bq
+    100210: epp_pipette_5ml_button
+    100212: epp_pipette_5ml_g
+    100214: epp_pipette_5ml_label
+    100216: epp_pipette_5ml_num
+    100218: epp_pipette_5ml_num_1
+    100220: epp_pipette_5ml_num_2
+    100222: epp_pipette_5ml_num_3
+    100224: epp_pipette_5ml_num_4
+    100226: epp_pipette_5ml_tou
+    100228: Eppendorf_pipette_g
+    100230: fish_g
+    100232: FXLF_stst
+    100234: HXSY_blb1
+    100236: HXSY_clz
+    100238: HXSY_tuopan2
+    100240: hz_gz
+    100242: hz_gz1
+    100244: hz_gz10
+    100246: hz_gz11
+    100248: hz_gz12
+    100250: hz_gz13
+    100252: hz_gz14
+    100254: hz_gz15
+    100256: hz_gz16
+    100258: hz_gz2
+    100260: hz_gz4
+    100262: hz_gz5
+    100264: hz_gz6
+    100266: hz_gz7
+    100268: hz_gz8
+    100270: hz_gz9
+    100272: hz_zt
+    100274: hz_zt1
+    100276: hz_zt2
+    100278: hz_zt3
+    100280: kongqibeng_1
+    100282: kongqibeng_2
+    100284: kongqibeng_3
+    100286: kqb
+    100288: lfy_yg_xz_2_2_1
+    100290: lfy_yg_xz_2_2_2
+    100292: lt
+    100294: lt_bq
+    100296: qingjiang_g
+    100298: qingjiang_qi
+    100300: qingjiang_zt
+    100302: qj_p
+    100304: rongliangping_100ml
+    100306: rongliangping_100ml_1
+    100308: rongliangping_100ml_2
+    100310: rongliangping_100ml_3
+    100312: rongliangping_100ml_4
+    100314: rongliangping_100ml_5
+    100316: sb100_bq
+    100318: sb100_bq 1
+    100320: sb100_bq 2
+    100322: sb100_bq 3
+    100324: sb100_bq 4
+    100326: sb100_bq 5
+    100328: sb100_bq 6
+    100330: sb100_bq1
+    100332: sb100_bq1 1
+    100334: sb100_bq1 2
+    100336: sb100_bq1 3
+    100338: sb100_bq1 4
+    100340: sb100_bq1 5
+    100342: sb100_bq2
+    100344: sb100_bq2 1
+    100346: sb100_bq2 2
+    100348: sb100_bq2 3
+    100350: sb100_bq2 4
+    100352: sb100_bs
+    100354: sb100_bs 1
+    100356: sb100_bs 2
+    100358: sb100_bs 3
+    100360: sb100_bs 4
+    100362: sb100_bs 5
+    100364: sb100_bs 6
+    100366: sb100_bs 7
+    100368: sb100_bs1
+    100370: sb100_yt
+    100372: sb100_yt 1
+    100374: sb100_yt 2
+    100376: sb100_yt 3
+    100378: sb100_yt 4
+    100380: sb100_yt 5
+    100382: sb100_yt 6
+    100384: sb_5000ml_1
+    100386: sb_5000ml_2
+    100388: sb_5000ml_3
+    100390: sb_5000ml_4
+    100392: sb_5000ml_5
+    100394: sb_5000ml_6
+    100396: sb_5000ml_7
+    100398: sb_5000ml_8
+    100400: sb_5000ml_g
+    100402: shang_bl
+    100404: shang_bs
+    100406: st_yt
+    100408: st_zt
+    100410: SWSY_dztp
+    100412: SWSY_lt_1000
+    100414: tare_button_1
+    100416: tare_button_2
+    100418: tare_button_3
+    100420: tuopan_g
+    100422: wslst
+    100424: wslst_pg
+    100426: wslst_zt
+    100428: wslst_zt_1
+    100430: wslst_zt_2
+    100432: wslst_zt_3
+    100434: yaoshi
+    100436: yaoshi_fenmo
+    100438: yaoshi_g
+    100440: you_bl
+    100442: you_bs
+    100444: yugang
+    100446: //RootNode
+    100448: zuo_bl
+    100450: zuo_bs
+    400000: banmayu
+    400002: bmy_p
+    400004: chaowang_g
+    400006: chaowang_wang
+    400008: chaowang_zt
+    400010: clz_1
+    400012: clz_2
+    400014: clz_3
+    400016: clz_4
+    400018: clz_5
+    400020: clz_6
+    400022: clz_7
+    400024: clz_8
+    400026: clz_8_1
+    400028: clz_8_2
+    400030: clz_9
+    400032: clz_9_1
+    400034: clz_9_2
+    400036: clz_a
+    400038: clz_a1
+    400040: clz_a2
+    400042: clz_b
+    400044: clz_b1
+    400046: clz_b2
+    400048: dztp_ct
+    400050: dztp_hou
+    400052: dztp_qian
+    400054: dztp_shang
+    400056: dztp_sz
+    400058: dztp_sz_1
+    400060: dztp_sz_2
+    400062: dztp_sz_3
+    400064: dztp_sz_4
+    400066: dztp_sz_5
+    400068: dztp_sz_6
+    400070: dztp_sz_7
+    400072: dztp_sz_g
+    400074: dztp_sz_g1
+    400076: dztp_x
+    400078: dztp_you
+    400080: dztp_zt
+    400082: dztp_zuo
+    400084: Epp_Holder
+    400086: epp_pipette_1000_ani_qt
+    400088: epp_pipette_1000_body
+    400090: epp_pipette_1000_button
+    400092: epp_pipette_1000_button_2
+    400094: epp_pipette_1000_g
+    400096: epp_pipette_1000_label
+    400098: epp_pipette_1000_num
+    400100: epp_pipette_1000_num_1
+    400102: epp_pipette_1000_num_2
+    400104: epp_pipette_1000_num_3
+    400106: epp_pipette_1000_num_4
+    400108: epp_pipette_100_body
+    400110: epp_pipette_100_button
+    400112: epp_pipette_100_button_2
+    400114: epp_pipette_100_g
+    400116: epp_pipette_100_label
+    400118: epp_pipette_100_num
+    400120: epp_pipette_100_num_1
+    400122: epp_pipette_100_num_2
+    400124: epp_pipette_100_num_3
+    400126: epp_pipette_100_num_4
+    400128: epp_pipette_100_num_cut
+    400130: epp_pipette_100_qt
+    400132: epp_pipette_10_ani_qt
+    400134: epp_pipette_10_body
+    400136: epp_pipette_10_button
+    400138: epp_pipette_10_button_2
+    400140: epp_pipette_10_g
+    400142: epp_pipette_10_label
+    400144: epp_pipette_10_num
+    400146: epp_pipette_10_num_1
+    400148: epp_pipette_10_num_2
+    400150: epp_pipette_10_num_3
+    400152: epp_pipette_10_num_4
+    400154: epp_pipette_10_num_cut
+    400156: epp_pipette_200_body
+    400158: epp_pipette_200_button
+    400160: epp_pipette_200_button_2
+    400162: epp_pipette_200_g
+    400164: epp_pipette_200_label
+    400166: epp_pipette_200_num
+    400168: epp_pipette_200_num_1
+    400170: epp_pipette_200_num_2
+    400172: epp_pipette_200_num_3
+    400174: epp_pipette_200_num_4
+    400176: epp_pipette_200_num_cut
+    400178: epp_pipette_200_qt
+    400180: epp_pipette_20_ani_qt
+    400182: epp_pipette_20_body
+    400184: epp_pipette_20_button
+    400186: epp_pipette_20_button_2
+    400188: epp_pipette_20_g
+    400190: epp_pipette_20_label
+    400192: epp_pipette_20_num
+    400194: epp_pipette_20_num_1
+    400196: epp_pipette_20_num_2
+    400198: epp_pipette_20_num_3
+    400200: epp_pipette_20_num_4
+    400202: epp_pipette_20_num_cut
+    400204: epp_pipette_5ml__button_2
+    400206: epp_pipette_5ml_body
+    400208: epp_pipette_5ml_bq
+    400210: epp_pipette_5ml_button
+    400212: epp_pipette_5ml_g
+    400214: epp_pipette_5ml_label
+    400216: epp_pipette_5ml_num
+    400218: epp_pipette_5ml_num_1
+    400220: epp_pipette_5ml_num_2
+    400222: epp_pipette_5ml_num_3
+    400224: epp_pipette_5ml_num_4
+    400226: epp_pipette_5ml_tou
+    400228: Eppendorf_pipette_g
+    400230: fish_g
+    400232: FXLF_stst
+    400234: HXSY_blb1
+    400236: HXSY_clz
+    400238: HXSY_tuopan2
+    400240: hz_gz
+    400242: hz_gz1
+    400244: hz_gz10
+    400246: hz_gz11
+    400248: hz_gz12
+    400250: hz_gz13
+    400252: hz_gz14
+    400254: hz_gz15
+    400256: hz_gz16
+    400258: hz_gz2
+    400260: hz_gz4
+    400262: hz_gz5
+    400264: hz_gz6
+    400266: hz_gz7
+    400268: hz_gz8
+    400270: hz_gz9
+    400272: hz_zt
+    400274: hz_zt1
+    400276: hz_zt2
+    400278: hz_zt3
+    400280: kongqibeng_1
+    400282: kongqibeng_2
+    400284: kongqibeng_3
+    400286: kqb
+    400288: lfy_yg_xz_2_2_1
+    400290: lfy_yg_xz_2_2_2
+    400292: lt
+    400294: lt_bq
+    400296: qingjiang_g
+    400298: qingjiang_qi
+    400300: qingjiang_zt
+    400302: qj_p
+    400304: rongliangping_100ml
+    400306: rongliangping_100ml_1
+    400308: rongliangping_100ml_2
+    400310: rongliangping_100ml_3
+    400312: rongliangping_100ml_4
+    400314: rongliangping_100ml_5
+    400316: sb100_bq
+    400318: sb100_bq 1
+    400320: sb100_bq 2
+    400322: sb100_bq 3
+    400324: sb100_bq 4
+    400326: sb100_bq 5
+    400328: sb100_bq 6
+    400330: sb100_bq1
+    400332: sb100_bq1 1
+    400334: sb100_bq1 2
+    400336: sb100_bq1 3
+    400338: sb100_bq1 4
+    400340: sb100_bq1 5
+    400342: sb100_bq2
+    400344: sb100_bq2 1
+    400346: sb100_bq2 2
+    400348: sb100_bq2 3
+    400350: sb100_bq2 4
+    400352: sb100_bs
+    400354: sb100_bs 1
+    400356: sb100_bs 2
+    400358: sb100_bs 3
+    400360: sb100_bs 4
+    400362: sb100_bs 5
+    400364: sb100_bs 6
+    400366: sb100_bs 7
+    400368: sb100_bs1
+    400370: sb100_yt
+    400372: sb100_yt 1
+    400374: sb100_yt 2
+    400376: sb100_yt 3
+    400378: sb100_yt 4
+    400380: sb100_yt 5
+    400382: sb100_yt 6
+    400384: sb_5000ml_1
+    400386: sb_5000ml_2
+    400388: sb_5000ml_3
+    400390: sb_5000ml_4
+    400392: sb_5000ml_5
+    400394: sb_5000ml_6
+    400396: sb_5000ml_7
+    400398: sb_5000ml_8
+    400400: sb_5000ml_g
+    400402: shang_bl
+    400404: shang_bs
+    400406: st_yt
+    400408: st_zt
+    400410: SWSY_dztp
+    400412: SWSY_lt_1000
+    400414: tare_button_1
+    400416: tare_button_2
+    400418: tare_button_3
+    400420: tuopan_g
+    400422: wslst
+    400424: wslst_pg
+    400426: wslst_zt
+    400428: wslst_zt_1
+    400430: wslst_zt_2
+    400432: wslst_zt_3
+    400434: yaoshi
+    400436: yaoshi_fenmo
+    400438: yaoshi_g
+    400440: you_bl
+    400442: you_bs
+    400444: yugang
+    400446: //RootNode
+    400448: zuo_bl
+    400450: zuo_bs
+    2300000: banmayu
+    2300002: bmy_p
+    2300004: chaowang_wang
+    2300006: chaowang_zt
+    2300008: clz_1
+    2300010: clz_2
+    2300012: clz_3
+    2300014: clz_4
+    2300016: clz_5
+    2300018: clz_6
+    2300020: clz_8_1
+    2300022: clz_8_2
+    2300024: clz_9_1
+    2300026: clz_9_2
+    2300028: clz_a1
+    2300030: clz_a2
+    2300032: clz_b1
+    2300034: clz_b2
+    2300036: dztp_ct
+    2300038: dztp_hou
+    2300040: dztp_qian
+    2300042: dztp_sz_1
+    2300044: dztp_sz_2
+    2300046: dztp_sz_3
+    2300048: dztp_sz_4
+    2300050: dztp_sz_5
+    2300052: dztp_sz_6
+    2300054: dztp_sz_7
+    2300056: dztp_sz_g
+    2300058: dztp_x
+    2300060: dztp_zt
+    2300062: Epp_Holder
+    2300064: epp_pipette_1000_ani_qt
+    2300066: epp_pipette_1000_body
+    2300068: epp_pipette_1000_button
+    2300070: epp_pipette_1000_button_2
+    2300072: epp_pipette_1000_label
+    2300074: epp_pipette_1000_num_1
+    2300076: epp_pipette_1000_num_2
+    2300078: epp_pipette_1000_num_3
+    2300080: epp_pipette_1000_num_4
+    2300082: epp_pipette_100_body
+    2300084: epp_pipette_100_button
+    2300086: epp_pipette_100_button_2
+    2300088: epp_pipette_100_label
+    2300090: epp_pipette_100_num_1
+    2300092: epp_pipette_100_num_2
+    2300094: epp_pipette_100_num_3
+    2300096: epp_pipette_100_num_4
+    2300098: epp_pipette_100_num_cut
+    2300100: epp_pipette_100_qt
+    2300102: epp_pipette_10_ani_qt
+    2300104: epp_pipette_10_body
+    2300106: epp_pipette_10_button
+    2300108: epp_pipette_10_button_2
+    2300110: epp_pipette_10_label
+    2300112: epp_pipette_10_num_1
+    2300114: epp_pipette_10_num_2
+    2300116: epp_pipette_10_num_3
+    2300118: epp_pipette_10_num_4
+    2300120: epp_pipette_10_num_cut
+    2300122: epp_pipette_200_body
+    2300124: epp_pipette_200_button
+    2300126: epp_pipette_200_button_2
+    2300128: epp_pipette_200_label
+    2300130: epp_pipette_200_num_1
+    2300132: epp_pipette_200_num_2
+    2300134: epp_pipette_200_num_3
+    2300136: epp_pipette_200_num_4
+    2300138: epp_pipette_200_num_cut
+    2300140: epp_pipette_200_qt
+    2300142: epp_pipette_20_ani_qt
+    2300144: epp_pipette_20_body
+    2300146: epp_pipette_20_button
+    2300148: epp_pipette_20_button_2
+    2300150: epp_pipette_20_label
+    2300152: epp_pipette_20_num_1
+    2300154: epp_pipette_20_num_2
+    2300156: epp_pipette_20_num_3
+    2300158: epp_pipette_20_num_4
+    2300160: epp_pipette_20_num_cut
+    2300162: epp_pipette_5ml__button_2
+    2300164: epp_pipette_5ml_body
+    2300166: epp_pipette_5ml_bq
+    2300168: epp_pipette_5ml_button
+    2300170: epp_pipette_5ml_label
+    2300172: epp_pipette_5ml_num_1
+    2300174: epp_pipette_5ml_num_2
+    2300176: epp_pipette_5ml_num_3
+    2300178: epp_pipette_5ml_num_4
+    2300180: epp_pipette_5ml_tou
+    2300182: HXSY_blb1
+    2300184: HXSY_tuopan2
+    2300186: hz_gz1
+    2300188: hz_gz10
+    2300190: hz_gz11
+    2300192: hz_gz12
+    2300194: hz_gz13
+    2300196: hz_gz14
+    2300198: hz_gz15
+    2300200: hz_gz16
+    2300202: hz_gz2
+    2300204: hz_gz4
+    2300206: hz_gz5
+    2300208: hz_gz6
+    2300210: hz_gz7
+    2300212: hz_gz8
+    2300214: hz_gz9
+    2300216: hz_zt1
+    2300218: hz_zt2
+    2300220: hz_zt3
+    2300222: kongqibeng_1
+    2300224: kongqibeng_2
+    2300226: kongqibeng_3
+    2300228: lfy_yg_xz_2_2_1
+    2300230: lfy_yg_xz_2_2_2
+    2300232: lt
+    2300234: lt_bq
+    2300236: qingjiang_qi
+    2300238: qingjiang_zt
+    2300240: qj_p
+    2300242: rongliangping_100ml_1
+    2300244: rongliangping_100ml_2
+    2300246: rongliangping_100ml_3
+    2300248: rongliangping_100ml_4
+    2300250: rongliangping_100ml_5
+    2300252: sb100_bq
+    2300254: sb100_bq 1
+    2300256: sb100_bq 2
+    2300258: sb100_bq 3
+    2300260: sb100_bq 4
+    2300262: sb100_bq 5
+    2300264: sb100_bq 6
+    2300266: sb100_bq1
+    2300268: sb100_bq1 1
+    2300270: sb100_bq1 2
+    2300272: sb100_bq1 3
+    2300274: sb100_bq1 4
+    2300276: sb100_bq1 5
+    2300278: sb100_bq2
+    2300280: sb100_bq2 1
+    2300282: sb100_bq2 2
+    2300284: sb100_bq2 3
+    2300286: sb100_bq2 4
+    2300288: sb100_bs
+    2300290: sb100_bs 1
+    2300292: sb100_bs 2
+    2300294: sb100_bs 3
+    2300296: sb100_bs 4
+    2300298: sb100_bs 5
+    2300300: sb100_bs 6
+    2300302: sb100_bs 7
+    2300304: sb100_bs1
+    2300306: sb100_yt
+    2300308: sb100_yt 1
+    2300310: sb100_yt 2
+    2300312: sb100_yt 3
+    2300314: sb100_yt 4
+    2300316: sb100_yt 5
+    2300318: sb100_yt 6
+    2300320: shang_bl
+    2300322: shang_bs
+    2300324: st_yt
+    2300326: st_zt
+    2300328: tare_button_1
+    2300330: tare_button_2
+    2300332: tare_button_3
+    2300334: wslst_pg
+    2300336: wslst_zt_1
+    2300338: wslst_zt_2
+    2300340: wslst_zt_3
+    2300342: yaoshi
+    2300344: yaoshi_fenmo
+    2300346: you_bl
+    2300348: you_bs
+    2300350: zuo_bl
+    2300352: zuo_bs
+    3300000: banmayu
+    3300002: bmy_p
+    3300004: chaowang_wang
+    3300006: chaowang_zt
+    3300008: clz_1
+    3300010: clz_2
+    3300012: clz_3
+    3300014: clz_4
+    3300016: clz_5
+    3300018: clz_6
+    3300020: clz_8_1
+    3300022: clz_8_2
+    3300024: clz_9_1
+    3300026: clz_9_2
+    3300028: clz_a1
+    3300030: clz_a2
+    3300032: clz_b1
+    3300034: clz_b2
+    3300036: dztp_ct
+    3300038: dztp_hou
+    3300040: dztp_qian
+    3300042: dztp_sz_1
+    3300044: dztp_sz_2
+    3300046: dztp_sz_3
+    3300048: dztp_sz_4
+    3300050: dztp_sz_5
+    3300052: dztp_sz_6
+    3300054: dztp_sz_7
+    3300056: dztp_sz_g
+    3300058: dztp_x
+    3300060: dztp_zt
+    3300062: Epp_Holder
+    3300064: epp_pipette_1000_ani_qt
+    3300066: epp_pipette_1000_body
+    3300068: epp_pipette_1000_button
+    3300070: epp_pipette_1000_button_2
+    3300072: epp_pipette_1000_label
+    3300074: epp_pipette_1000_num_1
+    3300076: epp_pipette_1000_num_2
+    3300078: epp_pipette_1000_num_3
+    3300080: epp_pipette_1000_num_4
+    3300082: epp_pipette_100_body
+    3300084: epp_pipette_100_button
+    3300086: epp_pipette_100_button_2
+    3300088: epp_pipette_100_label
+    3300090: epp_pipette_100_num_1
+    3300092: epp_pipette_100_num_2
+    3300094: epp_pipette_100_num_3
+    3300096: epp_pipette_100_num_4
+    3300098: epp_pipette_100_num_cut
+    3300100: epp_pipette_100_qt
+    3300102: epp_pipette_10_ani_qt
+    3300104: epp_pipette_10_body
+    3300106: epp_pipette_10_button
+    3300108: epp_pipette_10_button_2
+    3300110: epp_pipette_10_label
+    3300112: epp_pipette_10_num_1
+    3300114: epp_pipette_10_num_2
+    3300116: epp_pipette_10_num_3
+    3300118: epp_pipette_10_num_4
+    3300120: epp_pipette_10_num_cut
+    3300122: epp_pipette_200_body
+    3300124: epp_pipette_200_button
+    3300126: epp_pipette_200_button_2
+    3300128: epp_pipette_200_label
+    3300130: epp_pipette_200_num_1
+    3300132: epp_pipette_200_num_2
+    3300134: epp_pipette_200_num_3
+    3300136: epp_pipette_200_num_4
+    3300138: epp_pipette_200_num_cut
+    3300140: epp_pipette_200_qt
+    3300142: epp_pipette_20_ani_qt
+    3300144: epp_pipette_20_body
+    3300146: epp_pipette_20_button
+    3300148: epp_pipette_20_button_2
+    3300150: epp_pipette_20_label
+    3300152: epp_pipette_20_num_1
+    3300154: epp_pipette_20_num_2
+    3300156: epp_pipette_20_num_3
+    3300158: epp_pipette_20_num_4
+    3300160: epp_pipette_20_num_cut
+    3300162: epp_pipette_5ml__button_2
+    3300164: epp_pipette_5ml_body
+    3300166: epp_pipette_5ml_bq
+    3300168: epp_pipette_5ml_button
+    3300170: epp_pipette_5ml_label
+    3300172: epp_pipette_5ml_num_1
+    3300174: epp_pipette_5ml_num_2
+    3300176: epp_pipette_5ml_num_3
+    3300178: epp_pipette_5ml_num_4
+    3300180: epp_pipette_5ml_tou
+    3300182: HXSY_blb1
+    3300184: HXSY_tuopan2
+    3300186: hz_gz1
+    3300188: hz_gz10
+    3300190: hz_gz11
+    3300192: hz_gz12
+    3300194: hz_gz13
+    3300196: hz_gz14
+    3300198: hz_gz15
+    3300200: hz_gz16
+    3300202: hz_gz2
+    3300204: hz_gz4
+    3300206: hz_gz5
+    3300208: hz_gz6
+    3300210: hz_gz7
+    3300212: hz_gz8
+    3300214: hz_gz9
+    3300216: hz_zt1
+    3300218: hz_zt2
+    3300220: hz_zt3
+    3300222: kongqibeng_1
+    3300224: kongqibeng_2
+    3300226: kongqibeng_3
+    3300228: lfy_yg_xz_2_2_1
+    3300230: lfy_yg_xz_2_2_2
+    3300232: lt
+    3300234: lt_bq
+    3300236: qingjiang_qi
+    3300238: qingjiang_zt
+    3300240: qj_p
+    3300242: rongliangping_100ml_1
+    3300244: rongliangping_100ml_2
+    3300246: rongliangping_100ml_3
+    3300248: rongliangping_100ml_4
+    3300250: rongliangping_100ml_5
+    3300252: sb100_bq
+    3300254: sb100_bq 1
+    3300256: sb100_bq 2
+    3300258: sb100_bq 3
+    3300260: sb100_bq 4
+    3300262: sb100_bq 5
+    3300264: sb100_bq 6
+    3300266: sb100_bq1
+    3300268: sb100_bq1 1
+    3300270: sb100_bq1 2
+    3300272: sb100_bq1 3
+    3300274: sb100_bq1 4
+    3300276: sb100_bq1 5
+    3300278: sb100_bq2
+    3300280: sb100_bq2 1
+    3300282: sb100_bq2 2
+    3300284: sb100_bq2 3
+    3300286: sb100_bq2 4
+    3300288: sb100_bs
+    3300290: sb100_bs 1
+    3300292: sb100_bs 2
+    3300294: sb100_bs 3
+    3300296: sb100_bs 4
+    3300298: sb100_bs 5
+    3300300: sb100_bs 6
+    3300302: sb100_bs 7
+    3300304: sb100_bs1
+    3300306: sb100_yt
+    3300308: sb100_yt 1
+    3300310: sb100_yt 2
+    3300312: sb100_yt 3
+    3300314: sb100_yt 4
+    3300316: sb100_yt 5
+    3300318: sb100_yt 6
+    3300320: shang_bl
+    3300322: shang_bs
+    3300324: st_yt
+    3300326: st_zt
+    3300328: tare_button_1
+    3300330: tare_button_2
+    3300332: tare_button_3
+    3300334: wslst_pg
+    3300336: wslst_zt_1
+    3300338: wslst_zt_2
+    3300340: wslst_zt_3
+    3300342: yaoshi
+    3300344: yaoshi_fenmo
+    3300346: you_bl
+    3300348: you_bs
+    3300350: zuo_bl
+    3300352: zuo_bs
+    4300000: epp_pipette_1000_num_4
+    4300002: epp_pipette_1000_num_3
+    4300004: epp_pipette_1000_num_2
+    4300006: epp_pipette_1000_num_1
+    4300008: epp_pipette_1000_button
+    4300010: epp_pipette_1000_label
+    4300012: epp_pipette_1000_body
+    4300014: epp_pipette_1000_ani_qt
+    4300016: epp_pipette_1000_button_2
+    4300018: epp_pipette_200_qt
+    4300020: epp_pipette_200_num_1
+    4300022: epp_pipette_200_num_2
+    4300024: epp_pipette_200_num_4
+    4300026: epp_pipette_200_num_3
+    4300028: epp_pipette_200_num_cut
+    4300030: epp_pipette_200_body
+    4300032: epp_pipette_200_label
+    4300034: epp_pipette_200_button
+    4300036: epp_pipette_200_button_2
+    4300038: epp_pipette_100_num_1
+    4300040: epp_pipette_100_num_2
+    4300042: epp_pipette_100_num_4
+    4300044: epp_pipette_100_num_3
+    4300046: epp_pipette_100_num_cut
+    4300048: epp_pipette_100_body
+    4300050: epp_pipette_100_label
+    4300052: epp_pipette_100_button
+    4300054: epp_pipette_100_qt
+    4300056: epp_pipette_100_button_2
+    4300058: epp_pipette_20_num_1
+    4300060: epp_pipette_20_num_2
+    4300062: epp_pipette_20_num_3
+    4300064: epp_pipette_20_num_4
+    4300066: epp_pipette_20_num_cut
+    4300068: epp_pipette_20_body
+    4300070: epp_pipette_20_label
+    4300072: epp_pipette_20_button
+    4300074: epp_pipette_20_ani_qt
+    4300076: epp_pipette_20_button_2
+    4300078: epp_pipette_10_num_1
+    4300080: epp_pipette_10_num_2
+    4300082: epp_pipette_10_num_3
+    4300084: epp_pipette_10_num_4
+    4300086: epp_pipette_10_num_cut
+    4300088: epp_pipette_10_body
+    4300090: epp_pipette_10_label
+    4300092: epp_pipette_10_ani_qt
+    4300094: epp_pipette_10_button
+    4300096: epp_pipette_10_button_2
+    4300098: Epp_Holder
+    4300100: epp_pipette_5ml_num_4
+    4300102: epp_pipette_5ml_num_3
+    4300104: epp_pipette_5ml_num_2
+    4300106: epp_pipette_5ml_num_1
+    4300108: epp_pipette_5ml_button
+    4300110: epp_pipette_5ml_label
+    4300112: epp_pipette_5ml_body
+    4300114: epp_pipette_5ml_tou
+    4300116: epp_pipette_5ml_bq
+    4300118: epp_pipette_5ml__button_2
+    4300120: st_zt
+    4300122: st_yt
+    4300124: lt
+    4300126: lt_bq
+    4300128: lfy_yg_xz_2_2_1
+    4300130: lfy_yg_xz_2_2_2
+    4300132: chaowang_wang
+    4300134: chaowang_zt
+    4300136: kongqibeng_1
+    4300138: kongqibeng_2
+    4300140: kongqibeng_3
+    4300142: rongliangping_100ml_1
+    4300144: rongliangping_100ml_2
+    4300146: rongliangping_100ml_3
+    4300148: rongliangping_100ml_4
+    4300150: rongliangping_100ml_5
+    4300152: dztp_x
+    4300154: dztp_ct
+    4300156: dztp_hou
+    4300158: dztp_qian
+    4300160: zuo_bs
+    4300162: zuo_bl
+    4300164: shang_bs
+    4300166: shang_bl
+    4300168: you_bs
+    4300170: you_bl
+    4300172: dztp_sz_g
+    4300174: dztp_sz_1
+    4300176: dztp_sz_2
+    4300178: dztp_sz_3
+    4300180: dztp_sz_4
+    4300182: dztp_sz_5
+    4300184: dztp_sz_6
+    4300186: dztp_sz_7
+    4300188: dztp_zt
+    4300190: tare_button_2
+    4300192: tare_button_1
+    4300194: tare_button_3
+    4300196: wslst_pg
+    4300198: wslst_zt_1
+    4300200: wslst_zt_2
+    4300202: wslst_zt_3
+    4300204: hz_zt1
+    4300206: hz_zt2
+    4300208: hz_zt3
+    4300210: hz_gz1
+    4300212: hz_gz2
+    4300214: hz_gz4
+    4300216: hz_gz5
+    4300218: hz_gz6
+    4300220: hz_gz7
+    4300222: hz_gz8
+    4300224: hz_gz9
+    4300226: hz_gz10
+    4300228: hz_gz11
+    4300230: hz_gz12
+    4300232: hz_gz13
+    4300234: hz_gz14
+    4300236: hz_gz15
+    4300238: hz_gz16
+    4300240: HXSY_tuopan2
+    4300242: HXSY_blb1
+    4300244: clz_1
+    4300246: clz_2
+    4300248: clz_3
+    4300250: clz_4
+    4300252: clz_5
+    4300254: clz_6
+    4300256: clz_a1
+    4300258: clz_a2
+    4300260: clz_b1
+    4300262: clz_b2
+    4300264: clz_8_1
+    4300266: clz_8_2
+    4300268: clz_9_1
+    4300270: clz_9_2
+    4300272: yaoshi_fenmo
+    4300274: yaoshi
+    4300276: banmayu
+    4300278: qingjiang_qi
+    4300280: qingjiang_zt
+    4300282: qj_p
+    4300284: bmy_p
+    4300286: sb100_bs
+    4300288: sb100_bq
+    4300290: sb100_yt
+    4300292: sb100_bq1
+    4300294: sb100_bs
+    4300296: sb100_bq
+    4300298: sb100_yt
+    4300300: sb100_bq1
+    4300302: sb100_bq2
+    4300304: sb100_bs
+    4300306: sb100_bq
+    4300308: sb100_yt
+    4300310: sb100_bq1
+    4300312: sb100_bq2
+    4300314: sb100_bs
+    4300316: sb100_bq
+    4300318: sb100_yt
+    4300320: sb100_bq1
+    4300322: sb100_bq2
+    4300324: sb100_bs
+    4300326: sb100_bq
+    4300328: sb100_yt
+    4300330: sb100_bq1
+    4300332: sb100_bq2
+    4300334: sb100_bs
+    4300336: sb100_bq
+    4300338: sb100_yt
+    4300340: sb100_bq1
+    4300342: sb100_bq2
+    4300344: sb100_bs
+    4300346: sb100_bq
+    4300348: sb100_yt
+    4300350: sb100_bs
+    4300352: sb100_bs1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
